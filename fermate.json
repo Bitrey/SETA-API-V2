@@ -1,0 +1,9202 @@
+[
+    {
+        "nome": "20 settembre",
+        "codice": "MO2454"
+    },
+    {
+        "nome": "22 Aprile",
+        "codice": "MO1820"
+    },
+    {
+        "nome": "22 Aprile bv Manzoni",
+        "codice": "MO1673"
+    },
+    {
+        "nome": "22 Aprile bv Resistenza",
+        "codice": "MO6633"
+    },
+    {
+        "nome": "25 aprile",
+        "codice": "MO3161"
+    },
+    {
+        "nome": "28 Settembre",
+        "codice": "MO2277"
+    },
+    {
+        "nome": "3 Febbraio",
+        "codice": "MO174"
+    },
+    {
+        "nome": "4 novembre",
+        "codice": "MO4715"
+    },
+    {
+        "nome": "9 Gennaio 1950",
+        "codice": "MO97"
+    },
+    {
+        "nome": "Abetone",
+        "codice": "MO4204"
+    },
+    {
+        "nome": "Abetone ceramica",
+        "codice": "MO1733"
+    },
+    {
+        "nome": "Abetone piazza",
+        "codice": "MO4793"
+    },
+    {
+        "nome": "Acqua Sulfurea bv",
+        "codice": "MO1407"
+    },
+    {
+        "nome": "Acquabona",
+        "codice": "MO1374"
+    },
+    {
+        "nome": "Acquaria",
+        "codice": "MO1751"
+    },
+    {
+        "nome": "Acquaria bv",
+        "codice": "MO2039"
+    },
+    {
+        "nome": "Acquedotto",
+        "codice": "MO1690"
+    },
+    {
+        "nome": "Adda",
+        "codice": "MO3351"
+    },
+    {
+        "nome": "Adige",
+        "codice": "MO3714"
+    },
+    {
+        "nome": "Aereoporto",
+        "codice": "MOMO3030"
+    },
+    {
+        "nome": "Aereoporto 1",
+        "codice": "MOMO3036"
+    },
+    {
+        "nome": "Aereoporto inc Boschi",
+        "codice": "MOMO3033"
+    },
+    {
+        "nome": "Aereoporto inc via Viazza",
+        "codice": "MOMO3034"
+    },
+    {
+        "nome": "Al Ponte",
+        "codice": "MO1264"
+    },
+    {
+        "nome": "ALBARETO",
+        "codice": "MO75"
+    },
+    {
+        "nome": "Albareto bv",
+        "codice": "MO424"
+    },
+    {
+        "nome": "Albareto bv Bertola",
+        "codice": "MO2638"
+    },
+    {
+        "nome": "Albareto bv Cimone",
+        "codice": "MO2632"
+    },
+    {
+        "nome": "Albareto bv dell'Acero",
+        "codice": "MO334"
+    },
+    {
+        "nome": "Albareto bv Dotta",
+        "codice": "MO2645"
+    },
+    {
+        "nome": "Albareto bv Munarola",
+        "codice": "MO2643"
+    },
+    {
+        "nome": "Albareto bv Nonantolana",
+        "codice": "MO2630"
+    },
+    {
+        "nome": "Albareto bv Nonatolana",
+        "codice": "MO6250"
+    },
+    {
+        "nome": "Albareto bv Sacerdoti",
+        "codice": "MO2636"
+    },
+    {
+        "nome": "Albareto bv Tagliati",
+        "codice": "MO2637"
+    },
+    {
+        "nome": "Albareto bv Toni",
+        "codice": "MO2639"
+    },
+    {
+        "nome": "Albareto bv Torricella",
+        "codice": "MO2640"
+    },
+    {
+        "nome": "Albareto Chiesa",
+        "codice": "MO333"
+    },
+    {
+        "nome": "Albareto Cimitero",
+        "codice": "MOMO2040"
+    },
+    {
+        "nome": "Albareto di Pavullo",
+        "codice": "MO1831"
+    },
+    {
+        "nome": "Albareto Fertilcoop",
+        "codice": "MO2644"
+    },
+    {
+        "nome": "Albareto Fini",
+        "codice": "MO2653"
+    },
+    {
+        "nome": "Albareto inc Tagliati 1",
+        "codice": "MOMO2046"
+    },
+    {
+        "nome": "Albareto polisportiva",
+        "codice": "MO2641"
+    },
+    {
+        "nome": "Albareto scuola Gramsci",
+        "codice": "MO2633"
+    },
+    {
+        "nome": "Albareto Via Frassino ",
+        "codice": "MOMO2038"
+    },
+    {
+        "nome": "Albareto Via Tagliati 1",
+        "codice": "MOMO2047"
+    },
+    {
+        "nome": "Alberelli",
+        "codice": "MO2181"
+    },
+    {
+        "nome": "Albereto Via Battaglia",
+        "codice": "MOMO2039"
+    },
+    {
+        "nome": "Albergo",
+        "codice": "MO2723"
+    },
+    {
+        "nome": "Albero",
+        "codice": "MO1482"
+    },
+    {
+        "nome": "Aldo Moro",
+        "codice": "MO3594"
+    },
+    {
+        "nome": "Alfieri",
+        "codice": "MOPV984"
+    },
+    {
+        "nome": "Alfieri parcheggio",
+        "codice": "MOPV985"
+    },
+    {
+        "nome": "Alghisi 1",
+        "codice": "MO3381"
+    },
+    {
+        "nome": "Alghisi 2",
+        "codice": "MO3379"
+    },
+    {
+        "nome": "Alienda",
+        "codice": "MO1967"
+    },
+    {
+        "nome": "Allegretti",
+        "codice": "MO101"
+    },
+    {
+        "nome": "Allende bv Don Milani",
+        "codice": "MO2651"
+    },
+    {
+        "nome": "Alpino",
+        "codice": "MO1781"
+    },
+    {
+        "nome": "Altola'",
+        "codice": "MO1406"
+    },
+    {
+        "nome": "Amendola",
+        "codice": "MO2563"
+    },
+    {
+        "nome": "Amendola bv Nievo",
+        "codice": "MO2864"
+    },
+    {
+        "nome": "Amendola bv Tamburini",
+        "codice": "MO2811"
+    },
+    {
+        "nome": "Amendola la Baracchina",
+        "codice": "MO168"
+    },
+    {
+        "nome": "Ancora",
+        "codice": "MO2299"
+    },
+    {
+        "nome": "Ancora 299",
+        "codice": "MO1511"
+    },
+    {
+        "nome": "Ancora bv",
+        "codice": "MO1570"
+    },
+    {
+        "nome": "Anderlini asilo",
+        "codice": "MO6947"
+    },
+    {
+        "nome": "Anderlini centro commerciale",
+        "codice": "MO6948"
+    },
+    {
+        "nome": "Anesino Nord",
+        "codice": "MOMO1004"
+    },
+    {
+        "nome": "Antoniano",
+        "codice": "MO1931"
+    },
+    {
+        "nome": "Appalto",
+        "codice": "MO1003"
+    },
+    {
+        "nome": "Aradonica",
+        "codice": "MO1713"
+    },
+    {
+        "nome": "Araldi bv Emilia Est",
+        "codice": "MO2867"
+    },
+    {
+        "nome": "Araldi bv Speri",
+        "codice": "MO2661"
+    },
+    {
+        "nome": "Aravecchia",
+        "codice": "MO2268"
+    },
+    {
+        "nome": "Ardinale",
+        "codice": "MO1878"
+    },
+    {
+        "nome": "Arginetto",
+        "codice": "MO2387"
+    },
+    {
+        "nome": "Argiolas 1",
+        "codice": "MOMO3093"
+    },
+    {
+        "nome": "Argiolas 2",
+        "codice": "MOMO3094"
+    },
+    {
+        "nome": "Argiolas 3",
+        "codice": "MOMO3095"
+    },
+    {
+        "nome": "ARIETE",
+        "codice": "MO185"
+    },
+    {
+        "nome": "Ariosto",
+        "codice": "MO3473"
+    },
+    {
+        "nome": "Aristotele",
+        "codice": "MO2931"
+    },
+    {
+        "nome": "Arno",
+        "codice": "MO7022"
+    },
+    {
+        "nome": "Artigianato",
+        "codice": "MO3563"
+    },
+    {
+        "nome": "Artigianato bv Ceramisti",
+        "codice": "MO6345"
+    },
+    {
+        "nome": "Artigianato bv Imprenditori",
+        "codice": "MO6370"
+    },
+    {
+        "nome": "Ascari",
+        "codice": "MO3773"
+    },
+    {
+        "nome": "Asioli",
+        "codice": "MO3403"
+    },
+    {
+        "nome": "Attiraglio",
+        "codice": "MO27"
+    },
+    {
+        "nome": "AUSL Centro Servizi",
+        "codice": "MO3776"
+    },
+    {
+        "nome": "Autodromo",
+        "codice": "MO6813"
+    },
+    {
+        "nome": "Autostazione",
+        "codice": "MOMOA"
+    },
+    {
+        "nome": "BACCHINI AUTOSTAZIONE",
+        "codice": "MO6600"
+    },
+    {
+        "nome": "Bacconi",
+        "codice": "MO2093"
+    },
+    {
+        "nome": "Baggi istituto",
+        "codice": "MO2810"
+    },
+    {
+        "nome": "Baggiovara",
+        "codice": "MO726"
+    },
+    {
+        "nome": "Baggiovara 1",
+        "codice": "MO1480"
+    },
+    {
+        "nome": "Baggiovara FP",
+        "codice": "MO2710"
+    },
+    {
+        "nome": "Baia",
+        "codice": "MO273"
+    },
+    {
+        "nome": "Baita Panaro",
+        "codice": "MO1953"
+    },
+    {
+        "nome": "Baldina",
+        "codice": "MO1776"
+    },
+    {
+        "nome": "Bandita",
+        "codice": "MO2037"
+    },
+    {
+        "nome": "Banzuola nuova",
+        "codice": "MO1183"
+    },
+    {
+        "nome": "Bar Belfiore",
+        "codice": "MO323"
+    },
+    {
+        "nome": "Bar Cacciatori Solignano",
+        "codice": "MO1679"
+    },
+    {
+        "nome": "Bar Carbonara",
+        "codice": "MO1151"
+    },
+    {
+        "nome": "Bar Fontanaccia",
+        "codice": "MOPV251"
+    },
+    {
+        "nome": "Bar Pineta",
+        "codice": "MO1696"
+    },
+    {
+        "nome": "Baracche",
+        "codice": "MO1747"
+    },
+    {
+        "nome": "Baraccone",
+        "codice": "MO1089"
+    },
+    {
+        "nome": "Baranzona",
+        "codice": "MO1716"
+    },
+    {
+        "nome": "Barbieri",
+        "codice": "MO1114"
+    },
+    {
+        "nome": "Barchetta",
+        "codice": "MO184"
+    },
+    {
+        "nome": "Barchetta allevamento",
+        "codice": "MO3083"
+    },
+    {
+        "nome": "Barchetta asilo",
+        "codice": "MO3074"
+    },
+    {
+        "nome": "Barchetta bv Anesino",
+        "codice": "MO3077"
+    },
+    {
+        "nome": "Barchetta bv Giglio",
+        "codice": "MO6841"
+    },
+    {
+        "nome": "Barchetta bv Monti",
+        "codice": "MO3979"
+    },
+    {
+        "nome": "Barchetta bv Ponte Alto nord",
+        "codice": "MO3081"
+    },
+    {
+        "nome": "Barchetta Nelson",
+        "codice": "MO3075"
+    },
+    {
+        "nome": "Barchetta Progeo",
+        "codice": "MO3086"
+    },
+    {
+        "nome": "Barchetta Tre Olmi centro",
+        "codice": "MO3087"
+    },
+    {
+        "nome": "Barigazzo",
+        "codice": "MO2011"
+    },
+    {
+        "nome": "Barigazzo 1",
+        "codice": "MO3821"
+    },
+    {
+        "nome": "Barozzi bv Rangoni",
+        "codice": "MO2871"
+    },
+    {
+        "nome": "Barozzi bv Setti",
+        "codice": "MO2869"
+    },
+    {
+        "nome": "Barozzi Planetario",
+        "codice": "MO2868"
+    },
+    {
+        "nome": "Barozzi scuola",
+        "codice": "MO2403"
+    },
+    {
+        "nome": "Barozzi scuole",
+        "codice": "MO1187"
+    },
+    {
+        "nome": "Bastiglia",
+        "codice": "MO100"
+    },
+    {
+        "nome": "Bastiglia bv",
+        "codice": "MO324"
+    },
+    {
+        "nome": "Bastiglia Cantone",
+        "codice": "MO325"
+    },
+    {
+        "nome": "Bastiglia Scuole",
+        "codice": "MO1592"
+    },
+    {
+        "nome": "Bastiglia statale",
+        "codice": "MO338"
+    },
+    {
+        "nome": "Battaglia",
+        "codice": "MO1439"
+    },
+    {
+        "nome": "Bazzano confine",
+        "codice": "MO1127"
+    },
+    {
+        "nome": "Bazzano FP",
+        "codice": "MO3545"
+    },
+    {
+        "nome": "Bazzano zuccherificio",
+        "codice": "MO3537"
+    },
+    {
+        "nome": "Bazzini",
+        "codice": "MO1082"
+    },
+    {
+        "nome": "Beccastecca",
+        "codice": "MO1392"
+    },
+    {
+        "nome": "Bedagna",
+        "codice": "MO386"
+    },
+    {
+        "nome": "Bell'Italia",
+        "codice": "MO1069"
+    },
+    {
+        "nome": "Bellaria 2",
+        "codice": "MOMO4094"
+    },
+    {
+        "nome": "Bellaria 4",
+        "codice": "MOMO3098"
+    },
+    {
+        "nome": "Bellei",
+        "codice": "MOPV955"
+    },
+    {
+        "nome": "Bellicina",
+        "codice": "MO322"
+    },
+    {
+        "nome": "Bellini",
+        "codice": "MO1639"
+    },
+    {
+        "nome": "Beltrami",
+        "codice": "MO2905"
+    },
+    {
+        "nome": "Belvedere",
+        "codice": "MO1722"
+    },
+    {
+        "nome": "Belvedere di Pavullo",
+        "codice": "MO1826"
+    },
+    {
+        "nome": "Benedello",
+        "codice": "MO1888"
+    },
+    {
+        "nome": "Beneverchio",
+        "codice": "MOPV852"
+    },
+    {
+        "nome": "Benzi bv",
+        "codice": "MO449"
+    },
+    {
+        "nome": "Benzinaio",
+        "codice": "MO5708"
+    },
+    {
+        "nome": "Berengario Universita",
+        "codice": "MO2573"
+    },
+    {
+        "nome": "Berengario Universita'",
+        "codice": "MO6113"
+    },
+    {
+        "nome": "Berlette",
+        "codice": "MO1498"
+    },
+    {
+        "nome": "Berlinguer",
+        "codice": "MO2987"
+    },
+    {
+        "nome": "Berso Delle Rose",
+        "codice": "MO1058"
+    },
+    {
+        "nome": "Bertocchi Bar",
+        "codice": "MO1965"
+    },
+    {
+        "nome": "Bettolino",
+        "codice": "MO1113"
+    },
+    {
+        "nome": "Bettolino di Montese",
+        "codice": "MO3692"
+    },
+    {
+        "nome": "Bettolino scuole",
+        "codice": "MO1115"
+    },
+    {
+        "nome": "Biondo 1",
+        "codice": "MO3057"
+    },
+    {
+        "nome": "Biondo 2",
+        "codice": "MO3059"
+    },
+    {
+        "nome": "Bisighini bv",
+        "codice": "MO124"
+    },
+    {
+        "nome": "Bivio Ca Luppo",
+        "codice": "MOPV613"
+    },
+    {
+        "nome": "Bivio Casa Geminiano",
+        "codice": "MOPV707"
+    },
+    {
+        "nome": "Bivio Niviano Alto",
+        "codice": "MOPV281"
+    },
+    {
+        "nome": "Bivio S.P. Verica Fondovalle",
+        "codice": "MOPV229"
+    },
+    {
+        "nome": "Bocca dei Ravari",
+        "codice": "MO3390"
+    },
+    {
+        "nome": "Bocca di Borre",
+        "codice": "MO1014"
+    },
+    {
+        "nome": "Boccaccio",
+        "codice": "MO2240"
+    },
+    {
+        "nome": "Boccaccio 1",
+        "codice": "MO2241"
+    },
+    {
+        "nome": "Boccassuolo",
+        "codice": "MO1731"
+    },
+    {
+        "nome": "Bocciodromo",
+        "codice": "MO7001"
+    },
+    {
+        "nome": "Bollitora 1",
+        "codice": "MO3409"
+    },
+    {
+        "nome": "Bollitora 2",
+        "codice": "MO3212"
+    },
+    {
+        "nome": "Bollitora 3",
+        "codice": "MO3051"
+    },
+    {
+        "nome": "Bollitora 4",
+        "codice": "MO3053"
+    },
+    {
+        "nome": "Bologna scuole",
+        "codice": "MO904"
+    },
+    {
+        "nome": "Bompanara",
+        "codice": "MO1016"
+    },
+    {
+        "nome": "Bomporto",
+        "codice": "MO68"
+    },
+    {
+        "nome": "Bomporto monumento",
+        "codice": "MO343"
+    },
+    {
+        "nome": "Bomporto scuole",
+        "codice": "MO903"
+    },
+    {
+        "nome": "Bomporto zona industriale",
+        "codice": "MO3127"
+    },
+    {
+        "nome": "Bonacini",
+        "codice": "MO2607"
+    },
+    {
+        "nome": "Bonaghino",
+        "codice": "MOMO4096"
+    },
+    {
+        "nome": "Bora",
+        "codice": "MO1838"
+    },
+    {
+        "nome": "Borella bv",
+        "codice": "MO2007"
+    },
+    {
+        "nome": "Borelle 105",
+        "codice": "MO6754"
+    },
+    {
+        "nome": "Borelle 108",
+        "codice": "MO6751"
+    },
+    {
+        "nome": "Borelle 115",
+        "codice": "MO2909"
+    },
+    {
+        "nome": "Borelle 190",
+        "codice": "MO6753"
+    },
+    {
+        "nome": "Borelle bv Corletto",
+        "codice": "MO2912"
+    },
+    {
+        "nome": "Borelli piazza",
+        "codice": "MO1595"
+    },
+    {
+        "nome": "Borghetto",
+        "codice": "MOM65"
+    },
+    {
+        "nome": "Borgnetto",
+        "codice": "MO1074"
+    },
+    {
+        "nome": "Borgo",
+        "codice": "MO1632"
+    },
+    {
+        "nome": "Borgo Ferro",
+        "codice": "MO482"
+    },
+    {
+        "nome": "Borgo Nuovo",
+        "codice": "MO2196"
+    },
+    {
+        "nome": "Borgo Venezia",
+        "codice": "MO2307"
+    },
+    {
+        "nome": "Borra",
+        "codice": "MO1741"
+    },
+    {
+        "nome": "Borra alta",
+        "codice": "MO1743"
+    },
+    {
+        "nome": "Borra di Ronco",
+        "codice": "MO2028"
+    },
+    {
+        "nome": "Bortolucci",
+        "codice": "MO2381"
+    },
+    {
+        "nome": "Boschi",
+        "codice": "MO1476"
+    },
+    {
+        "nome": "Boschina caseificio",
+        "codice": "MO434"
+    },
+    {
+        "nome": "Bottega di Mezzo",
+        "codice": "MO1004"
+    },
+    {
+        "nome": "Bottega Guerzoni",
+        "codice": "MO446"
+    },
+    {
+        "nome": "Bottega Nuova",
+        "codice": "MO1240"
+    },
+    {
+        "nome": "Bottega Secchia",
+        "codice": "MO1118"
+    },
+    {
+        "nome": "Bottega sei",
+        "codice": "MO492"
+    },
+    {
+        "nome": "Botteghetto",
+        "codice": "MO1444"
+    },
+    {
+        "nome": "Botteghino",
+        "codice": "MO2372"
+    },
+    {
+        "nome": "Bottegone",
+        "codice": "MOPV755"
+    },
+    {
+        "nome": "Bozza",
+        "codice": "MO3694"
+    },
+    {
+        "nome": "Bracciano",
+        "codice": "MO3439"
+    },
+    {
+        "nome": "Braghiroli",
+        "codice": "MO207"
+    },
+    {
+        "nome": "Braglia",
+        "codice": "MO1350"
+    },
+    {
+        "nome": "Braglie 1265",
+        "codice": "MO1409"
+    },
+    {
+        "nome": "Braglie 518",
+        "codice": "MO1411"
+    },
+    {
+        "nome": "Braida bv Adige",
+        "codice": "MO2465"
+    },
+    {
+        "nome": "Braida Ist. Baggi",
+        "codice": "MO2309"
+    },
+    {
+        "nome": "Braida Lavatoio",
+        "codice": "MO2244"
+    },
+    {
+        "nome": "Brodano",
+        "codice": "MO2409"
+    },
+    {
+        "nome": "Bruciate",
+        "codice": "MO711"
+    },
+    {
+        "nome": "Bruino bv Gandi",
+        "codice": "MO3111"
+    },
+    {
+        "nome": "Brumatti",
+        "codice": "MO2199"
+    },
+    {
+        "nome": "Brunelleschi",
+        "codice": "MO3557"
+    },
+    {
+        "nome": "Bucaneve",
+        "codice": "MO2169"
+    },
+    {
+        "nome": "Budria",
+        "codice": "MO1821"
+    },
+    {
+        "nome": "Budrigone",
+        "codice": "MO1796"
+    },
+    {
+        "nome": "Budrione",
+        "codice": "MO450"
+    },
+    {
+        "nome": "Budrione bv",
+        "codice": "MO4615"
+    },
+    {
+        "nome": "Budrione scuole",
+        "codice": "MO454"
+    },
+    {
+        "nome": "Budrione Scuole 1",
+        "codice": "MOC214"
+    },
+    {
+        "nome": "Budrione Via Chiesa Vecchia",
+        "codice": "MOC240"
+    },
+    {
+        "nome": "Buon Pastore bv Amendola",
+        "codice": "MO2782"
+    },
+    {
+        "nome": "Buon Pastore bv Domenichino",
+        "codice": "MO2781"
+    },
+    {
+        "nome": "Buon Pastore bv Peretti",
+        "codice": "MO2777"
+    },
+    {
+        "nome": "Buon Pastore Portici",
+        "codice": "MO2779"
+    },
+    {
+        "nome": "Burgone",
+        "codice": "MO2070"
+    },
+    {
+        "nome": "Bursi scuola",
+        "codice": "MO1623"
+    },
+    {
+        "nome": "bv Casa Storto",
+        "codice": "MO2369"
+    },
+    {
+        "nome": "bv Gronda del mare",
+        "codice": "MO3789"
+    },
+    {
+        "nome": "Bv Le Polle",
+        "codice": "MO2031"
+    },
+    {
+        "nome": "bv San Rocco",
+        "codice": "MO3512"
+    },
+    {
+        "nome": "Bv Sestola medie",
+        "codice": "MO3526"
+    },
+    {
+        "nome": "Bv Via Lughetto",
+        "codice": "MOPV467"
+    },
+    {
+        "nome": "Bv Zoppo",
+        "codice": "MO4723"
+    },
+    {
+        "nome": "Bv. Case Trentino",
+        "codice": "MOPV365"
+    },
+    {
+        "nome": "Bv. Lughetto",
+        "codice": "MOPV481"
+    },
+    {
+        "nome": "Ca d'Olina",
+        "codice": "MOPV417"
+    },
+    {
+        "nome": "Ca del Vento",
+        "codice": "MOPV975"
+    },
+    {
+        "nome": "Ca Golini",
+        "codice": "MOPV357"
+    },
+    {
+        "nome": "Ca Luppo",
+        "codice": "MOPV723"
+    },
+    {
+        "nome": "Ca Mariani",
+        "codice": "MO3276"
+    },
+    {
+        "nome": "Ca Marta",
+        "codice": "MO3782"
+    },
+    {
+        "nome": "Ca Matta",
+        "codice": "MOPV409"
+    },
+    {
+        "nome": "Ca Matta 1",
+        "codice": "MOPV411"
+    },
+    {
+        "nome": "Ca Vignali",
+        "codice": "MO1913"
+    },
+    {
+        "nome": "Ca' Bianca",
+        "codice": "MO1040"
+    },
+    {
+        "nome": "Ca' Bianca scuole",
+        "codice": "MO1158"
+    },
+    {
+        "nome": "Ca' Bocci",
+        "codice": "MO1485"
+    },
+    {
+        "nome": "Ca' Cerredolo",
+        "codice": "MO1861"
+    },
+    {
+        "nome": "Ca' Ciocchi",
+        "codice": "MO2077"
+    },
+    {
+        "nome": "Ca' D'Olina",
+        "codice": "MO1778"
+    },
+    {
+        "nome": "Ca' De Coppi",
+        "codice": "MO1170"
+    },
+    {
+        "nome": "Ca' De Villa",
+        "codice": "MO1231"
+    },
+    {
+        "nome": "Ca' Del Bosco",
+        "codice": "MO1855"
+    },
+    {
+        "nome": "Ca' del Cristo",
+        "codice": "MO1675"
+    },
+    {
+        "nome": "Ca' del Fabbro",
+        "codice": "MO1341"
+    },
+    {
+        "nome": "Ca' del Merlo",
+        "codice": "MO1613"
+    },
+    {
+        "nome": "CA' Del Vento",
+        "codice": "MO1970"
+    },
+    {
+        "nome": "Ca' Dell'Aglio",
+        "codice": "MO1803"
+    },
+    {
+        "nome": "Ca' di Giannasi",
+        "codice": "MO1676"
+    },
+    {
+        "nome": "Ca' di Sola",
+        "codice": "MO1730"
+    },
+    {
+        "nome": "Ca' Facchini",
+        "codice": "MO1678"
+    },
+    {
+        "nome": "Ca' Ferioli",
+        "codice": "MO1985"
+    },
+    {
+        "nome": "Ca' Giampellegrino",
+        "codice": "MO1525"
+    },
+    {
+        "nome": "Ca' Ivo",
+        "codice": "MO2083"
+    },
+    {
+        "nome": "Ca' Maggio",
+        "codice": "MO1528"
+    },
+    {
+        "nome": "Ca' Molza",
+        "codice": "MO2397"
+    },
+    {
+        "nome": "Ca' Stefani",
+        "codice": "MO3440"
+    },
+    {
+        "nome": "Cabassi",
+        "codice": "MO3459"
+    },
+    {
+        "nome": "Cabianca",
+        "codice": "MO1448"
+    },
+    {
+        "nome": "Cabina",
+        "codice": "MO1393"
+    },
+    {
+        "nome": "Cacciatori trattoria",
+        "codice": "MO440"
+    },
+    {
+        "nome": "Cadagnolo",
+        "codice": "MO2165"
+    },
+    {
+        "nome": "Cadiane 4",
+        "codice": "MOMO3071"
+    },
+    {
+        "nome": "Cadiane 6",
+        "codice": "MOMO3074"
+    },
+    {
+        "nome": "Cadiane 7",
+        "codice": "MOMO3076"
+    },
+    {
+        "nome": "Cadiane inc Senni",
+        "codice": "MOMO3073"
+    },
+    {
+        "nome": "Cadiane inc Stradella",
+        "codice": "MOMO3069"
+    },
+    {
+        "nome": "Cadignano",
+        "codice": "MO1584"
+    },
+    {
+        "nome": "Caduti in guerra",
+        "codice": "MO2589"
+    },
+    {
+        "nome": "Caduti in guerra giardini",
+        "codice": "MO2611"
+    },
+    {
+        "nome": "Caduti in guerra orto botanico",
+        "codice": "MO2596"
+    },
+    {
+        "nome": "Caduti in guerra Tempio",
+        "codice": "MO2587"
+    },
+    {
+        "nome": "Caduti senza Croce",
+        "codice": "MO6682"
+    },
+    {
+        "nome": "Caduti sul Lavoro BNL",
+        "codice": "MO6336"
+    },
+    {
+        "nome": "Caduti sul Lavoro bv Romano",
+        "codice": "MO2698"
+    },
+    {
+        "nome": "Caduti sul Lavoro bv Wagner",
+        "codice": "MO2699"
+    },
+    {
+        "nome": "Cai",
+        "codice": "MO1031"
+    },
+    {
+        "nome": "Cairoli",
+        "codice": "MO2532"
+    },
+    {
+        "nome": "Calanca",
+        "codice": "MO1094"
+    },
+    {
+        "nome": "Calatafimi",
+        "codice": "MO1515"
+    },
+    {
+        "nome": "California",
+        "codice": "MO1824"
+    },
+    {
+        "nome": "Camatta",
+        "codice": "MO1787"
+    },
+    {
+        "nome": "Camatta 1",
+        "codice": "MO3567"
+    },
+    {
+        "nome": "Camere Ardenti",
+        "codice": "MO3605"
+    },
+    {
+        "nome": "Camil",
+        "codice": "MO286"
+    },
+    {
+        "nome": "Campagna",
+        "codice": "MO2904"
+    },
+    {
+        "nome": "Campanella Conad",
+        "codice": "MOPV945"
+    },
+    {
+        "nome": "Campi nuovi",
+        "codice": "MO1671"
+    },
+    {
+        "nome": "Campi Universita",
+        "codice": "MO219"
+    },
+    {
+        "nome": "Campiano",
+        "codice": "MO1344"
+    },
+    {
+        "nome": "Campiano scuole",
+        "codice": "MO1345"
+    },
+    {
+        "nome": "Campichiara",
+        "codice": "MO1883"
+    },
+    {
+        "nome": "Campidello",
+        "codice": "MO1664"
+    },
+    {
+        "nome": "Campiglio bv",
+        "codice": "MO1201"
+    },
+    {
+        "nome": "Campo Cardero",
+        "codice": "MO1581"
+    },
+    {
+        "nome": "Campo D'Aviazione",
+        "codice": "MO1351"
+    },
+    {
+        "nome": "Campo Lungo",
+        "codice": "MO1526"
+    },
+    {
+        "nome": "Campo Sportivo",
+        "codice": "MO1416"
+    },
+    {
+        "nome": "Campogalliano",
+        "codice": "MO4920"
+    },
+    {
+        "nome": "Camposanto",
+        "codice": "MO3433"
+    },
+    {
+        "nome": "Camposanto Cimitero",
+        "codice": "MO163"
+    },
+    {
+        "nome": "Camposanto Ind.",
+        "codice": "MO2246"
+    },
+    {
+        "nome": "Camurana",
+        "codice": "MO509"
+    },
+    {
+        "nome": "Camurana stazione",
+        "codice": "MO1020"
+    },
+    {
+        "nome": "Canalaccia",
+        "codice": "MO2138"
+    },
+    {
+        "nome": "Canalazzo",
+        "codice": "MO1120"
+    },
+    {
+        "nome": "Canalchiaro bv Bertolda",
+        "codice": "MO2585"
+    },
+    {
+        "nome": "Canalchiaro S.Francesco",
+        "codice": "MO2586"
+    },
+    {
+        "nome": "Canale",
+        "codice": "MOM61"
+    },
+    {
+        "nome": "Canaletto",
+        "codice": "MO1130"
+    },
+    {
+        "nome": "Canaletto bv Soratore",
+        "codice": "MO23"
+    },
+    {
+        "nome": "Canaletto cantina Chiarli",
+        "codice": "MO3151"
+    },
+    {
+        "nome": "Canaletto Centro",
+        "codice": "MOMO2010"
+    },
+    {
+        "nome": "Canaletto Coop",
+        "codice": "MO25"
+    },
+    {
+        "nome": "Canaletto Fiat",
+        "codice": "MO576"
+    },
+    {
+        "nome": "Canaletto scuole",
+        "codice": "MO1132"
+    },
+    {
+        "nome": "Canalgrande Biblioteca",
+        "codice": "MO2582"
+    },
+    {
+        "nome": "Canalgrande bv Emilia Est",
+        "codice": "MO2569"
+    },
+    {
+        "nome": "Canavaccia",
+        "codice": "MO2201"
+    },
+    {
+        "nome": "Candia",
+        "codice": "MO476"
+    },
+    {
+        "nome": "Canneto",
+        "codice": "MO1138"
+    },
+    {
+        "nome": "Canonica",
+        "codice": "MO1532"
+    },
+    {
+        "nome": "Canovetta",
+        "codice": "MO3693"
+    },
+    {
+        "nome": "Cantina",
+        "codice": "MO1298"
+    },
+    {
+        "nome": "Cantone",
+        "codice": "MO1164"
+    },
+    {
+        "nome": "Cantone bv",
+        "codice": "MO1845"
+    },
+    {
+        "nome": "Cantone di Mugnano",
+        "codice": "MO1440"
+    },
+    {
+        "nome": "Cantone Via Fornaci Carrobbio",
+        "codice": "MOC300"
+    },
+    {
+        "nome": "Cantoniera",
+        "codice": "MO1019"
+    },
+    {
+        "nome": "Cantoniera Vecchia",
+        "codice": "MO4797"
+    },
+    {
+        "nome": "Cap. MONTEFIORINO",
+        "codice": "MO3799"
+    },
+    {
+        "nome": "Capanna",
+        "codice": "MO1633"
+    },
+    {
+        "nome": "Capanne",
+        "codice": "MO1373"
+    },
+    {
+        "nome": "Capitani",
+        "codice": "MO113"
+    },
+    {
+        "nome": "Capolinea Gottardi",
+        "codice": "MOMO4016"
+    },
+    {
+        "nome": "Cappelletta",
+        "codice": "MO1422"
+    },
+    {
+        "nome": "Cappuccini",
+        "codice": "MO4904"
+    },
+    {
+        "nome": "Carabinieri",
+        "codice": "MO3011"
+    },
+    {
+        "nome": "Carceri",
+        "codice": "MO6880"
+    },
+    {
+        "nome": "Caribe",
+        "codice": "MO1562"
+    },
+    {
+        "nome": "Carpi Terminal Autostazione",
+        "codice": "MOC40"
+    },
+    {
+        "nome": "CARPI TERMINAL BUS",
+        "codice": "MO403"
+    },
+    {
+        "nome": "Carpi Tre Via Ponti",
+        "codice": "MOC145"
+    },
+    {
+        "nome": "Carpi Via C. Marx  Polizia Parcheggio",
+        "codice": "MOC333"
+    },
+    {
+        "nome": "Carpi Via Carducci",
+        "codice": "MOC51"
+    },
+    {
+        "nome": "Carpi Via Nicolo Biondo",
+        "codice": "MOC50"
+    },
+    {
+        "nome": "Carpi Via Tre Ponti",
+        "codice": "MOC144"
+    },
+    {
+        "nome": "Carrobbio",
+        "codice": "MO1051"
+    },
+    {
+        "nome": "Carrozzeria Barbi",
+        "codice": "MO1064"
+    },
+    {
+        "nome": "Carrozzeria Pico",
+        "codice": "MO1814"
+    },
+    {
+        "nome": "Cartiera",
+        "codice": "MO2085"
+    },
+    {
+        "nome": "Cartiera Santi",
+        "codice": "MO1836"
+    },
+    {
+        "nome": "Caruso AEA",
+        "codice": "MOMO2051"
+    },
+    {
+        "nome": "Casa Aloia",
+        "codice": "MO1227"
+    },
+    {
+        "nome": "Casa Azzoni",
+        "codice": "MO1860"
+    },
+    {
+        "nome": "Casa Badoglio",
+        "codice": "MO1249"
+    },
+    {
+        "nome": "Casa Baiocchi",
+        "codice": "MO1337"
+    },
+    {
+        "nome": "Casa Balugani",
+        "codice": "MO384"
+    },
+    {
+        "nome": "Casa Baracca",
+        "codice": "MOPV761"
+    },
+    {
+        "nome": "Casa Baraldi",
+        "codice": "MO351"
+    },
+    {
+        "nome": "Casa Barbati",
+        "codice": "MO1561"
+    },
+    {
+        "nome": "Casa Barduzzi",
+        "codice": "MO1635"
+    },
+    {
+        "nome": "Casa Barduzzi Olina",
+        "codice": "MO1774"
+    },
+    {
+        "nome": "Casa Bartolacelli",
+        "codice": "MO1175"
+    },
+    {
+        "nome": "Casa Bartolacelli di sotto",
+        "codice": "MO3253"
+    },
+    {
+        "nome": "Casa Bartolacelli di sotto 1",
+        "codice": "MO3260"
+    },
+    {
+        "nome": "Casa Battistini",
+        "codice": "MO1907"
+    },
+    {
+        "nome": "Casa Bea",
+        "codice": "MO1894"
+    },
+    {
+        "nome": "Casa Becchelli",
+        "codice": "MO1977"
+    },
+    {
+        "nome": "Casa Bellei",
+        "codice": "MO1357"
+    },
+    {
+        "nome": "Casa Belloi Boschetti",
+        "codice": "MOPV753"
+    },
+    {
+        "nome": "Casa Beltrami",
+        "codice": "MO4916"
+    },
+    {
+        "nome": "Casa Belvedere",
+        "codice": "MO1335"
+    },
+    {
+        "nome": "Casa Benventi",
+        "codice": "MO2374"
+    },
+    {
+        "nome": "Casa Bernini",
+        "codice": "MO1542"
+    },
+    {
+        "nome": "Casa Bettini",
+        "codice": "MO1921"
+    },
+    {
+        "nome": "Casa bianca",
+        "codice": "MO2155"
+    },
+    {
+        "nome": "Casa Bighini",
+        "codice": "MO1199"
+    },
+    {
+        "nome": "Casa Bocchi",
+        "codice": "MO1579"
+    },
+    {
+        "nome": "Casa Bognino",
+        "codice": "MO2419"
+    },
+    {
+        "nome": "Casa Bonci",
+        "codice": "MO1524"
+    },
+    {
+        "nome": "Casa Bonetti",
+        "codice": "MO1316"
+    },
+    {
+        "nome": "Casa Bonetti 1",
+        "codice": "MO1332"
+    },
+    {
+        "nome": "Casa Borelli",
+        "codice": "MO1585"
+    },
+    {
+        "nome": "Casa Bortolani",
+        "codice": "MO1619"
+    },
+    {
+        "nome": "Casa Bortolini",
+        "codice": "MO1145"
+    },
+    {
+        "nome": "Casa Bortolucci",
+        "codice": "MOPV720"
+    },
+    {
+        "nome": "Casa Bosi",
+        "codice": "MO1289"
+    },
+    {
+        "nome": "Casa Botti",
+        "codice": "MO1874"
+    },
+    {
+        "nome": "Casa Busia",
+        "codice": "MO2185"
+    },
+    {
+        "nome": "Casa Busotto",
+        "codice": "MO1759"
+    },
+    {
+        "nome": "Casa Bussoli",
+        "codice": "MO1935"
+    },
+    {
+        "nome": "Casa Cabri",
+        "codice": "MO1605"
+    },
+    {
+        "nome": "Casa Calanca",
+        "codice": "MO1847"
+    },
+    {
+        "nome": "Casa Calcina",
+        "codice": "MO1669"
+    },
+    {
+        "nome": "Casa Candelli",
+        "codice": "MO1872"
+    },
+    {
+        "nome": "Casa Canovi",
+        "codice": "MO1738"
+    },
+    {
+        "nome": "Casa Cantoniera",
+        "codice": "MO1280"
+    },
+    {
+        "nome": "Casa Cappelli",
+        "codice": "MO1271"
+    },
+    {
+        "nome": "Casa Carzoli",
+        "codice": "MO2149"
+    },
+    {
+        "nome": "Casa Casoni Polinago",
+        "codice": "MO1812"
+    },
+    {
+        "nome": "Casa Casoni Pompeano",
+        "codice": "MO2371"
+    },
+    {
+        "nome": "Casa Cavallaro",
+        "codice": "MO1322"
+    },
+    {
+        "nome": "Casa Cecchino",
+        "codice": "MO1735"
+    },
+    {
+        "nome": "Casa Chiezzi",
+        "codice": "MOPV349"
+    },
+    {
+        "nome": "Casa Cinqui",
+        "codice": "MO1736"
+    },
+    {
+        "nome": "Casa Colonica",
+        "codice": "MO1654"
+    },
+    {
+        "nome": "Casa Corradini",
+        "codice": "MO1494"
+    },
+    {
+        "nome": "Casa Cristina",
+        "codice": "MO3695"
+    },
+    {
+        "nome": "Casa del Dottore",
+        "codice": "MO1616"
+    },
+    {
+        "nome": "Casa del Popolo",
+        "codice": "MO1843"
+    },
+    {
+        "nome": "Casa Dell'Oste",
+        "codice": "MO1655"
+    },
+    {
+        "nome": "Casa della Russa",
+        "codice": "MO2139"
+    },
+    {
+        "nome": "Casa dello Studente",
+        "codice": "MO6312"
+    },
+    {
+        "nome": "Casa Doddi",
+        "codice": "MO2055"
+    },
+    {
+        "nome": "Casa Duca",
+        "codice": "MO1137"
+    },
+    {
+        "nome": "Casa Duchi",
+        "codice": "MO1065"
+    },
+    {
+        "nome": "Casa Fabbro",
+        "codice": "MO1958"
+    },
+    {
+        "nome": "Casa Ferrari",
+        "codice": "MO1911"
+    },
+    {
+        "nome": "Casa Fontanazzi",
+        "codice": "MO1287"
+    },
+    {
+        "nome": "Casa Forlai",
+        "codice": "MO2113"
+    },
+    {
+        "nome": "Casa Fossi",
+        "codice": "MO2164"
+    },
+    {
+        "nome": "Casa Geti",
+        "codice": "MO2061"
+    },
+    {
+        "nome": "Casa Ghelfi",
+        "codice": "MO336"
+    },
+    {
+        "nome": "Casa Ghinozzi",
+        "codice": "MO2163"
+    },
+    {
+        "nome": "Casa Giannini",
+        "codice": "MO1318"
+    },
+    {
+        "nome": "Casa Gigli",
+        "codice": "MO1575"
+    },
+    {
+        "nome": "Casa Gino",
+        "codice": "MO2121"
+    },
+    {
+        "nome": "Casa Giovannetti",
+        "codice": "MO1259"
+    },
+    {
+        "nome": "Casa Golini",
+        "codice": "MO1306"
+    },
+    {
+        "nome": "Casa Grenzi",
+        "codice": "MO3645"
+    },
+    {
+        "nome": "Casa Grossi",
+        "codice": "MO1279"
+    },
+    {
+        "nome": "Casa Guiglia",
+        "codice": "MO1999"
+    },
+    {
+        "nome": "Casa Lenzotti",
+        "codice": "MO1537"
+    },
+    {
+        "nome": "Casa Leoni",
+        "codice": "MO1154"
+    },
+    {
+        "nome": "Casa Lorenzone (Casellette)",
+        "codice": "MOPV252"
+    },
+    {
+        "nome": "Casa Lugari",
+        "codice": "MO1251"
+    },
+    {
+        "nome": "Casa Maestri",
+        "codice": "MOPV751"
+    },
+    {
+        "nome": "Casa Malagoli",
+        "codice": "MO387"
+    },
+    {
+        "nome": "Casa Malverti",
+        "codice": "MO307"
+    },
+    {
+        "nome": "Casa Manfrinai",
+        "codice": "MO2104"
+    },
+    {
+        "nome": "Casa Marchesi",
+        "codice": "MO1789"
+    },
+    {
+        "nome": "Casa Marchetti",
+        "codice": "MO1165"
+    },
+    {
+        "nome": "Casa Marchiori",
+        "codice": "MO2177"
+    },
+    {
+        "nome": "Casa Marco",
+        "codice": "MO2153"
+    },
+    {
+        "nome": "Casa Marconi",
+        "codice": "MO1307"
+    },
+    {
+        "nome": "Casa Marini",
+        "codice": "MO1611"
+    },
+    {
+        "nome": "Casa Matteazzi",
+        "codice": "MO1257"
+    },
+    {
+        "nome": "Casa Matteazzi bv",
+        "codice": "MO1148"
+    },
+    {
+        "nome": "Casa Mazzanti",
+        "codice": "MO1295"
+    },
+    {
+        "nome": "Casa Mazzini",
+        "codice": "MO2084"
+    },
+    {
+        "nome": "Casa Mingucci",
+        "codice": "MO1996"
+    },
+    {
+        "nome": "Casa Miro",
+        "codice": "MO1971"
+    },
+    {
+        "nome": "Casa Monte",
+        "codice": "MO1549"
+    },
+    {
+        "nome": "Casa Natale",
+        "codice": "MOPV479"
+    },
+    {
+        "nome": "Casa Nuova",
+        "codice": "MO1844"
+    },
+    {
+        "nome": "Casa Nuova Castagneto",
+        "codice": "MO1336"
+    },
+    {
+        "nome": "Casa nuova Gombola",
+        "codice": "MO1274"
+    },
+    {
+        "nome": "Casa Nuova Pompeano",
+        "codice": "MO2370"
+    },
+    {
+        "nome": "Casa Nuova Saletto",
+        "codice": "MO1487"
+    },
+    {
+        "nome": "Casa Oppi",
+        "codice": "MO1867"
+    },
+    {
+        "nome": "Casa Paderno",
+        "codice": "MO1405"
+    },
+    {
+        "nome": "Casa Panini",
+        "codice": "MO1652"
+    },
+    {
+        "nome": "Casa Pasini",
+        "codice": "MO1802"
+    },
+    {
+        "nome": "Casa Pattarozzi",
+        "codice": "MO1915"
+    },
+    {
+        "nome": "Casa Pianelli",
+        "codice": "MO3294"
+    },
+    {
+        "nome": "Casa Piccola scuola",
+        "codice": "MO1278"
+    },
+    {
+        "nome": "Casa Piedino",
+        "codice": "MO2186"
+    },
+    {
+        "nome": "Casa Pilino",
+        "codice": "MO2081"
+    },
+    {
+        "nome": "Casa Ponci",
+        "codice": "MO1241"
+    },
+    {
+        "nome": "Casa Ponte Fossa",
+        "codice": "MO3657"
+    },
+    {
+        "nome": "Casa Protetta",
+        "codice": "MO8324"
+    },
+    {
+        "nome": "Casa Quaranta",
+        "codice": "MO1473"
+    },
+    {
+        "nome": "Casa Quattrini",
+        "codice": "MO1275"
+    },
+    {
+        "nome": "Casa Ricchi",
+        "codice": "MO1057"
+    },
+    {
+        "nome": "Casa Roggiano",
+        "codice": "MO1875"
+    },
+    {
+        "nome": "Casa Roncaglia",
+        "codice": "MO1466"
+    },
+    {
+        "nome": "Casa Rossa",
+        "codice": "MO1297"
+    },
+    {
+        "nome": "Casa Rotonda",
+        "codice": "MO1281"
+    },
+    {
+        "nome": "Casa Rurale",
+        "codice": "MO1993"
+    },
+    {
+        "nome": "Casa Sabatini",
+        "codice": "MO1477"
+    },
+    {
+        "nome": "Casa Sansone",
+        "codice": "MO1463"
+    },
+    {
+        "nome": "Casa Sarto",
+        "codice": "MO1866"
+    },
+    {
+        "nome": "Casa Sartori",
+        "codice": "MO1141"
+    },
+    {
+        "nome": "Casa Sassi",
+        "codice": "MO1395"
+    },
+    {
+        "nome": "Casa Sasso",
+        "codice": "MO428"
+    },
+    {
+        "nome": "Casa Schianchi",
+        "codice": "MO1303"
+    },
+    {
+        "nome": "Casa Serena",
+        "codice": "MO2551"
+    },
+    {
+        "nome": "Casa Sistoni",
+        "codice": "MO1243"
+    },
+    {
+        "nome": "Casa Sovrano",
+        "codice": "MO1367"
+    },
+    {
+        "nome": "Casa Spina",
+        "codice": "MO1401"
+    },
+    {
+        "nome": "Casa Tadolini",
+        "codice": "MO1827"
+    },
+    {
+        "nome": "Casa Tandera",
+        "codice": "MOPV671"
+    },
+    {
+        "nome": "Casa Teodoro",
+        "codice": "MO1369"
+    },
+    {
+        "nome": "Casa Tocco",
+        "codice": "MO1672"
+    },
+    {
+        "nome": "Casa Tomaria",
+        "codice": "MO1853"
+    },
+    {
+        "nome": "Casa Tosatti",
+        "codice": "MO337"
+    },
+    {
+        "nome": "Casa Toschi",
+        "codice": "MO1744"
+    },
+    {
+        "nome": "Casa Tre Torri",
+        "codice": "MO1347"
+    },
+    {
+        "nome": "Casa Trinelli",
+        "codice": "MO1896"
+    },
+    {
+        "nome": "Casa Uguccione",
+        "codice": "MO3771"
+    },
+    {
+        "nome": "Casa Ventura",
+        "codice": "MO1194"
+    },
+    {
+        "nome": "Casa Venturelli",
+        "codice": "MO2368"
+    },
+    {
+        "nome": "Casa Vernese",
+        "codice": "MO2043"
+    },
+    {
+        "nome": "Casa Vignali",
+        "codice": "MOPV463"
+    },
+    {
+        "nome": "Casa Villani",
+        "codice": "MO1871"
+    },
+    {
+        "nome": "Casa Vitali",
+        "codice": "MOPV806"
+    },
+    {
+        "nome": "Casa Volpe",
+        "codice": "MO2890"
+    },
+    {
+        "nome": "Casa Zironi",
+        "codice": "MO1012"
+    },
+    {
+        "nome": "Casa Zocco",
+        "codice": "MO1966"
+    },
+    {
+        "nome": "Casa Zoppo",
+        "codice": "MO1323"
+    },
+    {
+        "nome": "Casaccia",
+        "codice": "MOPV188"
+    },
+    {
+        "nome": "Casalegno rotonda",
+        "codice": "MO2813"
+    },
+    {
+        "nome": "Casarino",
+        "codice": "MO2136"
+    },
+    {
+        "nome": "Cascinetta",
+        "codice": "MO267"
+    },
+    {
+        "nome": "Case Bianche",
+        "codice": "MO1624"
+    },
+    {
+        "nome": "Case Bruciate",
+        "codice": "MO1681"
+    },
+    {
+        "nome": "Case Gianaroli",
+        "codice": "MOPV721"
+    },
+    {
+        "nome": "Case Nuove",
+        "codice": "MO1475"
+    },
+    {
+        "nome": "Case Nuove Rovereto",
+        "codice": "MO472"
+    },
+    {
+        "nome": "Case Popolari",
+        "codice": "MO1248"
+    },
+    {
+        "nome": "Case Quattro Frati",
+        "codice": "MO1052"
+    },
+    {
+        "nome": "Case Rosse",
+        "codice": "MO1729"
+    },
+    {
+        "nome": "Caseificio",
+        "codice": "MO1182"
+    },
+    {
+        "nome": "Caseificio 1",
+        "codice": "MO2183"
+    },
+    {
+        "nome": "Caseificio Boschina",
+        "codice": "MO1740"
+    },
+    {
+        "nome": "Caseificio Rocchetta",
+        "codice": "MO3721"
+    },
+    {
+        "nome": "Caseificio Rola",
+        "codice": "MO1106"
+    },
+    {
+        "nome": "Caseificio Secchia",
+        "codice": "MO1121"
+    },
+    {
+        "nome": "Casella",
+        "codice": "MO3421"
+    },
+    {
+        "nome": "Caselle",
+        "codice": "MO1769"
+    },
+    {
+        "nome": "Caselline",
+        "codice": "MO3475"
+    },
+    {
+        "nome": "Caselline 1",
+        "codice": "MO4607"
+    },
+    {
+        "nome": "Casellino",
+        "codice": "MOPV257"
+    },
+    {
+        "nome": "Caserma Pisacane",
+        "codice": "MO2995"
+    },
+    {
+        "nome": "Casetta di Sopra",
+        "codice": "MO1412"
+    },
+    {
+        "nome": "Casette",
+        "codice": "MO1134"
+    },
+    {
+        "nome": "Casette 1",
+        "codice": "MOMO2020"
+    },
+    {
+        "nome": "Casette inc Montanara",
+        "codice": "MOMO2021"
+    },
+    {
+        "nome": "Casina",
+        "codice": "MO1631"
+    },
+    {
+        "nome": "Casinalbo",
+        "codice": "MO1530"
+    },
+    {
+        "nome": "Casinazzo",
+        "codice": "MO1268"
+    },
+    {
+        "nome": "Casine",
+        "codice": "MO2102"
+    },
+    {
+        "nome": "Casinone",
+        "codice": "MO315"
+    },
+    {
+        "nome": "Casola",
+        "codice": "MO1573"
+    },
+    {
+        "nome": "Casolare",
+        "codice": "MO1956"
+    },
+    {
+        "nome": "Casolare 1",
+        "codice": "MOPV897"
+    },
+    {
+        "nome": "Casolare 2",
+        "codice": "MOPV899"
+    },
+    {
+        "nome": "Casona",
+        "codice": "MO1326"
+    },
+    {
+        "nome": "Casona bv",
+        "codice": "MO1324"
+    },
+    {
+        "nome": "Casone",
+        "codice": "MO1529"
+    },
+    {
+        "nome": "Casoni",
+        "codice": "MO2620"
+    },
+    {
+        "nome": "Casoni di Ravarino",
+        "codice": "MO2842"
+    },
+    {
+        "nome": "Cassiani",
+        "codice": "MO3687"
+    },
+    {
+        "nome": "Castagneto",
+        "codice": "MO1339"
+    },
+    {
+        "nome": "Castel D'Aiano",
+        "codice": "MO2189"
+    },
+    {
+        "nome": "Castelfranco FS",
+        "codice": "MO491"
+    },
+    {
+        "nome": "Castelfranco teatro",
+        "codice": "MO1467"
+    },
+    {
+        "nome": "Castellano Boccasuolo",
+        "codice": "MO1997"
+    },
+    {
+        "nome": "Castellarano",
+        "codice": "MO1850"
+    },
+    {
+        "nome": "Castellaro",
+        "codice": "MO2095"
+    },
+    {
+        "nome": "Castello",
+        "codice": "MO1189"
+    },
+    {
+        "nome": "Castello Fantini",
+        "codice": "MO1225"
+    },
+    {
+        "nome": "Castelluccio",
+        "codice": "MO3770"
+    },
+    {
+        "nome": "Castelnuovo Case Nuove",
+        "codice": "MO4071"
+    },
+    {
+        "nome": "Castelnuovo Rangone",
+        "codice": "MO2919"
+    },
+    {
+        "nome": "Castelvecchio",
+        "codice": "MO1142"
+    },
+    {
+        "nome": "Castelvetro",
+        "codice": "MO357"
+    },
+    {
+        "nome": "Catellani",
+        "codice": "MO3149"
+    },
+    {
+        "nome": "Cattania",
+        "codice": "MO3003"
+    },
+    {
+        "nome": "Catullo",
+        "codice": "MO7024"
+    },
+    {
+        "nome": "Cava bv",
+        "codice": "MO2418"
+    },
+    {
+        "nome": "Cavalcaferrovia",
+        "codice": "MO144"
+    },
+    {
+        "nome": "Cavalcatoia",
+        "codice": "MO4928"
+    },
+    {
+        "nome": "Cavalcavia",
+        "codice": "MO1394"
+    },
+    {
+        "nome": "Cavallotti",
+        "codice": "MO257"
+    },
+    {
+        "nome": "Cavana",
+        "codice": "MO1027"
+    },
+    {
+        "nome": "Cavazzona",
+        "codice": "MO1343"
+    },
+    {
+        "nome": "Cavezzo",
+        "codice": "MO1486"
+    },
+    {
+        "nome": "Cavezzo Autostazione",
+        "codice": "MO490"
+    },
+    {
+        "nome": "Cavezzo bv",
+        "codice": "MO356"
+    },
+    {
+        "nome": "Cavezzo bv Jori",
+        "codice": "MO6041"
+    },
+    {
+        "nome": "Cavezzo stazione",
+        "codice": "MO133"
+    },
+    {
+        "nome": "Cavezzo zona industriale",
+        "codice": "MO3307"
+    },
+    {
+        "nome": "Cavo Argine",
+        "codice": "MO170"
+    },
+    {
+        "nome": "Cavo Argine bv Nonantolana",
+        "codice": "MO6232"
+    },
+    {
+        "nome": "Cavo Argine bv Portorico",
+        "codice": "MO6280"
+    },
+    {
+        "nome": "Cavo Argine bv Uruguay",
+        "codice": "MO6234"
+    },
+    {
+        "nome": "Cavriana",
+        "codice": "MO1846"
+    },
+    {
+        "nome": "Cazzuola",
+        "codice": "MO1072"
+    },
+    {
+        "nome": "Celia",
+        "codice": "MO1807"
+    },
+    {
+        "nome": "Cellini",
+        "codice": "MO2395"
+    },
+    {
+        "nome": "Centro Cmmerciale Tang. Losi",
+        "codice": "MOC246"
+    },
+    {
+        "nome": "Centro commerciale",
+        "codice": "MO1391"
+    },
+    {
+        "nome": "Centro Commerciale 2000",
+        "codice": "MO3121"
+    },
+    {
+        "nome": "Centro commerciale Coop",
+        "codice": "MOMA55"
+    },
+    {
+        "nome": "Centro Sanitario",
+        "codice": "MO4935"
+    },
+    {
+        "nome": "Centro Senada",
+        "codice": "MO3069"
+    },
+    {
+        "nome": "Ceramica",
+        "codice": "MO1299"
+    },
+    {
+        "nome": "Ceramica Sant'Anna",
+        "codice": "MO1668"
+    },
+    {
+        "nome": "Cerdisa",
+        "codice": "MO1576"
+    },
+    {
+        "nome": "Ceresola",
+        "codice": "MO1497"
+    },
+    {
+        "nome": "Ceretolo",
+        "codice": "MO1465"
+    },
+    {
+        "nome": "Cerredolo",
+        "codice": "MO1839"
+    },
+    {
+        "nome": "Cerreto",
+        "codice": "MO2025"
+    },
+    {
+        "nome": "Cerreto di Polinago",
+        "codice": "MO1617"
+    },
+    {
+        "nome": "Cerreto di sotto",
+        "codice": "MOPV273"
+    },
+    {
+        "nome": "Cerro",
+        "codice": "MO1828"
+    },
+    {
+        "nome": "Cerro bv",
+        "codice": "MO2129"
+    },
+    {
+        "nome": "Cervi",
+        "codice": "MO3056"
+    },
+    {
+        "nome": "Cesari",
+        "codice": "MO6806"
+    },
+    {
+        "nome": "Chianca",
+        "codice": "MO1625"
+    },
+    {
+        "nome": "Chiarofonte",
+        "codice": "MO2427"
+    },
+    {
+        "nome": "Chiaviche",
+        "codice": "MOC242"
+    },
+    {
+        "nome": "Chierichina",
+        "codice": "MO359"
+    },
+    {
+        "nome": "Chiesa",
+        "codice": "MO1311"
+    },
+    {
+        "nome": "Chiesa bv",
+        "codice": "MO2068"
+    },
+    {
+        "nome": "Chiesa Saliceto Panaro",
+        "codice": "MOMO2022"
+    },
+    {
+        "nome": "Chilometro 39 e 800",
+        "codice": "MO1478"
+    },
+    {
+        "nome": "CHINNICI",
+        "codice": "MO106"
+    },
+    {
+        "nome": "Chiocciola",
+        "codice": "MO3528"
+    },
+    {
+        "nome": "Chiozza",
+        "codice": "MO1301"
+    },
+    {
+        "nome": "Chiozzo",
+        "codice": "MO1943"
+    },
+    {
+        "nome": "Cialdini",
+        "codice": "MO3106"
+    },
+    {
+        "nome": "Cibeno",
+        "codice": "MO437"
+    },
+    {
+        "nome": "Cibeno farmacia",
+        "codice": "MO433"
+    },
+    {
+        "nome": "Ciemme",
+        "codice": "MO1513"
+    },
+    {
+        "nome": "Cima Lotta",
+        "codice": "MO2103"
+    },
+    {
+        "nome": "Cimitero",
+        "codice": "MO3195"
+    },
+    {
+        "nome": "Cimitero Nuovo",
+        "codice": "MO2291"
+    },
+    {
+        "nome": "Cimitero Portile",
+        "codice": "MOMO4057"
+    },
+    {
+        "nome": "Cimitero Saliceto Panaro",
+        "codice": "MOMO2023"
+    },
+    {
+        "nome": "Cimitero Vecchio",
+        "codice": "MO2267"
+    },
+    {
+        "nome": "Cinema estivo",
+        "codice": "MO2788"
+    },
+    {
+        "nome": "Circonvalazione Dante",
+        "codice": "MO6892"
+    },
+    {
+        "nome": "Ciro Menotti",
+        "codice": "MO172"
+    },
+    {
+        "nome": "CITTANOVA",
+        "codice": "MO612"
+    },
+    {
+        "nome": "Cittanova centro",
+        "codice": "MO1180"
+    },
+    {
+        "nome": "Cittanova della ghiaia",
+        "codice": "MO1179"
+    },
+    {
+        "nome": "Cittanova scuole",
+        "codice": "MO2618"
+    },
+    {
+        "nome": "Civico 226",
+        "codice": "MO1972"
+    },
+    {
+        "nome": "Cividale chiesa",
+        "codice": "MO1080"
+    },
+    {
+        "nome": "Cividale scuole",
+        "codice": "MOM63"
+    },
+    {
+        "nome": "Cividale zuccherificio",
+        "codice": "MO1079"
+    },
+    {
+        "nome": "COGNENTO",
+        "codice": "MO2907"
+    },
+    {
+        "nome": "Cognento scuole",
+        "codice": "MO6702"
+    },
+    {
+        "nome": "Cogorno",
+        "codice": "MO1368"
+    },
+    {
+        "nome": "Collegara",
+        "codice": "MO2753"
+    },
+    {
+        "nome": "Collegara bv Ginestra",
+        "codice": "MO2757"
+    },
+    {
+        "nome": "Collegara bv Scartazzetta",
+        "codice": "MO2755"
+    },
+    {
+        "nome": "Collegarola 2",
+        "codice": "MOMO4012"
+    },
+    {
+        "nome": "Collegarola Chiesa",
+        "codice": "MOMO4014"
+    },
+    {
+        "nome": "Collegarola Stadio Rugby",
+        "codice": "MOMO4011"
+    },
+    {
+        "nome": "Colombaia",
+        "codice": "MO1607"
+    },
+    {
+        "nome": "Colombaro bv",
+        "codice": "MO1660"
+    },
+    {
+        "nome": "Colombaro centro",
+        "codice": "MO836"
+    },
+    {
+        "nome": "Colombarone",
+        "codice": "MO1520"
+    },
+    {
+        "nome": "Colombo",
+        "codice": "MO3055"
+    },
+    {
+        "nome": "Comet",
+        "codice": "MO2542"
+    },
+    {
+        "nome": "Comun Grande",
+        "codice": "MO1892"
+    },
+    {
+        "nome": "Comunita montana",
+        "codice": "MOPV946"
+    },
+    {
+        "nome": "Concordia",
+        "codice": "MO1000"
+    },
+    {
+        "nome": "Concordia centro",
+        "codice": "MO510"
+    },
+    {
+        "nome": "Confine",
+        "codice": "MO1103"
+    },
+    {
+        "nome": "Confine di Bettolino",
+        "codice": "MO1109"
+    },
+    {
+        "nome": "Contorno",
+        "codice": "MO2903"
+    },
+    {
+        "nome": "Contrada",
+        "codice": "MOMO3102"
+    },
+    {
+        "nome": "Contrada 1",
+        "codice": "MOMO3089"
+    },
+    {
+        "nome": "Contrada 2",
+        "codice": "MOMO3087"
+    },
+    {
+        "nome": "Coop Bellaria",
+        "codice": "MO480"
+    },
+    {
+        "nome": "Copernico",
+        "codice": "MO1534"
+    },
+    {
+        "nome": "Coppina",
+        "codice": "MO1097"
+    },
+    {
+        "nome": "Corassori polisportiva",
+        "codice": "MO2918"
+    },
+    {
+        "nome": "Corletto inc Orsi",
+        "codice": "MOMO3046"
+    },
+    {
+        "nome": "Corletto Sud 1",
+        "codice": "MOMO3048"
+    },
+    {
+        "nome": "Corlo",
+        "codice": "MO1540"
+    },
+    {
+        "nome": "Corlo edicola",
+        "codice": "MO1508"
+    },
+    {
+        "nome": "Correggio",
+        "codice": "MO4900"
+    },
+    {
+        "nome": "Corsini cimitero",
+        "codice": "MO1593"
+    },
+    {
+        "nome": "Corte Alta",
+        "codice": "MO3188"
+    },
+    {
+        "nome": "Corte Bonini",
+        "codice": "MO1095"
+    },
+    {
+        "nome": "Corte Reggiani",
+        "codice": "MO271"
+    },
+    {
+        "nome": "Corte Santa Chiara",
+        "codice": "MO477"
+    },
+    {
+        "nome": "Cortile",
+        "codice": "MO115"
+    },
+    {
+        "nome": "Cortile Calanca",
+        "codice": "MO1191"
+    },
+    {
+        "nome": "Cortile scuole",
+        "codice": "MO1222"
+    },
+    {
+        "nome": "Cortile Via Chiesa Bivio Via Rossi",
+        "codice": "MOC116"
+    },
+    {
+        "nome": "Coscogno",
+        "codice": "MO1309"
+    },
+    {
+        "nome": "Coscogno 1",
+        "codice": "MO3278"
+    },
+    {
+        "nome": "Coscogno Chiesa",
+        "codice": "MOPV351"
+    },
+    {
+        "nome": "Coscogno confine",
+        "codice": "MO1313"
+    },
+    {
+        "nome": "Coscogno1",
+        "codice": "MOPV343"
+    },
+    {
+        "nome": "Costa  sottopasso cimitero",
+        "codice": "MO6809"
+    },
+    {
+        "nome": "Costa bv Corradini",
+        "codice": "MO2979"
+    },
+    {
+        "nome": "Costa sottopasso cimitero",
+        "codice": "MO2980"
+    },
+    {
+        "nome": "Costaglie",
+        "codice": "MO1181"
+    },
+    {
+        "nome": "Costrignano",
+        "codice": "MO1545"
+    },
+    {
+        "nome": "Costrignano coop",
+        "codice": "MO1546"
+    },
+    {
+        "nome": "Cottolengo Ospedale",
+        "codice": "MOPV941"
+    },
+    {
+        "nome": "Cristo bv",
+        "codice": "MO1090"
+    },
+    {
+        "nome": "Croce Blu",
+        "codice": "MO1346"
+    },
+    {
+        "nome": "Croce d'Isola",
+        "codice": "MO1499"
+    },
+    {
+        "nome": "Croce di Brocco",
+        "codice": "MOPV255"
+    },
+    {
+        "nome": "Croce di Canneto",
+        "codice": "MO1139"
+    },
+    {
+        "nome": "Croce di Monchio",
+        "codice": "MO1233"
+    },
+    {
+        "nome": "Croce Di Varana",
+        "codice": "MO1163"
+    },
+    {
+        "nome": "Croce Rossa",
+        "codice": "MO2580"
+    },
+    {
+        "nome": "Crocetta bv",
+        "codice": "MO1284"
+    },
+    {
+        "nome": "Crocette",
+        "codice": "MO1881"
+    },
+    {
+        "nome": "Crociale Maranello",
+        "codice": "MO1648"
+    },
+    {
+        "nome": "CUBA",
+        "codice": "MO6281"
+    },
+    {
+        "nome": "Cucchiara 1",
+        "codice": "MOMO3040"
+    },
+    {
+        "nome": "Cucchiara 2",
+        "codice": "MOMO3038"
+    },
+    {
+        "nome": "Cucchiari bv Manzoni",
+        "codice": "MO111"
+    },
+    {
+        "nome": "Cuneo 1",
+        "codice": "MO3405"
+    },
+    {
+        "nome": "Cuneo 2",
+        "codice": "MO3407"
+    },
+    {
+        "nome": "D'AVIA",
+        "codice": "MO6888"
+    },
+    {
+        "nome": "D'Avia bv Aristotele",
+        "codice": "MO2921"
+    },
+    {
+        "nome": "D'Avia bv Silone",
+        "codice": "MO3115"
+    },
+    {
+        "nome": "D'Avia bv Toscanelli",
+        "codice": "MO3117"
+    },
+    {
+        "nome": "Da Porto bv Cavezzo",
+        "codice": "MO3655"
+    },
+    {
+        "nome": "Da Porto chiesa",
+        "codice": "MO3656"
+    },
+    {
+        "nome": "Da Porto cimitero",
+        "codice": "MO6679"
+    },
+    {
+        "nome": "Da Vinci bv Curie",
+        "codice": "MO2891"
+    },
+    {
+        "nome": "Da Vinci bv Newton",
+        "codice": "MO2892"
+    },
+    {
+        "nome": "Dalla Chiesa asilo",
+        "codice": "MO6552"
+    },
+    {
+        "nome": "Dalla Chiesa bv Ghiaroni",
+        "codice": "MO2803"
+    },
+    {
+        "nome": "Dalla Chiesa bv Tobagi",
+        "codice": "MO2804"
+    },
+    {
+        "nome": "Dalton",
+        "codice": "MO6879"
+    },
+    {
+        "nome": "Dante",
+        "codice": "MO2793"
+    },
+    {
+        "nome": "Dante Alighieri",
+        "codice": "MO3511"
+    },
+    {
+        "nome": "De Rosa",
+        "codice": "MO3001"
+    },
+    {
+        "nome": "De Sanctis",
+        "codice": "MO2523"
+    },
+    {
+        "nome": "De' Gavasseti",
+        "codice": "MO6878"
+    },
+    {
+        "nome": "Degli Scarlatti",
+        "codice": "MO98"
+    },
+    {
+        "nome": "Dei trasporti",
+        "codice": "MO205"
+    },
+    {
+        "nome": "Del Giaggiolo",
+        "codice": "MO2908"
+    },
+    {
+        "nome": "Del Mulino",
+        "codice": "MO2769"
+    },
+    {
+        "nome": "Del Pozzo",
+        "codice": "MO2659"
+    },
+    {
+        "nome": "Della Fornace",
+        "codice": "MO2459"
+    },
+    {
+        "nome": "Della Genziana",
+        "codice": "MO2771"
+    },
+    {
+        "nome": "Delle Messi",
+        "codice": "MO77"
+    },
+    {
+        "nome": "Derna",
+        "codice": "MO1421"
+    },
+    {
+        "nome": "Di Vittorio",
+        "codice": "MOPV927"
+    },
+    {
+        "nome": "Dini bv",
+        "codice": "MO1488"
+    },
+    {
+        "nome": "Direzionale 70",
+        "codice": "MO2827"
+    },
+    {
+        "nome": "Direzionale Toscanini",
+        "codice": "MO2693"
+    },
+    {
+        "nome": "Distributore",
+        "codice": "MO391"
+    },
+    {
+        "nome": "Disvetro",
+        "codice": "MO1219"
+    },
+    {
+        "nome": "Divisione Acqui",
+        "codice": "MO3349"
+    },
+    {
+        "nome": "Divisione Acqui i Portali",
+        "codice": "MO2677"
+    },
+    {
+        "nome": "Divisione Acqui Questura",
+        "codice": "MO2713"
+    },
+    {
+        "nome": "Doccia",
+        "codice": "MO2341"
+    },
+    {
+        "nome": "Docciola Vecchia",
+        "codice": "MO1927"
+    },
+    {
+        "nome": "Dogana",
+        "codice": "MO1954"
+    },
+    {
+        "nome": "Dogana Nuova",
+        "codice": "MO2195"
+    },
+    {
+        "nome": "Don Barbieri",
+        "codice": "MO3461"
+    },
+    {
+        "nome": "Don Lorenzo Milani",
+        "codice": "MO4047"
+    },
+    {
+        "nome": "Don Minzoni USL",
+        "codice": "MO2809"
+    },
+    {
+        "nome": "Don Monari bv Canaletto",
+        "codice": "MO6944"
+    },
+    {
+        "nome": "Don Monari bv Cassiani",
+        "codice": "MO6960"
+    },
+    {
+        "nome": "Don Monari Chiesa",
+        "codice": "MO6956"
+    },
+    {
+        "nome": "Don Sturzo",
+        "codice": "MO4597"
+    },
+    {
+        "nome": "Donatori",
+        "codice": "MO3462"
+    },
+    {
+        "nome": "Dotti bv",
+        "codice": "MO1123"
+    },
+    {
+        "nome": "Due Colonne",
+        "codice": "MO396"
+    },
+    {
+        "nome": "Due Ponti",
+        "codice": "MO2399"
+    },
+    {
+        "nome": "Duomo",
+        "codice": "MO2584"
+    },
+    {
+        "nome": "Edilcuoghi",
+        "codice": "MO1551"
+    },
+    {
+        "nome": "Emila Est Ford",
+        "codice": "MO1232"
+    },
+    {
+        "nome": "Emilia centro Posta",
+        "codice": "MO2567"
+    },
+    {
+        "nome": "Emilia Est",
+        "codice": "MO3737"
+    },
+    {
+        "nome": "Emilia Est  Amadio",
+        "codice": "MO263"
+    },
+    {
+        "nome": "Emilia Est Aci",
+        "codice": "MO2654"
+    },
+    {
+        "nome": "Emilia est Bompani",
+        "codice": "MO6369"
+    },
+    {
+        "nome": "Emilia Est bv Caduti sul Lavoro",
+        "codice": "MO85"
+    },
+    {
+        "nome": "Emilia Est bv Fusco",
+        "codice": "MO2718"
+    },
+    {
+        "nome": "Emilia Est bv S.Giovanni Bosco",
+        "codice": "MO2656"
+    },
+    {
+        "nome": "Emilia Est Finanza",
+        "codice": "MO2657"
+    },
+    {
+        "nome": "Emilia Est Fossalta",
+        "codice": "MO1230"
+    },
+    {
+        "nome": "Emilia Est Hotel Fini",
+        "codice": "MO1214"
+    },
+    {
+        "nome": "Emilia Est Modena 118",
+        "codice": "MO2660"
+    },
+    {
+        "nome": "Emilia Est Mulino",
+        "codice": "MO2671"
+    },
+    {
+        "nome": "Emilia Est Same",
+        "codice": "MO632"
+    },
+    {
+        "nome": "Emilia Ovest Bruciata",
+        "codice": "MO1177"
+    },
+    {
+        "nome": "Emilia Ovest bv Autodromo",
+        "codice": "MO13"
+    },
+    {
+        "nome": "Emilia Ovest bv Ruffini",
+        "codice": "MO2997"
+    },
+    {
+        "nome": "Emilia Ovest bv Virgilio",
+        "codice": "MO1185"
+    },
+    {
+        "nome": "Emilia Ovest Comet",
+        "codice": "MO3093"
+    },
+    {
+        "nome": "Emilia Ovest Globo",
+        "codice": "MO3073"
+    },
+    {
+        "nome": "Emilia Ovest Grandemilia",
+        "codice": "MO1178"
+    },
+    {
+        "nome": "Emilia Ovest Hotel Eden",
+        "codice": "MO2999"
+    },
+    {
+        "nome": "Emilia Ovest Madonnina",
+        "codice": "MO14"
+    },
+    {
+        "nome": "Emilia Ovest Orlandi",
+        "codice": "MO6835"
+    },
+    {
+        "nome": "Emilia Romagna",
+        "codice": "MO2526"
+    },
+    {
+        "nome": "Emilia Romagna 1",
+        "codice": "MO3786"
+    },
+    {
+        "nome": "Emilio Po bv De Gavasseti",
+        "codice": "MO2989"
+    },
+    {
+        "nome": "Emilio Po bv Leoni",
+        "codice": "MO6814"
+    },
+    {
+        "nome": "Emilio Po Panini",
+        "codice": "MO2991"
+    },
+    {
+        "nome": "Esselunga",
+        "codice": "MO6500"
+    },
+    {
+        "nome": "Euclide",
+        "codice": "MO2937"
+    },
+    {
+        "nome": "Europa",
+        "codice": "MO4901"
+    },
+    {
+        "nome": "Ex Ferrovia",
+        "codice": "MO3817"
+    },
+    {
+        "nome": "Ex pesa",
+        "codice": "MO3468"
+    },
+    {
+        "nome": "EX VINACCE",
+        "codice": "MO3321"
+    },
+    {
+        "nome": "Executive",
+        "codice": "MO3305"
+    },
+    {
+        "nome": "F.lli Bandiera",
+        "codice": "MOPV973"
+    },
+    {
+        "nome": "F.lli Rosselli bv Conco",
+        "codice": "MO2784"
+    },
+    {
+        "nome": "F.lli Rosselli bv Pelloni",
+        "codice": "MO2821"
+    },
+    {
+        "nome": "F.lli Rosselli villa Rosa",
+        "codice": "MO2783"
+    },
+    {
+        "nome": "Fa l'Alba",
+        "codice": "MO1403"
+    },
+    {
+        "nome": "Fabrizi",
+        "codice": "MO181"
+    },
+    {
+        "nome": "Faeto bv",
+        "codice": "MO1168"
+    },
+    {
+        "nome": "Fagiolo",
+        "codice": "MO1587"
+    },
+    {
+        "nome": "Faidello",
+        "codice": "MO2197"
+    },
+    {
+        "nome": "Falegnameria",
+        "codice": "MO2096"
+    },
+    {
+        "nome": "Famadiccia",
+        "codice": "MO2109"
+    },
+    {
+        "nome": "Fanano",
+        "codice": "MO1100"
+    },
+    {
+        "nome": "Fanano zona artigianale",
+        "codice": "MO1101"
+    },
+    {
+        "nome": "Fanin",
+        "codice": "MOPV925"
+    },
+    {
+        "nome": "Fanti 1",
+        "codice": "MO3308"
+    },
+    {
+        "nome": "Fanti 2",
+        "codice": "MO3306"
+    },
+    {
+        "nome": "Fanti FS",
+        "codice": "MO1077"
+    },
+    {
+        "nome": "Farneta",
+        "codice": "MO1493"
+    },
+    {
+        "nome": "Fedro",
+        "codice": "MO7006"
+    },
+    {
+        "nome": "Fenecchio",
+        "codice": "MO2192"
+    },
+    {
+        "nome": "Ferrari",
+        "codice": "MO169"
+    },
+    {
+        "nome": "Ferrari bv Soli",
+        "codice": "MO2863"
+    },
+    {
+        "nome": "Festa",
+        "codice": "MO2420"
+    },
+    {
+        "nome": "Festa casa cantoniera",
+        "codice": "MO1317"
+    },
+    {
+        "nome": "Festa'",
+        "codice": "MO6911"
+    },
+    {
+        "nome": "Fignola",
+        "codice": "MO1749"
+    },
+    {
+        "nome": "Finale Emilia Autostazione",
+        "codice": "MO598"
+    },
+    {
+        "nome": "FINZI",
+        "codice": "MO7240"
+    },
+    {
+        "nome": "Finzi bv Canaletto",
+        "codice": "MO188"
+    },
+    {
+        "nome": "Finzi bv Europa",
+        "codice": "MO194"
+    },
+    {
+        "nome": "Finzi bv Massarenti",
+        "codice": "MO204"
+    },
+    {
+        "nome": "Fiorano",
+        "codice": "MO1300"
+    },
+    {
+        "nome": "Fiumalbo",
+        "codice": "MO1400"
+    },
+    {
+        "nome": "Fiumalbo Zona Artigianale",
+        "codice": "MO2843"
+    },
+    {
+        "nome": "Focherini",
+        "codice": "MO3458"
+    },
+    {
+        "nome": "Fogliano",
+        "codice": "MOMA30"
+    },
+    {
+        "nome": "Fogna",
+        "codice": "MO1452"
+    },
+    {
+        "nome": "Fontana",
+        "codice": "MO1173"
+    },
+    {
+        "nome": "Fontana d'Arco",
+        "codice": "MO1577"
+    },
+    {
+        "nome": "Fontana maglificio",
+        "codice": "MO1010"
+    },
+    {
+        "nome": "Fontanaluccia",
+        "codice": "MO1982"
+    },
+    {
+        "nome": "Fontanaluccia bv",
+        "codice": "MO1975"
+    },
+    {
+        "nome": "Fontanaluccia garage",
+        "codice": "MO1978"
+    },
+    {
+        "nome": "Fontane",
+        "codice": "MO2006"
+    },
+    {
+        "nome": "Fontanelli",
+        "codice": "MO2574"
+    },
+    {
+        "nome": "Forcello",
+        "codice": "MO1066"
+    },
+    {
+        "nome": "Forghieri",
+        "codice": "MO121"
+    },
+    {
+        "nome": "Forlanini",
+        "codice": "MO2829"
+    },
+    {
+        "nome": "Forli",
+        "codice": "MO105"
+    },
+    {
+        "nome": "Forli' bv F.lli Rosselli",
+        "codice": "MO2819"
+    },
+    {
+        "nome": "Formica",
+        "codice": "MO1203"
+    },
+    {
+        "nome": "Formigina bv Archimede",
+        "codice": "MO2929"
+    },
+    {
+        "nome": "Formigina bv Cannizzaro",
+        "codice": "MO2901"
+    },
+    {
+        "nome": "Formigina bv Corassori",
+        "codice": "MO2896"
+    },
+    {
+        "nome": "Formigina bv Lagrange",
+        "codice": "MO2898"
+    },
+    {
+        "nome": "Formigine",
+        "codice": "MO1500"
+    },
+    {
+        "nome": "Formigine cartiera",
+        "codice": "MO1504"
+    },
+    {
+        "nome": "Formigine stazione",
+        "codice": "MO1506"
+    },
+    {
+        "nome": "Fornace",
+        "codice": "MO1215"
+    },
+    {
+        "nome": "Fornace Cavallini",
+        "codice": "MO1071"
+    },
+    {
+        "nome": "Fornace Savoniero",
+        "codice": "MO1535"
+    },
+    {
+        "nome": "Fornaci 1",
+        "codice": "MOMO3086"
+    },
+    {
+        "nome": "Fornaci 2",
+        "codice": "MOMO3085"
+    },
+    {
+        "nome": "Fornaci 3",
+        "codice": "MOMO3084"
+    },
+    {
+        "nome": "Forno",
+        "codice": "MO1294"
+    },
+    {
+        "nome": "Foscolo scuole",
+        "codice": "MO3004"
+    },
+    {
+        "nome": "Fossa",
+        "codice": "MO175"
+    },
+    {
+        "nome": "Fossa di Manzolino",
+        "codice": "MO1328"
+    },
+    {
+        "nome": "Fossa Mulino",
+        "codice": "MO1643"
+    },
+    {
+        "nome": "Fossamonda Casa Rigata",
+        "codice": "MOMO2018"
+    },
+    {
+        "nome": "Fossamonda Nord 1",
+        "codice": "MOMO2016"
+    },
+    {
+        "nome": "Fossamonda Nord 2",
+        "codice": "MOMO2017"
+    },
+    {
+        "nome": "Fossamonda Nord 4",
+        "codice": "MOMO2019"
+    },
+    {
+        "nome": "Fossamonda Nord 5",
+        "codice": "MOMO2027"
+    },
+    {
+        "nome": "Fossoli",
+        "codice": "MO190"
+    },
+    {
+        "nome": "Fossoli campo di Concentramento",
+        "codice": "MOC200"
+    },
+    {
+        "nome": "Fossoli Scuole",
+        "codice": "MOC201"
+    },
+    {
+        "nome": "Fossoli Via Mar Nero",
+        "codice": "MOC207"
+    },
+    {
+        "nome": "Fossoli Via Martinelli",
+        "codice": "MOC202"
+    },
+    {
+        "nome": "Fossoli Via Remesina Esterna",
+        "codice": "MOC204"
+    },
+    {
+        "nome": "Fossoli zona industriale",
+        "codice": "MO1791"
+    },
+    {
+        "nome": "Franchini",
+        "codice": "MO1075"
+    },
+    {
+        "nome": "Franklin",
+        "codice": "MO7004"
+    },
+    {
+        "nome": "Frassineti",
+        "codice": "MO1371"
+    },
+    {
+        "nome": "Frassinoro",
+        "codice": "MO1600"
+    },
+    {
+        "nome": "Frassinoro ex scuole",
+        "codice": "MO1601"
+    },
+    {
+        "nome": "Frassinoro scuole",
+        "codice": "MO2198"
+    },
+    {
+        "nome": "Fredda",
+        "codice": "MO1868"
+    },
+    {
+        "nome": "Frescobaldi",
+        "codice": "MO3423"
+    },
+    {
+        "nome": "Freto",
+        "codice": "MO141"
+    },
+    {
+        "nome": "Fucina",
+        "codice": "MO1962"
+    },
+    {
+        "nome": "G.Cesare 1",
+        "codice": "MO7008"
+    },
+    {
+        "nome": "G.Cesare 2",
+        "codice": "MO3393"
+    },
+    {
+        "nome": "Gabella",
+        "codice": "MO471"
+    },
+    {
+        "nome": "Gaggio",
+        "codice": "MO1250"
+    },
+    {
+        "nome": "Gaggio Cavalcaferrovia",
+        "codice": "MOCE91"
+    },
+    {
+        "nome": "Gaggio Scuola Materna",
+        "codice": "MOCE100"
+    },
+    {
+        "nome": "Gaianello",
+        "codice": "MO1798"
+    },
+    {
+        "nome": "Gaiato bv",
+        "codice": "MO1829"
+    },
+    {
+        "nome": "Gaiato caseificio",
+        "codice": "MO3258"
+    },
+    {
+        "nome": "Gaiato Chiesa",
+        "codice": "MO3587"
+    },
+    {
+        "nome": "Gaiato poste",
+        "codice": "MO1833"
+    },
+    {
+        "nome": "Gainazzo bv",
+        "codice": "MO1431"
+    },
+    {
+        "nome": "Galaverna",
+        "codice": "MO3099"
+    },
+    {
+        "nome": "GALILEI",
+        "codice": "MO6722"
+    },
+    {
+        "nome": "Galilei bv Cartesio",
+        "codice": "MO2894"
+    },
+    {
+        "nome": "Galilei Forum",
+        "codice": "MO2895"
+    },
+    {
+        "nome": "Ganaceto",
+        "codice": "MO130"
+    },
+    {
+        "nome": "Ganaceto 1",
+        "codice": "MO140"
+    },
+    {
+        "nome": "Ganaceto Cambi",
+        "codice": "MOMO1032"
+    },
+    {
+        "nome": "Ganaceto Cimitero",
+        "codice": "MOMO1036"
+    },
+    {
+        "nome": "Ganaceto Gherlino",
+        "codice": "MOMO1035"
+    },
+    {
+        "nome": "Ganaceto Saltini",
+        "codice": "MOMO1033"
+    },
+    {
+        "nome": "Ganaceto scuole",
+        "codice": "MO658"
+    },
+    {
+        "nome": "Gargallo",
+        "codice": "MO239"
+    },
+    {
+        "nome": "Gargallo bv",
+        "codice": "MO46"
+    },
+    {
+        "nome": "Gargallo Piazza don Milani",
+        "codice": "MOC325"
+    },
+    {
+        "nome": "Gargallo Via Chiesa di Garagallo",
+        "codice": "MOC326"
+    },
+    {
+        "nome": "Garibaldi",
+        "codice": "MO1656"
+    },
+    {
+        "nome": "Garibaldi bv Mazzini",
+        "codice": "MO2805"
+    },
+    {
+        "nome": "Garofano",
+        "codice": "MO4606"
+    },
+    {
+        "nome": "Garofano bv",
+        "codice": "MO1208"
+    },
+    {
+        "nome": "Garuti",
+        "codice": "MO341"
+    },
+    {
+        "nome": "Gatta",
+        "codice": "MO365"
+    },
+    {
+        "nome": "Gaurini bv Bianchi Ferrari",
+        "codice": "MO6659"
+    },
+    {
+        "nome": "Gavello",
+        "codice": "MO1096"
+    },
+    {
+        "nome": "Gavello Mulino",
+        "codice": "MO1684"
+    },
+    {
+        "nome": "GAZZOTTI",
+        "codice": "MO6374"
+    },
+    {
+        "nome": "Gazzotti bv Caduti sul Lavoro",
+        "codice": "MO2691"
+    },
+    {
+        "nome": "Germania bv Nazioni",
+        "codice": "MO3182"
+    },
+    {
+        "nome": "Germania bv Ungheria",
+        "codice": "MO3169"
+    },
+    {
+        "nome": "Gherbella",
+        "codice": "MO3311"
+    },
+    {
+        "nome": "Gherbella 1",
+        "codice": "MO2235"
+    },
+    {
+        "nome": "Gherbella 2",
+        "codice": "MO2222"
+    },
+    {
+        "nome": "Ghiacciaia",
+        "codice": "MO429"
+    },
+    {
+        "nome": "Ghiarella",
+        "codice": "MO4049"
+    },
+    {
+        "nome": "Ghiarola",
+        "codice": "MO1061"
+    },
+    {
+        "nome": "Ghirone",
+        "codice": "MO1172"
+    },
+    {
+        "nome": "Giacinti chiesa",
+        "codice": "MO6446"
+    },
+    {
+        "nome": "Giacinti conad",
+        "codice": "MO6444"
+    },
+    {
+        "nome": "Giannelli Poste",
+        "codice": "MOPV957"
+    },
+    {
+        "nome": "Giardini 188",
+        "codice": "MO3813"
+    },
+    {
+        "nome": "Giardini bv chiesa S.Giuliano",
+        "codice": "MO3679"
+    },
+    {
+        "nome": "Giardini bv Cimabue",
+        "codice": "MO24"
+    },
+    {
+        "nome": "Giardini bv Cimabue 1",
+        "codice": "MO3237"
+    },
+    {
+        "nome": "Giardini bv Delle Ville",
+        "codice": "MO1689"
+    },
+    {
+        "nome": "Giardini bv San Marone",
+        "codice": "MO3675"
+    },
+    {
+        "nome": "Giardini carcere",
+        "codice": "MO2539"
+    },
+    {
+        "nome": "Giardini comunita' montana",
+        "codice": "MO1687"
+    },
+    {
+        "nome": "Giardini Donatello",
+        "codice": "MO2825"
+    },
+    {
+        "nome": "Giardini Due Mulini",
+        "codice": "MO6637"
+    },
+    {
+        "nome": "Giardini La Bugia",
+        "codice": "MO3671"
+    },
+    {
+        "nome": "Giardini Polizia Stradale",
+        "codice": "MO2823"
+    },
+    {
+        "nome": "Giardini Simint",
+        "codice": "MO6639"
+    },
+    {
+        "nome": "Giardini villa Fogliani",
+        "codice": "MO2822"
+    },
+    {
+        "nome": "Giardino",
+        "codice": "MO2057"
+    },
+    {
+        "nome": "Ginevra",
+        "codice": "MO1424"
+    },
+    {
+        "nome": "Gioberti",
+        "codice": "MO3008"
+    },
+    {
+        "nome": "Giordano 1",
+        "codice": "MO3398"
+    },
+    {
+        "nome": "Giostra",
+        "codice": "MO1423"
+    },
+    {
+        "nome": "Giovanni XXIII",
+        "codice": "MO3061"
+    },
+    {
+        "nome": "Giunzione",
+        "codice": "MO1503"
+    },
+    {
+        "nome": "Gneda",
+        "codice": "MO1665"
+    },
+    {
+        "nome": "Gober",
+        "codice": "MO1683"
+    },
+    {
+        "nome": "Gobetti",
+        "codice": "MO2808"
+    },
+    {
+        "nome": "Golf",
+        "codice": "MO2597"
+    },
+    {
+        "nome": "Gombola",
+        "codice": "MO1269"
+    },
+    {
+        "nome": "Gombola poste",
+        "codice": "MO1261"
+    },
+    {
+        "nome": "Gorghetto",
+        "codice": "MO354"
+    },
+    {
+        "nome": "Gorizia",
+        "codice": "MO2315"
+    },
+    {
+        "nome": "Gorzano 1",
+        "codice": "MO1044"
+    },
+    {
+        "nome": "Gorzano 2",
+        "codice": "MO1045"
+    },
+    {
+        "nome": "GOTTARDI",
+        "codice": "MO148"
+    },
+    {
+        "nome": "Gottardi bv Araldi",
+        "codice": "MO234"
+    },
+    {
+        "nome": "Govi",
+        "codice": "MO3288"
+    },
+    {
+        "nome": "Gramsci",
+        "codice": "MO2311"
+    },
+    {
+        "nome": "Gramsci bv Donati",
+        "codice": "MO6908"
+    },
+    {
+        "nome": "Gramsci bv Toniolo",
+        "codice": "MO3125"
+    },
+    {
+        "nome": "Gramsci edicola",
+        "codice": "MO3123"
+    },
+    {
+        "nome": "Gramsci farmacia",
+        "codice": "MO3122"
+    },
+    {
+        "nome": "Granai",
+        "codice": "MO288"
+    },
+    {
+        "nome": "Grande 1",
+        "codice": "MOMO4022"
+    },
+    {
+        "nome": "Grande 2",
+        "codice": "MOMO4026"
+    },
+    {
+        "nome": "Grande inc Bonaghino",
+        "codice": "MOMO4024"
+    },
+    {
+        "nome": "Grazia",
+        "codice": "MO1544"
+    },
+    {
+        "nome": "Griduzza scuole",
+        "codice": "MO1193"
+    },
+    {
+        "nome": "Grillenzone bv",
+        "codice": "MO1666"
+    },
+    {
+        "nome": "Grimelli",
+        "codice": "MO3464"
+    },
+    {
+        "nome": "Guaitoli",
+        "codice": "MO3451"
+    },
+    {
+        "nome": "Guareschi 1",
+        "codice": "MO6738"
+    },
+    {
+        "nome": "Guareschi 2",
+        "codice": "MO6739"
+    },
+    {
+        "nome": "Guarini bv Bianchi Ferrari",
+        "codice": "MO2853"
+    },
+    {
+        "nome": "Guarini bv della Pace",
+        "codice": "MO2852"
+    },
+    {
+        "nome": "Guarini bv Lana",
+        "codice": "MO2849"
+    },
+    {
+        "nome": "Guarini bv Venturi",
+        "codice": "MO2851"
+    },
+    {
+        "nome": "Guastalla",
+        "codice": "MO462"
+    },
+    {
+        "nome": "Guastalla 1",
+        "codice": "MO461"
+    },
+    {
+        "nome": "Guastalla 2",
+        "codice": "MO463"
+    },
+    {
+        "nome": "Guiglia",
+        "codice": "MO1702"
+    },
+    {
+        "nome": "Guiglia centro",
+        "codice": "MO1700"
+    },
+    {
+        "nome": "Guiglia via Repubblica",
+        "codice": "MO2408"
+    },
+    {
+        "nome": "Gusciola",
+        "codice": "MO1489"
+    },
+    {
+        "nome": "Hermitage",
+        "codice": "MO2353"
+    },
+    {
+        "nome": "Hotel Paradiso",
+        "codice": "MO1171"
+    },
+    {
+        "nome": "Hotel Pineta",
+        "codice": "MO1715"
+    },
+    {
+        "nome": "Iacopo da Porto Sud 1",
+        "codice": "MOMO3044"
+    },
+    {
+        "nome": "Iacopo da Porto Sud inc Galassi",
+        "codice": "MOMO3042"
+    },
+    {
+        "nome": "Iddiano",
+        "codice": "MOPV271"
+    },
+    {
+        "nome": "Iddiano bv",
+        "codice": "MO1342"
+    },
+    {
+        "nome": "Il Cristo",
+        "codice": "MO319"
+    },
+    {
+        "nome": "Il Fiasco",
+        "codice": "MO1060"
+    },
+    {
+        "nome": "Il Frantoio",
+        "codice": "MO1129"
+    },
+    {
+        "nome": "Il Gessiere",
+        "codice": "MO2404"
+    },
+    {
+        "nome": "Il Piano",
+        "codice": "MO2042"
+    },
+    {
+        "nome": "Il Poggio",
+        "codice": "MO1028"
+    },
+    {
+        "nome": "Il Prato",
+        "codice": "MO1296"
+    },
+    {
+        "nome": "Il Ronco",
+        "codice": "MO1375"
+    },
+    {
+        "nome": "Il Sasso",
+        "codice": "MO1567"
+    },
+    {
+        "nome": "Imbrancamento",
+        "codice": "MO3720"
+    },
+    {
+        "nome": "Incompiuta",
+        "codice": "MO1559"
+    },
+    {
+        "nome": "Incrocio via del Pozzo",
+        "codice": "MO3658"
+    },
+    {
+        "nome": "Indipendenza",
+        "codice": "MO1767"
+    },
+    {
+        "nome": "Indipendenza bv Resistenza",
+        "codice": "MO2679"
+    },
+    {
+        "nome": "Indipendenza ex Questura",
+        "codice": "MO1766"
+    },
+    {
+        "nome": "Indipendenza mensa",
+        "codice": "MO2866"
+    },
+    {
+        "nome": "Indipendenza polisportiva",
+        "codice": "MO2678"
+    },
+    {
+        "nome": "Industriale 1",
+        "codice": "MO7003"
+    },
+    {
+        "nome": "Industriale 2",
+        "codice": "MO3592"
+    },
+    {
+        "nome": "Industriale Bazzano",
+        "codice": "MO5698"
+    },
+    {
+        "nome": "Ipermercato",
+        "codice": "MO7005"
+    },
+    {
+        "nome": "Isola Lunga",
+        "codice": "MO2167"
+    },
+    {
+        "nome": "Israelitico",
+        "codice": "MO3385"
+    },
+    {
+        "nome": "Istituto agrario bv",
+        "codice": "MO1206"
+    },
+    {
+        "nome": "Istituto Cattaneo",
+        "codice": "MO2885"
+    },
+    {
+        "nome": "Istituto Fermi",
+        "codice": "MO2873"
+    },
+    {
+        "nome": "Istituto Guarini",
+        "codice": "MO2887"
+    },
+    {
+        "nome": "Italia",
+        "codice": "MO511"
+    },
+    {
+        "nome": "Italtractor",
+        "codice": "MO1712"
+    },
+    {
+        "nome": "Km 161",
+        "codice": "MO1192"
+    },
+    {
+        "nome": "L A TORRE",
+        "codice": "MO6559"
+    },
+    {
+        "nome": "L'Oca",
+        "codice": "MO2187"
+    },
+    {
+        "nome": "L'Ombrina",
+        "codice": "MO3394"
+    },
+    {
+        "nome": "La Baia",
+        "codice": "MO3788"
+    },
+    {
+        "nome": "La Baita",
+        "codice": "MO401"
+    },
+    {
+        "nome": "La Barbona",
+        "codice": "MO4295"
+    },
+    {
+        "nome": "La Bertola",
+        "codice": "MO1428"
+    },
+    {
+        "nome": "La Borra",
+        "codice": "MO1149"
+    },
+    {
+        "nome": "La Borretta",
+        "codice": "MO1822"
+    },
+    {
+        "nome": "La Buca",
+        "codice": "MO299"
+    },
+    {
+        "nome": "La Buca Susano",
+        "codice": "MO1548"
+    },
+    {
+        "nome": "La Busa",
+        "codice": "MO1754"
+    },
+    {
+        "nome": "La Carovana scuole",
+        "codice": "MO237"
+    },
+    {
+        "nome": "La Chiocciola",
+        "codice": "MO1539"
+    },
+    {
+        "nome": "La Chiusa",
+        "codice": "MOMA12"
+    },
+    {
+        "nome": "La Corona",
+        "codice": "MO1610"
+    },
+    {
+        "nome": "La Corte",
+        "codice": "MO1402"
+    },
+    {
+        "nome": "La Croce",
+        "codice": "MO1167"
+    },
+    {
+        "nome": "La Croce Benedello",
+        "codice": "MO1889"
+    },
+    {
+        "nome": "La Croce Benedello 1",
+        "codice": "MO3509"
+    },
+    {
+        "nome": "La Curva",
+        "codice": "MO1228"
+    },
+    {
+        "nome": "La Ferrara",
+        "codice": "MO1725"
+    },
+    {
+        "nome": "La Fiorita",
+        "codice": "MO2423"
+    },
+    {
+        "nome": "La Grande",
+        "codice": "MO3591"
+    },
+    {
+        "nome": "La Guardia",
+        "codice": "MO1305"
+    },
+    {
+        "nome": "La Loggia",
+        "codice": "MO1348"
+    },
+    {
+        "nome": "La Macchia",
+        "codice": "MO1196"
+    },
+    {
+        "nome": "La Maesta",
+        "codice": "MO1923"
+    },
+    {
+        "nome": "La Mela",
+        "codice": "MO1263"
+    },
+    {
+        "nome": "La Monta",
+        "codice": "MO1288"
+    },
+    {
+        "nome": "La Pesa",
+        "codice": "MO2065"
+    },
+    {
+        "nome": "La Picca",
+        "codice": "MO1054"
+    },
+    {
+        "nome": "La Pietra",
+        "codice": "MO1146"
+    },
+    {
+        "nome": "La Pietra 2",
+        "codice": "MO1152"
+    },
+    {
+        "nome": "La Preda",
+        "codice": "MO1541"
+    },
+    {
+        "nome": "LA ROCCA",
+        "codice": "MO3233"
+    },
+    {
+        "nome": "La Salda",
+        "codice": "MO1159"
+    },
+    {
+        "nome": "La Sbrugna",
+        "codice": "MO3991"
+    },
+    {
+        "nome": "La Serra",
+        "codice": "MO1708"
+    },
+    {
+        "nome": "La Spezia bv Oneglia",
+        "codice": "MO2729"
+    },
+    {
+        "nome": "La Spezia bv Vignolese",
+        "codice": "MO2728"
+    },
+    {
+        "nome": "La Tedesca",
+        "codice": "MO1091"
+    },
+    {
+        "nome": "La Teggia",
+        "codice": "MO1779"
+    },
+    {
+        "nome": "La Torre",
+        "codice": "MO1213"
+    },
+    {
+        "nome": "La Torre Renno",
+        "codice": "MO1909"
+    },
+    {
+        "nome": "La Trappola",
+        "codice": "MO1968"
+    },
+    {
+        "nome": "La Verna",
+        "codice": "MO1580"
+    },
+    {
+        "nome": "La Vigna",
+        "codice": "MO2410"
+    },
+    {
+        "nome": "La Villa",
+        "codice": "MO1304"
+    },
+    {
+        "nome": "La Volta",
+        "codice": "MO1128"
+    },
+    {
+        "nome": "Laghetto",
+        "codice": "MO1067"
+    },
+    {
+        "nome": "Lago",
+        "codice": "MO1565"
+    },
+    {
+        "nome": "Lago bv",
+        "codice": "MO1566"
+    },
+    {
+        "nome": "Lama",
+        "codice": "MO405"
+    },
+    {
+        "nome": "Lama 1",
+        "codice": "MO1116"
+    },
+    {
+        "nome": "Lama 2",
+        "codice": "MO3232"
+    },
+    {
+        "nome": "Lama Bassa",
+        "codice": "MO1801"
+    },
+    {
+        "nome": "Lama di Maserno",
+        "codice": "MO2117"
+    },
+    {
+        "nome": "Lama di Monchio",
+        "codice": "MO1247"
+    },
+    {
+        "nome": "Lama di Polinago",
+        "codice": "MO1806"
+    },
+    {
+        "nome": "Lama Mocogno",
+        "codice": "MO1800"
+    },
+    {
+        "nome": "Lame",
+        "codice": "MO1461"
+    },
+    {
+        "nome": "Lar",
+        "codice": "MO1560"
+    },
+    {
+        "nome": "Largo Verona",
+        "codice": "MO2375"
+    },
+    {
+        "nome": "Lasetta",
+        "codice": "MO1697"
+    },
+    {
+        "nome": "LATINA",
+        "codice": "MO2865"
+    },
+    {
+        "nome": "Lavacchio",
+        "codice": "MO1582"
+    },
+    {
+        "nome": "Lavatoio",
+        "codice": "MO1963"
+    },
+    {
+        "nome": "Lazio",
+        "codice": "MO6475"
+    },
+    {
+        "nome": "Le Aie",
+        "codice": "MO1372"
+    },
+    {
+        "nome": "Le Borre",
+        "codice": "MO1495"
+    },
+    {
+        "nome": "Le Buche",
+        "codice": "MO2059"
+    },
+    {
+        "nome": "Le Coste",
+        "codice": "MO2417"
+    },
+    {
+        "nome": "Le Lame",
+        "codice": "MO1727"
+    },
+    {
+        "nome": "Le Lazze",
+        "codice": "MO2172"
+    },
+    {
+        "nome": "Le Macchie",
+        "codice": "MO2091"
+    },
+    {
+        "nome": "Le Piane",
+        "codice": "MO1221"
+    },
+    {
+        "nome": "Le Pioppe",
+        "codice": "MO2108"
+    },
+    {
+        "nome": "Le Regine",
+        "codice": "MO3823"
+    },
+    {
+        "nome": "Le Sreghe",
+        "codice": "MO1753"
+    },
+    {
+        "nome": "Le Torri",
+        "codice": "MO6476"
+    },
+    {
+        "nome": "Legnago",
+        "codice": "MO2325"
+    },
+    {
+        "nome": "Lenin 1",
+        "codice": "MO3194"
+    },
+    {
+        "nome": "Lenin 2",
+        "codice": "MO3113"
+    },
+    {
+        "nome": "Leopardi",
+        "codice": "MO3328"
+    },
+    {
+        "nome": "Lesignana",
+        "codice": "MO120"
+    },
+    {
+        "nome": "Lesignana 2",
+        "codice": "MOMO1043"
+    },
+    {
+        "nome": "Lesignana 3",
+        "codice": "MOMO1044"
+    },
+    {
+        "nome": "Lesignana Centro",
+        "codice": "MO2549"
+    },
+    {
+        "nome": "Lesignana Osteria il Torchio",
+        "codice": "MOMO1069"
+    },
+    {
+        "nome": "Lesignana Uva",
+        "codice": "MOMO1041"
+    },
+    {
+        "nome": "Levizzano",
+        "codice": "MO2568"
+    },
+    {
+        "nome": "Liberta",
+        "codice": "MO2494"
+    },
+    {
+        "nome": "Liberta'",
+        "codice": "MO2239"
+    },
+    {
+        "nome": "Lido Panaro",
+        "codice": "MO1941"
+    },
+    {
+        "nome": "Ligorzano",
+        "codice": "MO1169"
+    },
+    {
+        "nome": "Liguria",
+        "codice": "MO2802"
+    },
+    {
+        "nome": "Limidi",
+        "codice": "MO398"
+    },
+    {
+        "nome": "Limidi mulino",
+        "codice": "MO395"
+    },
+    {
+        "nome": "Lo Scoglietto",
+        "codice": "MO2428"
+    },
+    {
+        "nome": "Lo Stallone",
+        "codice": "MO1293"
+    },
+    {
+        "nome": "Loberso",
+        "codice": "MO375"
+    },
+    {
+        "nome": "Lombardia",
+        "codice": "MOPV939"
+    },
+    {
+        "nome": "Londra",
+        "codice": "MO3192"
+    },
+    {
+        "nome": "Loreto",
+        "codice": "MO382"
+    },
+    {
+        "nome": "Losi",
+        "codice": "MO3029"
+    },
+    {
+        "nome": "Lucrezio 1",
+        "codice": "MO3391"
+    },
+    {
+        "nome": "Lucrezio 2",
+        "codice": "MO3389"
+    },
+    {
+        "nome": "Lugli scuole",
+        "codice": "MO448"
+    },
+    {
+        "nome": "Lugo",
+        "codice": "MO2060"
+    },
+    {
+        "nome": "Lunga",
+        "codice": "MO456"
+    },
+    {
+        "nome": "Luosi bv Fattori",
+        "codice": "MO2875"
+    },
+    {
+        "nome": "Luosi bv San Faustino",
+        "codice": "MO2879"
+    },
+    {
+        "nome": "Lux",
+        "codice": "MO1756"
+    },
+    {
+        "nome": "Macinelle",
+        "codice": "MO1728"
+    },
+    {
+        "nome": "Madonna Baldaccini",
+        "codice": "MO1292"
+    },
+    {
+        "nome": "Madonna degli Angeli",
+        "codice": "MO1236"
+    },
+    {
+        "nome": "Madonna dell'Oppio",
+        "codice": "MOCE37"
+    },
+    {
+        "nome": "Madonna di Disvetro",
+        "codice": "MO1353"
+    },
+    {
+        "nome": "Madonna di Sotto",
+        "codice": "MO2295"
+    },
+    {
+        "nome": "Madre Teresa",
+        "codice": "MO2445"
+    },
+    {
+        "nome": "Maesta",
+        "codice": "MO2041"
+    },
+    {
+        "nome": "Maestra di Redu",
+        "codice": "MO3596"
+    },
+    {
+        "nome": "Maestri del Lavoro",
+        "codice": "MO2899"
+    },
+    {
+        "nome": "Maestri del Lavoro bv Gazzotti",
+        "codice": "MO2906"
+    },
+    {
+        "nome": "Magazzeno",
+        "codice": "MO1876"
+    },
+    {
+        "nome": "Magazzino",
+        "codice": "MO3541"
+    },
+    {
+        "nome": "Magazzino bv",
+        "codice": "MO3539"
+    },
+    {
+        "nome": "Magenta bv del Garda",
+        "codice": "MO2801"
+    },
+    {
+        "nome": "Magenta bv Vigevano",
+        "codice": "MO2799"
+    },
+    {
+        "nome": "Magliaie",
+        "codice": "MO3417"
+    },
+    {
+        "nome": "Maglificio",
+        "codice": "MO1959"
+    },
+    {
+        "nome": "Maglificio Tricot",
+        "codice": "MO1124"
+    },
+    {
+        "nome": "Magonza caseificio",
+        "codice": "MO1762"
+    },
+    {
+        "nome": "Magreta",
+        "codice": "MO1510"
+    },
+    {
+        "nome": "Magreta crociale",
+        "codice": "MO1492"
+    },
+    {
+        "nome": "Magrignana",
+        "codice": "MO2032"
+    },
+    {
+        "nome": "Malandrone",
+        "codice": "MO1283"
+    },
+    {
+        "nome": "Malandrone 1",
+        "codice": "MO3356"
+    },
+    {
+        "nome": "Malavolti",
+        "codice": "MO557"
+    },
+    {
+        "nome": "Malavolti 1",
+        "codice": "MO2689"
+    },
+    {
+        "nome": "Malavolti CNA",
+        "codice": "MO7201"
+    },
+    {
+        "nome": "Malcantone",
+        "codice": "MO1434"
+    },
+    {
+        "nome": "Malcantone scuole",
+        "codice": "MO300"
+    },
+    {
+        "nome": "Malpighi",
+        "codice": "MO3447"
+    },
+    {
+        "nome": "Mameli",
+        "codice": "MOPV999"
+    },
+    {
+        "nome": "Manarina",
+        "codice": "MO1086"
+    },
+    {
+        "nome": "Manzolino",
+        "codice": "MO1330"
+    },
+    {
+        "nome": "Manzoni",
+        "codice": "MOPV929"
+    },
+    {
+        "nome": "Manzoni 1",
+        "codice": "MO3424"
+    },
+    {
+        "nome": "Manzoni 2",
+        "codice": "MO3427"
+    },
+    {
+        "nome": "Mar Nero",
+        "codice": "MO139"
+    },
+    {
+        "nome": "Mar Tirreno asilo",
+        "codice": "MO187"
+    },
+    {
+        "nome": "Mar Tirreno bv Mar Nero",
+        "codice": "MO2862"
+    },
+    {
+        "nome": "Maranello Alta",
+        "codice": "MO1009"
+    },
+    {
+        "nome": "Maranello Auditorium",
+        "codice": "MO1005"
+    },
+    {
+        "nome": "Maranello cimitero",
+        "codice": "MOMA35"
+    },
+    {
+        "nome": "Maranello Claudia",
+        "codice": "MO3565"
+    },
+    {
+        "nome": "Maranello Ferrari",
+        "codice": "MO3803"
+    },
+    {
+        "nome": "Maranello Giardini",
+        "codice": "MO3621"
+    },
+    {
+        "nome": "Maranello Grizzaga",
+        "codice": "MO3239"
+    },
+    {
+        "nome": "Maranello IPSIA",
+        "codice": "MO2562"
+    },
+    {
+        "nome": "Maranello Scuole",
+        "codice": "MO1638"
+    },
+    {
+        "nome": "Maranello T. Speri",
+        "codice": "MO3454"
+    },
+    {
+        "nome": "MARANELLO TERMINAL",
+        "codice": "MO3455"
+    },
+    {
+        "nome": "Maranello Trebbo",
+        "codice": "MO3566"
+    },
+    {
+        "nome": "Maranello Vecchia",
+        "codice": "MO1008"
+    },
+    {
+        "nome": "Maranello Village",
+        "codice": "MOMA83"
+    },
+    {
+        "nome": "Marani",
+        "codice": "MO1832"
+    },
+    {
+        "nome": "Marano",
+        "codice": "MO1053"
+    },
+    {
+        "nome": "Marano fornace",
+        "codice": "MO1331"
+    },
+    {
+        "nome": "Marconi bv Corassori",
+        "codice": "MO2883"
+    },
+    {
+        "nome": "Marinetti",
+        "codice": "MO3606"
+    },
+    {
+        "nome": "MARINUZZI",
+        "codice": "MO2703"
+    },
+    {
+        "nome": "Marinuzzi bv Scarlatti",
+        "codice": "MO2697"
+    },
+    {
+        "nome": "Marley",
+        "codice": "MO7031"
+    },
+    {
+        "nome": "Marsala",
+        "codice": "MO1112"
+    },
+    {
+        "nome": "Martin Luther King bv Gandhi",
+        "codice": "MO2649"
+    },
+    {
+        "nome": "Martiniana 1",
+        "codice": "MOMO3059"
+    },
+    {
+        "nome": "Martiniana 5",
+        "codice": "MOMO3078"
+    },
+    {
+        "nome": "Martiniana inc Senni",
+        "codice": "MOMO3080"
+    },
+    {
+        "nome": "Martiniana inc Stradella",
+        "codice": "MOMO3057"
+    },
+    {
+        "nome": "Martiniana Ristorante Oca Bianca",
+        "codice": "MOMO3082"
+    },
+    {
+        "nome": "Martiri di Renno",
+        "codice": "MO1647"
+    },
+    {
+        "nome": "Martiri elementare",
+        "codice": "MO1686"
+    },
+    {
+        "nome": "Martiri Partigiani",
+        "codice": "MO2485"
+    },
+    {
+        "nome": "Marx",
+        "codice": "MO251"
+    },
+    {
+        "nome": "Marx 1",
+        "codice": "MO3214"
+    },
+    {
+        "nome": "Marzabotto",
+        "codice": "MO2301"
+    },
+    {
+        "nome": "Marzaglia inc Perderzona",
+        "codice": "MOMO3067"
+    },
+    {
+        "nome": "Marzaglia inc Via Aereoporto",
+        "codice": "MOMO3028"
+    },
+    {
+        "nome": "MARZAGLIA N",
+        "codice": "MO1032"
+    },
+    {
+        "nome": "Marzaglia Nuova",
+        "codice": "MO147"
+    },
+    {
+        "nome": "MARZAGLIA VECCHIA",
+        "codice": "MO3745"
+    },
+    {
+        "nome": "Marzola",
+        "codice": "MO1015"
+    },
+    {
+        "nome": "Mascagni bv Toscanini",
+        "codice": "MO1599"
+    },
+    {
+        "nome": "Maserno",
+        "codice": "MO2111"
+    },
+    {
+        "nome": "Massa Finalese",
+        "codice": "MO1110"
+    },
+    {
+        "nome": "Massa Finalese stazione",
+        "codice": "MO1108"
+    },
+    {
+        "nome": "MATTARELLA",
+        "codice": "MO233"
+    },
+    {
+        "nome": "Matteotti bv 2 Madonne",
+        "codice": "MO2275"
+    },
+    {
+        "nome": "Matteotti bv Manzoni",
+        "codice": "MO2477"
+    },
+    {
+        "nome": "Mazzacavallo",
+        "codice": "MO4701"
+    },
+    {
+        "nome": "Mazzalupo",
+        "codice": "MO1628"
+    },
+    {
+        "nome": "Mazzini",
+        "codice": "MO2313"
+    },
+    {
+        "nome": "Mazzone",
+        "codice": "MO3619"
+    },
+    {
+        "nome": "Medaglie D' oro",
+        "codice": "MO164"
+    },
+    {
+        "nome": "Medaglie D'oro",
+        "codice": "MO165"
+    },
+    {
+        "nome": "Medaglie D'oro bv Bellinzona",
+        "codice": "MO156"
+    },
+    {
+        "nome": "Mediana",
+        "codice": "MO3760"
+    },
+    {
+        "nome": "Medolla",
+        "codice": "MO1131"
+    },
+    {
+        "nome": "Medolla Autostazione",
+        "codice": "MO488"
+    },
+    {
+        "nome": "Meloni",
+        "codice": "MO3035"
+    },
+    {
+        "nome": "Menotti bv Emilia Est",
+        "codice": "MO132"
+    },
+    {
+        "nome": "Menotti bv Morselli",
+        "codice": "MO129"
+    },
+    {
+        "nome": "Menotti bv Puccini",
+        "codice": "MO131"
+    },
+    {
+        "nome": "Metano",
+        "codice": "MO425"
+    },
+    {
+        "nome": "Mezzavia",
+        "codice": "MO1578"
+    },
+    {
+        "nome": "Mezzuola",
+        "codice": "MO1973"
+    },
+    {
+        "nome": "Miceno",
+        "codice": "MO1365"
+    },
+    {
+        "nome": "Miceno Castello",
+        "codice": "MOPV653"
+    },
+    {
+        "nome": "Migliarina",
+        "codice": "MO455"
+    },
+    {
+        "nome": "Migliarina chiesa",
+        "codice": "MO458"
+    },
+    {
+        "nome": "Minelli ristorante",
+        "codice": "MO4006"
+    },
+    {
+        "nome": "Minghetti",
+        "codice": "MO2792"
+    },
+    {
+        "nome": "Mirandola Autostazione",
+        "codice": "MO1382"
+    },
+    {
+        "nome": "Mirandola ex scuole",
+        "codice": "MO1186"
+    },
+    {
+        "nome": "Mirandola mercato",
+        "codice": "MO1195"
+    },
+    {
+        "nome": "Missano",
+        "codice": "MO1436"
+    },
+    {
+        "nome": "Missano bv",
+        "codice": "MO1433"
+    },
+    {
+        "nome": "Mocogno",
+        "codice": "MO1804"
+    },
+    {
+        "nome": "MODENA AUTOSTAZIONE",
+        "codice": "MO10"
+    },
+    {
+        "nome": "MODENA EST",
+        "codice": "MO6337"
+    },
+    {
+        "nome": "Modenese",
+        "codice": "MO3226"
+    },
+    {
+        "nome": "Modenese bv",
+        "codice": "MO636"
+    },
+    {
+        "nome": "Moglia",
+        "codice": "MO1775"
+    },
+    {
+        "nome": "Molinella",
+        "codice": "MO1502"
+    },
+    {
+        "nome": "Molino",
+        "codice": "MO1435"
+    },
+    {
+        "nome": "Molino Grillo",
+        "codice": "MO1588"
+    },
+    {
+        "nome": "Molino Palette",
+        "codice": "MO1319"
+    },
+    {
+        "nome": "Molino Pompei",
+        "codice": "MO1366"
+    },
+    {
+        "nome": "Monarola 1",
+        "codice": "MOMO2029"
+    },
+    {
+        "nome": "Monarola 2",
+        "codice": "MOMO2031"
+    },
+    {
+        "nome": "Monarola 4",
+        "codice": "MOMO2035"
+    },
+    {
+        "nome": "Monarola inc Cavo Argine",
+        "codice": "MOMO2033"
+    },
+    {
+        "nome": "Monastero",
+        "codice": "MO2429"
+    },
+    {
+        "nome": "Moncerato",
+        "codice": "MO1147"
+    },
+    {
+        "nome": "Moncerato chiesa",
+        "codice": "MO3323"
+    },
+    {
+        "nome": "Monchio",
+        "codice": "MO1242"
+    },
+    {
+        "nome": "Mondine",
+        "codice": "MO3411"
+    },
+    {
+        "nome": "Monfestino bv",
+        "codice": "MO1277"
+    },
+    {
+        "nome": "Montagnana",
+        "codice": "MO1025"
+    },
+    {
+        "nome": "Montagnana di Sopra",
+        "codice": "MO1024"
+    },
+    {
+        "nome": "Montale",
+        "codice": "MO1460"
+    },
+    {
+        "nome": "Montale bv Zenzalose",
+        "codice": "MO3312"
+    },
+    {
+        "nome": "Montanara",
+        "codice": "MO1768"
+    },
+    {
+        "nome": "Montanara 1",
+        "codice": "MO3376"
+    },
+    {
+        "nome": "Montanara 2",
+        "codice": "MOMO2025"
+    },
+    {
+        "nome": "Montanara 3",
+        "codice": "MOMO2026"
+    },
+    {
+        "nome": "Montardoncino",
+        "codice": "MO1023"
+    },
+    {
+        "nome": "Montardone",
+        "codice": "MO1021"
+    },
+    {
+        "nome": "Monte Cresce",
+        "codice": "MO1387"
+    },
+    {
+        "nome": "Monte di Sopra",
+        "codice": "MO1102"
+    },
+    {
+        "nome": "Monte Kosica Barozzi",
+        "codice": "MO2578"
+    },
+    {
+        "nome": "Monte Kosica bv Ganaceto",
+        "codice": "MO2575"
+    },
+    {
+        "nome": "Monte Kosica FS",
+        "codice": "MO2576"
+    },
+    {
+        "nome": "Monte Kosica stadio",
+        "codice": "MO2579"
+    },
+    {
+        "nome": "Monte Nuovo",
+        "codice": "MO1989"
+    },
+    {
+        "nome": "Monte Ritorno",
+        "codice": "MO1793"
+    },
+    {
+        "nome": "Monte Scarpone",
+        "codice": "MO1794"
+    },
+    {
+        "nome": "Monte Vecchio",
+        "codice": "MO1991"
+    },
+    {
+        "nome": "Montebaranzone",
+        "codice": "MO1018"
+    },
+    {
+        "nome": "Montebelvedere",
+        "codice": "MO3463"
+    },
+    {
+        "nome": "Montebonello",
+        "codice": "MO2367"
+    },
+    {
+        "nome": "Montecatini 1",
+        "codice": "MOMO4028"
+    },
+    {
+        "nome": "Montecatini 2",
+        "codice": "MOMO4029"
+    },
+    {
+        "nome": "Montecatini 3",
+        "codice": "MOMO4030"
+    },
+    {
+        "nome": "Montecenere",
+        "codice": "MO1795"
+    },
+    {
+        "nome": "Montecerreto",
+        "codice": "MO1811"
+    },
+    {
+        "nome": "Montecorone",
+        "codice": "MO1408"
+    },
+    {
+        "nome": "Montecorone bv",
+        "codice": "MO1397"
+    },
+    {
+        "nome": "Montecreto",
+        "codice": "MO2400"
+    },
+    {
+        "nome": "Montecreto forno",
+        "codice": "MO4294"
+    },
+    {
+        "nome": "Montecuccolo",
+        "codice": "MOPV995"
+    },
+    {
+        "nome": "Montefiorino",
+        "codice": "MO2500"
+    },
+    {
+        "nome": "Montefiorino 1",
+        "codice": "MO6228"
+    },
+    {
+        "nome": "Montefiorino 2",
+        "codice": "MO79"
+    },
+    {
+        "nome": "Montefiorino bv dell'Ossola",
+        "codice": "MO2617"
+    },
+    {
+        "nome": "Montegibbio",
+        "codice": "MO1013"
+    },
+    {
+        "nome": "Montegrappa 1",
+        "codice": "MOPV987"
+    },
+    {
+        "nome": "Montegrappa 2",
+        "codice": "MOPV989"
+    },
+    {
+        "nome": "Montegrappa asilo",
+        "codice": "MO2612"
+    },
+    {
+        "nome": "Montegrappa bv S.Giovanni Bosco",
+        "codice": "MO2609"
+    },
+    {
+        "nome": "Montemolino",
+        "codice": "MO1737"
+    },
+    {
+        "nome": "Monteombraro",
+        "codice": "MO1418"
+    },
+    {
+        "nome": "Monteombraro bv",
+        "codice": "MO2740"
+    },
+    {
+        "nome": "Monteombraro Serre",
+        "codice": "MO2010"
+    },
+    {
+        "nome": "Monteorsello",
+        "codice": "MO1386"
+    },
+    {
+        "nome": "Montese",
+        "codice": "MO1377"
+    },
+    {
+        "nome": "Montese 1",
+        "codice": "MO2604"
+    },
+    {
+        "nome": "Montese Comune",
+        "codice": "MO2603"
+    },
+    {
+        "nome": "Montese Mulino",
+        "codice": "MO2601"
+    },
+    {
+        "nome": "Montese scuole",
+        "codice": "MO1379"
+    },
+    {
+        "nome": "Montese Torre",
+        "codice": "MO2602"
+    },
+    {
+        "nome": "Montestefano",
+        "codice": "MO1474"
+    },
+    {
+        "nome": "Monti",
+        "codice": "MO1851"
+    },
+    {
+        "nome": "Monticello",
+        "codice": "MO1667"
+    },
+    {
+        "nome": "Montorso",
+        "codice": "MO3254"
+    },
+    {
+        "nome": "Monumento",
+        "codice": "MO326"
+    },
+    {
+        "nome": "Monzambano",
+        "codice": "MO2493"
+    },
+    {
+        "nome": "Monzone",
+        "codice": "MO1865"
+    },
+    {
+        "nome": "Monzone bv",
+        "codice": "MO1797"
+    },
+    {
+        "nome": "Mora",
+        "codice": "MO4910"
+    },
+    {
+        "nome": "Morandina",
+        "codice": "MO2017"
+    },
+    {
+        "nome": "Morane",
+        "codice": "MO7311"
+    },
+    {
+        "nome": "Morane bv Bellincini",
+        "codice": "MO2789"
+    },
+    {
+        "nome": "Morane bv Bolzano",
+        "codice": "MO87"
+    },
+    {
+        "nome": "Morane bv Gobetti",
+        "codice": "MO2794"
+    },
+    {
+        "nome": "Morane bv Pavia",
+        "codice": "MO2797"
+    },
+    {
+        "nome": "Morane bv Sigonio",
+        "codice": "MO112"
+    },
+    {
+        "nome": "Morane esselunga",
+        "codice": "MO2795"
+    },
+    {
+        "nome": "Morane Hesperia",
+        "codice": "MO2796"
+    },
+    {
+        "nome": "Moreali bv Cucchiari",
+        "codice": "MO2725"
+    },
+    {
+        "nome": "Moreali bv Dei Bononcini",
+        "codice": "MO2726"
+    },
+    {
+        "nome": "Moreali bv Sabatini",
+        "codice": "MO2721"
+    },
+    {
+        "nome": "Moreali bv Valdrighi",
+        "codice": "MO2722"
+    },
+    {
+        "nome": "Morello Confine",
+        "codice": "MOMO1071"
+    },
+    {
+        "nome": "Moro 1",
+        "codice": "MO3027"
+    },
+    {
+        "nome": "Moro 2",
+        "codice": "MO3219"
+    },
+    {
+        "nome": "Mortizzuolo",
+        "codice": "MO1070"
+    },
+    {
+        "nome": "Motta",
+        "codice": "MO1636"
+    },
+    {
+        "nome": "Mozart",
+        "codice": "MO3189"
+    },
+    {
+        "nome": "Mulinetto",
+        "codice": "MO1538"
+    },
+    {
+        "nome": "Mulini",
+        "codice": "MO3436"
+    },
+    {
+        "nome": "Mulini 2",
+        "codice": "MO265"
+    },
+    {
+        "nome": "Mulini Nuovi",
+        "codice": "MO2642"
+    },
+    {
+        "nome": "Mulino",
+        "codice": "MO1703"
+    },
+    {
+        "nome": "Mulino Ariani",
+        "codice": "MO2135"
+    },
+    {
+        "nome": "Mulino Battistoni",
+        "codice": "MOPV722"
+    },
+    {
+        "nome": "Mulino Calicetti",
+        "codice": "MO1564"
+    },
+    {
+        "nome": "Mulino Cortile",
+        "codice": "MO1220"
+    },
+    {
+        "nome": "Mulino Lama",
+        "codice": "MO1246"
+    },
+    {
+        "nome": "Mulino Porcella",
+        "codice": "MO1491"
+    },
+    {
+        "nome": "Mulino Rocchetta",
+        "codice": "MO2073"
+    },
+    {
+        "nome": "Municipio",
+        "codice": "MOCE33"
+    },
+    {
+        "nome": "Municipio Sassuolo",
+        "codice": "MO2453"
+    },
+    {
+        "nome": "Muraglione",
+        "codice": "MO2063"
+    },
+    {
+        "nome": "Muschioso",
+        "codice": "MO1706"
+    },
+    {
+        "nome": "Navicello",
+        "codice": "MO423"
+    },
+    {
+        "nome": "Navicello scuole",
+        "codice": "MO421"
+    },
+    {
+        "nome": "Nazionale per Carpi",
+        "codice": "MO3067"
+    },
+    {
+        "nome": "Nazionale per Carpi bv Bembo",
+        "codice": "MO3097"
+    },
+    {
+        "nome": "Nazioni",
+        "codice": "MO3185"
+    },
+    {
+        "nome": "Nazioni bv Bulgaria",
+        "codice": "MO3171"
+    },
+    {
+        "nome": "Nazioni bv Cavazza",
+        "codice": "MO3181"
+    },
+    {
+        "nome": "Nazioni bv tangenziale",
+        "codice": "MO3183"
+    },
+    {
+        "nome": "Nievo bv Amendola",
+        "codice": "MO2855"
+    },
+    {
+        "nome": "Nievo bv Tiziano",
+        "codice": "MO2854"
+    },
+    {
+        "nome": "Niviano bv",
+        "codice": "MO1823"
+    },
+    {
+        "nome": "Niviano Chiesa",
+        "codice": "MOPV854"
+    },
+    {
+        "nome": "Nonantola",
+        "codice": "MOCE50"
+    },
+    {
+        "nome": "Nonantola Casette",
+        "codice": "MO3669"
+    },
+    {
+        "nome": "Nonantola casette 2",
+        "codice": "MO3667"
+    },
+    {
+        "nome": "Nonantola Terminal",
+        "codice": "MO3980"
+    },
+    {
+        "nome": "Nonantola vai Rimembranze",
+        "codice": "MOCE51"
+    },
+    {
+        "nome": "Nonantola via Marzabotto",
+        "codice": "MOCE53"
+    },
+    {
+        "nome": "Nonantolana",
+        "codice": "MO143"
+    },
+    {
+        "nome": "Nonantolana bv Crocetta",
+        "codice": "MO2629"
+    },
+    {
+        "nome": "Nonantolana bv Cuba",
+        "codice": "MO417"
+    },
+    {
+        "nome": "Nonantolana bv Cuboni",
+        "codice": "MO2627"
+    },
+    {
+        "nome": "Nonantolana bv Mar Adriatico",
+        "codice": "MO332"
+    },
+    {
+        "nome": "Nonantolana scuole",
+        "codice": "MO2625"
+    },
+    {
+        "nome": "Nonantolana Torrenova",
+        "codice": "MO2616"
+    },
+    {
+        "nome": "Novi",
+        "codice": "MO1445"
+    },
+    {
+        "nome": "NOVI PARK",
+        "codice": "MO40000"
+    },
+    {
+        "nome": "Nuova Ponente",
+        "codice": "MO8521"
+    },
+    {
+        "nome": "Nuvolari",
+        "codice": "MO1603"
+    },
+    {
+        "nome": "Olina",
+        "codice": "MO1783"
+    },
+    {
+        "nome": "Olmaccio",
+        "codice": "MO1062"
+    },
+    {
+        "nome": "Olmo bv",
+        "codice": "MO1244"
+    },
+    {
+        "nome": "Oratorio",
+        "codice": "MO1385"
+    },
+    {
+        "nome": "Ospedale",
+        "codice": "MO6964"
+    },
+    {
+        "nome": "OSPEDALE BAGGIOVARA",
+        "codice": "MO2530"
+    },
+    {
+        "nome": "Ospedale Castelfranco",
+        "codice": "MO1235"
+    },
+    {
+        "nome": "Ospedale Estense",
+        "codice": "MO2594"
+    },
+    {
+        "nome": "Ospedale Mirandola",
+        "codice": "MO2203"
+    },
+    {
+        "nome": "Ospedale San Felice",
+        "codice": "MO293"
+    },
+    {
+        "nome": "Ospedale Sant'Agostino",
+        "codice": "MO2572"
+    },
+    {
+        "nome": "Ospedale Sassuolo",
+        "codice": "MO2786"
+    },
+    {
+        "nome": "Ospedale via Alighieri",
+        "codice": "MOCE32"
+    },
+    {
+        "nome": "Ospedale Vignola ",
+        "codice": "MO2406"
+    },
+    {
+        "nome": "Ospitale bv",
+        "codice": "MO2087"
+    },
+    {
+        "nome": "Ospitaletto",
+        "codice": "MO4724"
+    },
+    {
+        "nome": "Osteria Vecchia",
+        "codice": "MO1198"
+    },
+    {
+        "nome": "Osteriola di San Martino",
+        "codice": "MO4912"
+    },
+    {
+        "nome": "Osteriola Via Fornaci Carrobbio",
+        "codice": "MOC302"
+    },
+    {
+        "nome": "P.le Ramazzini",
+        "codice": "MO466"
+    },
+    {
+        "nome": "Pace",
+        "codice": "MO2379"
+    },
+    {
+        "nome": "Paganello",
+        "codice": "MOPV253"
+    },
+    {
+        "nome": "Paganine centro",
+        "codice": "MO1470"
+    },
+    {
+        "nome": "Paganine Unibon",
+        "codice": "MO3310"
+    },
+    {
+        "nome": "Palagano",
+        "codice": "MO1507"
+    },
+    {
+        "nome": "Palagano Municipio",
+        "codice": "MO1521"
+    },
+    {
+        "nome": "Palasport",
+        "codice": "MO107"
+    },
+    {
+        "nome": "Palazzina",
+        "codice": "MO1155"
+    },
+    {
+        "nome": "Palazzo Ducale",
+        "codice": "MO2491"
+    },
+    {
+        "nome": "Palazzo Europa",
+        "codice": "MO2993"
+    },
+    {
+        "nome": "Palazzo Pio",
+        "codice": "MO484"
+    },
+    {
+        "nome": "Palazzo Taccoli",
+        "codice": "MO1441"
+    },
+    {
+        "nome": "Palestra San Faustino",
+        "codice": "MO2877"
+    },
+    {
+        "nome": "Palladio",
+        "codice": "MO7033"
+    },
+    {
+        "nome": "Palona",
+        "codice": "MO363"
+    },
+    {
+        "nome": "Pancaldi bv Cimarosa",
+        "codice": "MO2673"
+    },
+    {
+        "nome": "Pancaldi bv Ponchielli",
+        "codice": "MO2676"
+    },
+    {
+        "nome": "PANNI",
+        "codice": "MO6675"
+    },
+    {
+        "nome": "Panni bv Giambellino",
+        "codice": "MO2615"
+    },
+    {
+        "nome": "Panorama",
+        "codice": "MO1556"
+    },
+    {
+        "nome": "Panzano",
+        "codice": "MO1260"
+    },
+    {
+        "nome": "Panzano bv",
+        "codice": "MO1238"
+    },
+    {
+        "nome": "Panzano bv 1",
+        "codice": "MO1252"
+    },
+    {
+        "nome": "Panzano Carpi",
+        "codice": "MO2358"
+    },
+    {
+        "nome": "Paolo Ruffini",
+        "codice": "MO2977"
+    },
+    {
+        "nome": "Papotti",
+        "codice": "MO3469"
+    },
+    {
+        "nome": "Parco",
+        "codice": "MO1677"
+    },
+    {
+        "nome": "Parigi",
+        "codice": "MO3196"
+    },
+    {
+        "nome": "Parmenide",
+        "codice": "MO3414"
+    },
+    {
+        "nome": "Passetto",
+        "codice": "MO2013"
+    },
+    {
+        "nome": "Passo San Michele",
+        "codice": "MO2171"
+    },
+    {
+        "nome": "Passo Uccellino",
+        "codice": "MO1083"
+    },
+    {
+        "nome": "Passo Vecchio",
+        "codice": "MO1174"
+    },
+    {
+        "nome": "Pastinella",
+        "codice": "MO1817"
+    },
+    {
+        "nome": "Pastore",
+        "codice": "MO1849"
+    },
+    {
+        "nome": "Patriarca",
+        "codice": "MO231"
+    },
+    {
+        "nome": "Pavia bv Milano",
+        "codice": "MO2798"
+    },
+    {
+        "nome": "Pavignane",
+        "codice": "MO283"
+    },
+    {
+        "nome": "Pavullo autostazione",
+        "codice": "MO1381"
+    },
+    {
+        "nome": "Pavullo scuole",
+        "codice": "MO1352"
+    },
+    {
+        "nome": "Pediera",
+        "codice": "MO1449"
+    },
+    {
+        "nome": "Pelusia",
+        "codice": "MO2606"
+    },
+    {
+        "nome": "Perla Verde",
+        "codice": "MO1834"
+    },
+    {
+        "nome": "Pero Grande",
+        "codice": "MO2023"
+    },
+    {
+        "nome": "Peruzzi 1",
+        "codice": "MO3375"
+    },
+    {
+        "nome": "Peruzzi 2",
+        "codice": "MO3373"
+    },
+    {
+        "nome": "Peruzzi 3",
+        "codice": "MO3482"
+    },
+    {
+        "nome": "PERUZZI AUTOSTAZIONE",
+        "codice": "MO2547"
+    },
+    {
+        "nome": "Pescale",
+        "codice": "MO991"
+    },
+    {
+        "nome": "Pescale Enel",
+        "codice": "MO1869"
+    },
+    {
+        "nome": "Pescarola bv",
+        "codice": "MO1153"
+    },
+    {
+        "nome": "Petternella",
+        "codice": "MO1085"
+    },
+    {
+        "nome": "Pezzana 1",
+        "codice": "MO3431"
+    },
+    {
+        "nome": "Pezzana 2",
+        "codice": "MO3435"
+    },
+    {
+        "nome": "Pezzana 3",
+        "codice": "MO3437"
+    },
+    {
+        "nome": "Pia",
+        "codice": "MO2487"
+    },
+    {
+        "nome": "Pian Della Valle",
+        "codice": "MO1773"
+    },
+    {
+        "nome": "Piana",
+        "codice": "MO1273"
+    },
+    {
+        "nome": "Pianacci",
+        "codice": "MO1724"
+    },
+    {
+        "nome": "Piandelagotti",
+        "codice": "MO2147"
+    },
+    {
+        "nome": "Piandiscuola",
+        "codice": "MO1886"
+    },
+    {
+        "nome": "Piane",
+        "codice": "MO2145"
+    },
+    {
+        "nome": "Pianellino",
+        "codice": "MO1574"
+    },
+    {
+        "nome": "Pianezzo",
+        "codice": "MO1563"
+    },
+    {
+        "nome": "Piangonato",
+        "codice": "MO1621"
+    },
+    {
+        "nome": "Piano",
+        "codice": "MO4730"
+    },
+    {
+        "nome": "Pianorso",
+        "codice": "MO1808"
+    },
+    {
+        "nome": "Pianorso posta",
+        "codice": "MO1809"
+    },
+    {
+        "nome": "Piantacroce",
+        "codice": "MO1815"
+    },
+    {
+        "nome": "Piave",
+        "codice": "MO1555"
+    },
+    {
+        "nome": "Piave 1",
+        "codice": "MOPV997"
+    },
+    {
+        "nome": "Piave 2",
+        "codice": "MOPV971"
+    },
+    {
+        "nome": "Piazza Manzoni",
+        "codice": "MO11"
+    },
+    {
+        "nome": "Piazza Matteotti",
+        "codice": "MO2570"
+    },
+    {
+        "nome": "Piazza Mazzini",
+        "codice": "MO2566"
+    },
+    {
+        "nome": "Piazza Roma",
+        "codice": "MO2583"
+    },
+    {
+        "nome": "Piazza Unita D'Italia",
+        "codice": "MOMA02"
+    },
+    {
+        "nome": "Picchio Rosso",
+        "codice": "MO1646"
+    },
+    {
+        "nome": "Pico carrozzeria",
+        "codice": "MO444"
+    },
+    {
+        "nome": "Pico Della Mirandola",
+        "codice": "MO216"
+    },
+    {
+        "nome": "Piemonte",
+        "codice": "MO2537"
+    },
+    {
+        "nome": "Pietravolta",
+        "codice": "MO1992"
+    },
+    {
+        "nome": "Pietro Giannone",
+        "codice": "MO6647"
+    },
+    {
+        "nome": "Pieve",
+        "codice": "MO1483"
+    },
+    {
+        "nome": "Pievepelago",
+        "codice": "MO1714"
+    },
+    {
+        "nome": "Pievepelago Autostazione",
+        "codice": "MO3104"
+    },
+    {
+        "nome": "Pievepelago capannone",
+        "codice": "MO2021"
+    },
+    {
+        "nome": "Pievepelago scuole",
+        "codice": "MO1717"
+    },
+    {
+        "nome": "Pievina",
+        "codice": "MO2405"
+    },
+    {
+        "nome": "Pini",
+        "codice": "MO3005"
+    },
+    {
+        "nome": "Pioppa",
+        "codice": "MO1055"
+    },
+    {
+        "nome": "Pioppa Talbignano",
+        "codice": "MO1253"
+    },
+    {
+        "nome": "Pisano",
+        "codice": "MO2857"
+    },
+    {
+        "nome": "Piscine",
+        "codice": "MO2330"
+    },
+    {
+        "nome": "Pissa Segala",
+        "codice": "MO1614"
+    },
+    {
+        "nome": "Pista",
+        "codice": "MO7002"
+    },
+    {
+        "nome": "Piumazzo stazione",
+        "codice": "MO1788"
+    },
+    {
+        "nome": "Pizzeria",
+        "codice": "MO1517"
+    },
+    {
+        "nome": "Po",
+        "codice": "MO2463"
+    },
+    {
+        "nome": "Po 1",
+        "codice": "MOPV965"
+    },
+    {
+        "nome": "Po 2",
+        "codice": "MOPV967"
+    },
+    {
+        "nome": "Poggetto",
+        "codice": "MO3696"
+    },
+    {
+        "nome": "Poggio (oratorio)",
+        "codice": "MOPV270"
+    },
+    {
+        "nome": "Poggio Bianco",
+        "codice": "MO1143"
+    },
+    {
+        "nome": "Poggio del Bue",
+        "codice": "MO2062"
+    },
+    {
+        "nome": "Poggio di sotto",
+        "codice": "MO1355"
+    },
+    {
+        "nome": "Poggio Olmaccio",
+        "codice": "MO3941"
+    },
+    {
+        "nome": "Poggioraso",
+        "codice": "MO2107"
+    },
+    {
+        "nome": "Polacci",
+        "codice": "MO2131"
+    },
+    {
+        "nome": "Polecchia",
+        "codice": "MOPV259"
+    },
+    {
+        "nome": "Poliambulatorio",
+        "codice": "MO225"
+    },
+    {
+        "nome": "Policlinico",
+        "codice": "MO259"
+    },
+    {
+        "nome": "Polidori",
+        "codice": "MO2184"
+    },
+    {
+        "nome": "Polinago",
+        "codice": "MO1805"
+    },
+    {
+        "nome": "Polinago scuole",
+        "codice": "MO1799"
+    },
+    {
+        "nome": "Polizia",
+        "codice": "MO3006"
+    },
+    {
+        "nome": "Polo Finale",
+        "codice": "MO3809"
+    },
+    {
+        "nome": "POLO LEONARDO",
+        "codice": "MO217"
+    },
+    {
+        "nome": "POLO LEONARDO 1",
+        "codice": "MO2928"
+    },
+    {
+        "nome": "Polo Mirandola",
+        "codice": "MO1126"
+    },
+    {
+        "nome": "Polo Scolastico",
+        "codice": "MO2965"
+    },
+    {
+        "nome": "Pompeano",
+        "codice": "MO4205"
+    },
+    {
+        "nome": "Pomposiana bv Giarola",
+        "codice": "MO2951"
+    },
+    {
+        "nome": "Pomposiana bv S.Donnino",
+        "codice": "MO2949"
+    },
+    {
+        "nome": "Pomposiana Camper Caravan",
+        "codice": "MO2963"
+    },
+    {
+        "nome": "Pomposiana caseificio",
+        "codice": "MO2947"
+    },
+    {
+        "nome": "Pomposiana chiesetta",
+        "codice": "MO2950"
+    },
+    {
+        "nome": "Pomposiana comunita",
+        "codice": "MO2961"
+    },
+    {
+        "nome": "Ponte",
+        "codice": "MO1429"
+    },
+    {
+        "nome": "Ponte Alto",
+        "codice": "MO17"
+    },
+    {
+        "nome": "Ponte Alto Nord 1",
+        "codice": "MOMO1064"
+    },
+    {
+        "nome": "Ponte Alto Nord 2",
+        "codice": "MOMO1062"
+    },
+    {
+        "nome": "Ponte Alto Nuovo",
+        "codice": "MO1772"
+    },
+    {
+        "nome": "Ponte Basso",
+        "codice": "MO331"
+    },
+    {
+        "nome": "Ponte Battistella",
+        "codice": "MO2168"
+    },
+    {
+        "nome": "Ponte Bicocca",
+        "codice": "MO2119"
+    },
+    {
+        "nome": "Ponte Borlengo",
+        "codice": "MO1211"
+    },
+    {
+        "nome": "Ponte Brandola",
+        "codice": "MO1618"
+    },
+    {
+        "nome": "Ponte Capraio",
+        "codice": "MO2175"
+    },
+    {
+        "nome": "Ponte Casina",
+        "codice": "MO1629"
+    },
+    {
+        "nome": "Ponte Cervaro",
+        "codice": "MO1258"
+    },
+    {
+        "nome": "Ponte D'Olina",
+        "codice": "MOPV484"
+    },
+    {
+        "nome": "Ponte di  Pietra",
+        "codice": "MO1282"
+    },
+    {
+        "nome": "Ponte di Ferro",
+        "codice": "MO1979"
+    },
+    {
+        "nome": "Ponte Dolo",
+        "codice": "MO1471"
+    },
+    {
+        "nome": "Ponte Dragone",
+        "codice": "MO1527"
+    },
+    {
+        "nome": "Ponte ferrovia",
+        "codice": "MO2407"
+    },
+    {
+        "nome": "Ponte Fiume",
+        "codice": "MO1786"
+    },
+    {
+        "nome": "Ponte Fola",
+        "codice": "MO2173"
+    },
+    {
+        "nome": "Ponte Fossa",
+        "codice": "MO1550"
+    },
+    {
+        "nome": "Ponte Gavello",
+        "codice": "MO1591"
+    },
+    {
+        "nome": "Ponte Ghiotto",
+        "codice": "MO1442"
+    },
+    {
+        "nome": "Ponte Guerro",
+        "codice": "MO1390"
+    },
+    {
+        "nome": "Ponte Legara",
+        "codice": "MO1858"
+    },
+    {
+        "nome": "Ponte Legno",
+        "codice": "MO1073"
+    },
+    {
+        "nome": "Ponte Lucenta",
+        "codice": "MO1837"
+    },
+    {
+        "nome": "Ponte Modino",
+        "codice": "MO2170"
+    },
+    {
+        "nome": "Ponte Motta",
+        "codice": "MO1290"
+    },
+    {
+        "nome": "Ponte Nuovo",
+        "codice": "MO126"
+    },
+    {
+        "nome": "Ponte Perlina",
+        "codice": "MO419"
+    },
+    {
+        "nome": "Ponte Pietra",
+        "codice": "MO1661"
+    },
+    {
+        "nome": "Ponte Pioppa",
+        "codice": "MO475"
+    },
+    {
+        "nome": "Ponte Prignano",
+        "codice": "MO1135"
+    },
+    {
+        "nome": "Ponte Prugheto",
+        "codice": "MOPV468"
+    },
+    {
+        "nome": "Ponte Prugneto",
+        "codice": "MO1919"
+    },
+    {
+        "nome": "Ponte Re",
+        "codice": "MO1410"
+    },
+    {
+        "nome": "Ponte Rosso",
+        "codice": "MO1825"
+    },
+    {
+        "nome": "Ponte Rovere",
+        "codice": "MO1763"
+    },
+    {
+        "nome": "Ponte Saburano",
+        "codice": "MO1929"
+    },
+    {
+        "nome": "Ponte Samone",
+        "codice": "MO1334"
+    },
+    {
+        "nome": "Ponte San Biagio",
+        "codice": "MO4906"
+    },
+    {
+        "nome": "Ponte San Pellegrino",
+        "codice": "MO285"
+    },
+    {
+        "nome": "Ponte Sant'Ambrogio",
+        "codice": "MO1234"
+    },
+    {
+        "nome": "Ponte Sant'Anna",
+        "codice": "MO2162"
+    },
+    {
+        "nome": "Ponte Santa Lucia",
+        "codice": "MO1458"
+    },
+    {
+        "nome": "Ponte Santa Maria",
+        "codice": "MO1764"
+    },
+    {
+        "nome": "Ponte Scoltenna",
+        "codice": "MO2089"
+    },
+    {
+        "nome": "Ponte Secchia",
+        "codice": "MO1854"
+    },
+    {
+        "nome": "Ponte Tole",
+        "codice": "MO2099"
+    },
+    {
+        "nome": "Ponte Uccellino",
+        "codice": "MOMO1072"
+    },
+    {
+        "nome": "Ponte Vecchio",
+        "codice": "MO347"
+    },
+    {
+        "nome": "Ponticelli",
+        "codice": "MO445"
+    },
+    {
+        "nome": "Porcilaia",
+        "codice": "MO345"
+    },
+    {
+        "nome": "Portichetto",
+        "codice": "MO1414"
+    },
+    {
+        "nome": "Portile 1",
+        "codice": "MOMO4059"
+    },
+    {
+        "nome": "Portile centro",
+        "codice": "MO1450"
+    },
+    {
+        "nome": "Portile farmacia",
+        "codice": "MO2328"
+    },
+    {
+        "nome": "Portile Madonnina",
+        "codice": "MO1446"
+    },
+    {
+        "nome": "PORTORICO",
+        "codice": "MO6238"
+    },
+    {
+        "nome": "Pozza",
+        "codice": "MO1650"
+    },
+    {
+        "nome": "Pozza P. Bologna",
+        "codice": "MOMA75"
+    },
+    {
+        "nome": "Pozza P. Rossini",
+        "codice": "MOMA81"
+    },
+    {
+        "nome": "Pozza Via Vandelli",
+        "codice": "MOMA80"
+    },
+    {
+        "nome": "Pozza Via Venezia",
+        "codice": "MOMA77"
+    },
+    {
+        "nome": "Pozzaccia",
+        "codice": "MO1830"
+    },
+    {
+        "nome": "Pradina",
+        "codice": "MO1792"
+    },
+    {
+        "nome": "Prampolini",
+        "codice": "MO2273"
+    },
+    {
+        "nome": "Pratochiesa",
+        "codice": "MO1340"
+    },
+    {
+        "nome": "Pratolino",
+        "codice": "MO1813"
+    },
+    {
+        "nome": "Prefettura",
+        "codice": "MO2590"
+    },
+    {
+        "nome": "Prignano",
+        "codice": "MO1898"
+    },
+    {
+        "nome": "Prignano Poste",
+        "codice": "MO1897"
+    },
+    {
+        "nome": "Prignano Secchia",
+        "codice": "MO1899"
+    },
+    {
+        "nome": "Pronto Soccorso",
+        "codice": "MO3466"
+    },
+    {
+        "nome": "Provincia 1",
+        "codice": "MO1329"
+    },
+    {
+        "nome": "Provincia 2",
+        "codice": "MO1325"
+    },
+    {
+        "nome": "Prugneto",
+        "codice": "MO1917"
+    },
+    {
+        "nome": "Puccini bv S. Giovanni Bosco",
+        "codice": "MO2614"
+    },
+    {
+        "nome": "Puccini bv Verdi",
+        "codice": "MO2599"
+    },
+    {
+        "nome": "Pugnago",
+        "codice": "MO1229"
+    },
+    {
+        "nome": "Puianello",
+        "codice": "MO1049"
+    },
+    {
+        "nome": "Puianello Chiesa",
+        "codice": "MO1043"
+    },
+    {
+        "nome": "Quarantoli",
+        "codice": "MO1088"
+    },
+    {
+        "nome": "Quarantoli Madonnina",
+        "codice": "MO1087"
+    },
+    {
+        "nome": "Quartirolo",
+        "codice": "MO258"
+    },
+    {
+        "nome": "Quattro Colonne",
+        "codice": "MO1512"
+    },
+    {
+        "nome": "Quattro Madonne",
+        "codice": "MO1464"
+    },
+    {
+        "nome": "Quattro Ville",
+        "codice": "MOMO1023"
+    },
+    {
+        "nome": "Quattro Ville 3",
+        "codice": "MOMO1002"
+    },
+    {
+        "nome": "Quattro Ville 4",
+        "codice": "MOMO1046"
+    },
+    {
+        "nome": "Quattro Ville 5",
+        "codice": "MOMO1045"
+    },
+    {
+        "nome": "Quattroponti",
+        "codice": "MO1557"
+    },
+    {
+        "nome": "Querciagrossa",
+        "codice": "MO1819"
+    },
+    {
+        "nome": "Questura",
+        "codice": "MO2471"
+    },
+    {
+        "nome": "Radici",
+        "codice": "MO3341"
+    },
+    {
+        "nome": "Radici in Monte bv Liberta",
+        "codice": "MO2391"
+    },
+    {
+        "nome": "Radici in Monte bv Magenta",
+        "codice": "MO2401"
+    },
+    {
+        "nome": "Radici in Piano bv  Montegrappa",
+        "codice": "MO772"
+    },
+    {
+        "nome": "Radici in Piano bv I Maggio",
+        "codice": "MO1558"
+    },
+    {
+        "nome": "Radici in Piano bv Piemonte",
+        "codice": "MO1552"
+    },
+    {
+        "nome": "Radici in Piano bv San Lorenzo",
+        "codice": "MO2535"
+    },
+    {
+        "nome": "Radici in Piano bv Sella",
+        "codice": "MO1553"
+    },
+    {
+        "nome": "Radici in Piano Montegrappa",
+        "codice": "MO1554"
+    },
+    {
+        "nome": "Raffaello",
+        "codice": "MO3616"
+    },
+    {
+        "nome": "Ragazzi 99 1",
+        "codice": "MOPV961"
+    },
+    {
+        "nome": "Ragazzi del 99 1",
+        "codice": "MOMO3092"
+    },
+    {
+        "nome": "Ragazzi del 99 2",
+        "codice": "MOMO3091"
+    },
+    {
+        "nome": "Raggia",
+        "codice": "MO1994"
+    },
+    {
+        "nome": "Raggiola",
+        "codice": "MO1726"
+    },
+    {
+        "nome": "Ramazzini 1",
+        "codice": "MO3444"
+    },
+    {
+        "nome": "Ramazzini 2",
+        "codice": "MO2565"
+    },
+    {
+        "nome": "Rami",
+        "codice": "MO373"
+    },
+    {
+        "nome": "Rastellino",
+        "codice": "MO1447"
+    },
+    {
+        "nome": "Rastellino Mulino",
+        "codice": "MO1312"
+    },
+    {
+        "nome": "Ravarino",
+        "codice": "MO1974"
+    },
+    {
+        "nome": "Ravarino Dante",
+        "codice": "MO377"
+    },
+    {
+        "nome": "Recovato Chiesa",
+        "codice": "MO1267"
+    },
+    {
+        "nome": "Recovato Mulino",
+        "codice": "MO1266"
+    },
+    {
+        "nome": "Redu",
+        "codice": "MO1270"
+    },
+    {
+        "nome": "Refice parco",
+        "codice": "MO3395"
+    },
+    {
+        "nome": "Refice scuole",
+        "codice": "MO2522"
+    },
+    {
+        "nome": "Regina Pacis",
+        "codice": "MO3784"
+    },
+    {
+        "nome": "Reiter",
+        "codice": "MO138"
+    },
+    {
+        "nome": "Remesina 1",
+        "codice": "MO178"
+    },
+    {
+        "nome": "Remesina 2",
+        "codice": "MO3227"
+    },
+    {
+        "nome": "Remesina 3",
+        "codice": "MO3209"
+    },
+    {
+        "nome": "Remesina 4",
+        "codice": "MO3465"
+    },
+    {
+        "nome": "Renno",
+        "codice": "MO1818"
+    },
+    {
+        "nome": "Renno bv",
+        "codice": "MO1816"
+    },
+    {
+        "nome": "Renno Cimitero",
+        "codice": "MOPV455"
+    },
+    {
+        "nome": "Resistenza",
+        "codice": "MO2687"
+    },
+    {
+        "nome": "Respighi",
+        "codice": "MO2696"
+    },
+    {
+        "nome": "Respighi bv Bazzini",
+        "codice": "MO89"
+    },
+    {
+        "nome": "Rezdore",
+        "codice": "MO3418"
+    },
+    {
+        "nome": "Ribera bv Panni",
+        "codice": "MO2861"
+    },
+    {
+        "nome": "Ribera Conad",
+        "codice": "MO2859"
+    },
+    {
+        "nome": "Ricco",
+        "codice": "MO1197"
+    },
+    {
+        "nome": "Righi Riva",
+        "codice": "MOMO4061"
+    },
+    {
+        "nome": "Rimembranze bv Canalchiaro",
+        "codice": "MO2592"
+    },
+    {
+        "nome": "Rimembranze bv Selmi",
+        "codice": "MO2591"
+    },
+    {
+        "nome": "Rimembranze ex Questura",
+        "codice": "MO12"
+    },
+    {
+        "nome": "Rimessa",
+        "codice": "MO1711"
+    },
+    {
+        "nome": "Rimessa Serpiano",
+        "codice": "MO2019"
+    },
+    {
+        "nome": "Rio Secco",
+        "codice": "MO2817"
+    },
+    {
+        "nome": "Riolino",
+        "codice": "MO2027"
+    },
+    {
+        "nome": "Riolo",
+        "codice": "MO1310"
+    },
+    {
+        "nome": "Riolo Mulino",
+        "codice": "MO1308"
+    },
+    {
+        "nome": "Riolunato",
+        "codice": "MO2009"
+    },
+    {
+        "nome": "Riotorto Selva",
+        "codice": "MO1286"
+    },
+    {
+        "nome": "Risorgimento",
+        "codice": "MO20"
+    },
+    {
+        "nome": "Rist. Siberia",
+        "codice": "MOMA72"
+    },
+    {
+        "nome": "Ristorante La Trappola",
+        "codice": "MO1969"
+    },
+    {
+        "nome": "Ristorante Martino",
+        "codice": "MO1938"
+    },
+    {
+        "nome": "Ristorante Nuova Luce",
+        "codice": "MO1140"
+    },
+    {
+        "nome": "Ristorante Saionara",
+        "codice": "MO1327"
+    },
+    {
+        "nome": "Rivara",
+        "codice": "MO287"
+    },
+    {
+        "nome": "Riviera",
+        "codice": "MO1144"
+    },
+    {
+        "nome": "Rocca Malatina",
+        "codice": "MO1389"
+    },
+    {
+        "nome": "Rocchetta bv",
+        "codice": "MO369"
+    },
+    {
+        "nome": "Rocchetta Sandri",
+        "codice": "MO2075"
+    },
+    {
+        "nome": "Rocchetta Sandri bv",
+        "codice": "MO2079"
+    },
+    {
+        "nome": "Rodiano",
+        "codice": "MO4728"
+    },
+    {
+        "nome": "Rodiano 1",
+        "codice": "MO3815"
+    },
+    {
+        "nome": "Rolo bv",
+        "codice": "MO1674"
+    },
+    {
+        "nome": "Rolo Stazione",
+        "codice": "MO2449"
+    },
+    {
+        "nome": "Roma",
+        "codice": "MO2553"
+    },
+    {
+        "nome": "Roma bv",
+        "codice": "MO460"
+    },
+    {
+        "nome": "Romania",
+        "codice": "MO3163"
+    },
+    {
+        "nome": "Romano",
+        "codice": "MO2338"
+    },
+    {
+        "nome": "Romanoro",
+        "codice": "MO1699"
+    },
+    {
+        "nome": "Rometta",
+        "codice": "MO2225"
+    },
+    {
+        "nome": "Rometta alta",
+        "codice": "MO3425"
+    },
+    {
+        "nome": "Ronchi",
+        "codice": "MO1569"
+    },
+    {
+        "nome": "Ronco bv",
+        "codice": "MO2035"
+    },
+    {
+        "nome": "Roncole",
+        "codice": "MO1589"
+    },
+    {
+        "nome": "Roncoscaglia",
+        "codice": "MO2045"
+    },
+    {
+        "nome": "Roncoscaglia 1",
+        "codice": "MO3685"
+    },
+    {
+        "nome": "Rondine",
+        "codice": "MO1265"
+    },
+    {
+        "nome": "Rondoni",
+        "codice": "MO2179"
+    },
+    {
+        "nome": "Roosevelt",
+        "codice": "MO3442"
+    },
+    {
+        "nome": "Rossello bv",
+        "codice": "MO1519"
+    },
+    {
+        "nome": "Roteglia",
+        "codice": "MO1840"
+    },
+    {
+        "nome": "Roteglia cimitero",
+        "codice": "MO1842"
+    },
+    {
+        "nome": "Rovere Caseificio",
+        "codice": "MO409"
+    },
+    {
+        "nome": "Rovereto",
+        "codice": "MO470"
+    },
+    {
+        "nome": "Rovereto Industriale est",
+        "codice": "MO464"
+    },
+    {
+        "nome": "Rovereto Industriale ovest",
+        "codice": "MO447"
+    },
+    {
+        "nome": "Rovinaccia 1",
+        "codice": "MO2097"
+    },
+    {
+        "nome": "Rovinella",
+        "codice": "MO1771"
+    },
+    {
+        "nome": "Rovolo",
+        "codice": "MO1704"
+    },
+    {
+        "nome": "Rubbiano",
+        "codice": "MO1481"
+    },
+    {
+        "nome": "Rubbiano bv",
+        "codice": "MO1479"
+    },
+    {
+        "nome": "Rubbiara",
+        "codice": "MOCE60"
+    },
+    {
+        "nome": "Rubiera",
+        "codice": "MO3485"
+    },
+    {
+        "nome": "Rubiera bv",
+        "codice": "MO4914"
+    },
+    {
+        "nome": "S. CATERINA",
+        "codice": "MO3713"
+    },
+    {
+        "nome": "S. Stefano",
+        "codice": "MOMA14"
+    },
+    {
+        "nome": "S.Martino Spino - Coop",
+        "codice": "MO275"
+    },
+    {
+        "nome": "Sabbioncello",
+        "codice": "MO177"
+    },
+    {
+        "nome": "Saffi",
+        "codice": "MO2715"
+    },
+    {
+        "nome": "Sagittario",
+        "codice": "MO1536"
+    },
+    {
+        "nome": "Saicis",
+        "codice": "MO1642"
+    },
+    {
+        "nome": "Saime",
+        "codice": "MO1644"
+    },
+    {
+        "nome": "Salda",
+        "codice": "MO1430"
+    },
+    {
+        "nome": "Saletto",
+        "codice": "MO1484"
+    },
+    {
+        "nome": "Salgari",
+        "codice": "MO3078"
+    },
+    {
+        "nome": "Saliceta San Giuliano",
+        "codice": "MO663"
+    },
+    {
+        "nome": "Saliceto Panaro bv Borri",
+        "codice": "MO92"
+    },
+    {
+        "nome": "Saltino",
+        "codice": "MO1226"
+    },
+    {
+        "nome": "Saltino poste",
+        "codice": "MO1223"
+    },
+    {
+        "nome": "Salto Chiesa",
+        "codice": "MO1964"
+    },
+    {
+        "nome": "Salvarola bv",
+        "codice": "MO1782"
+    },
+    {
+        "nome": "Salvarola Terme",
+        "codice": "MO1890"
+    },
+    {
+        "nome": "Samone",
+        "codice": "MO1427"
+    },
+    {
+        "nome": "Samone bv",
+        "codice": "MO1425"
+    },
+    {
+        "nome": "Samone bv Serra",
+        "codice": "MO3443"
+    },
+    {
+        "nome": "Samone distributore",
+        "codice": "MO1426"
+    },
+    {
+        "nome": "San Antonio",
+        "codice": "MO2635"
+    },
+    {
+        "nome": "San Bernardo",
+        "codice": "MO2213"
+    },
+    {
+        "nome": "San Biagio",
+        "codice": "MO1050"
+    },
+    {
+        "nome": "San Carlo",
+        "codice": "MO2279"
+    },
+    {
+        "nome": "San Cataldo",
+        "codice": "MO2981"
+    },
+    {
+        "nome": "SAN CATALDO CIMITERO",
+        "codice": "MO3095"
+    },
+    {
+        "nome": "San Cesario",
+        "codice": "MO2076"
+    },
+    {
+        "nome": "San Cesario Case Nuove",
+        "codice": "MO1785"
+    },
+    {
+        "nome": "San Cesario scuole",
+        "codice": "MO3603"
+    },
+    {
+        "nome": "San Clemente",
+        "codice": "MO335"
+    },
+    {
+        "nome": "San Dalmazio",
+        "codice": "MO1285"
+    },
+    {
+        "nome": "SAN DAMASO",
+        "codice": "MO6448"
+    },
+    {
+        "nome": "SAN DONNINO",
+        "codice": "MO1380"
+    },
+    {
+        "nome": "San Donnino di Varana",
+        "codice": "MO1166"
+    },
+    {
+        "nome": "San Faustino",
+        "codice": "MO2940"
+    },
+    {
+        "nome": "San Faustino bv Bonasia",
+        "codice": "MO2790"
+    },
+    {
+        "nome": "San Felice polo industriale",
+        "codice": "MO298"
+    },
+    {
+        "nome": "San Felice stadio",
+        "codice": "MO291"
+    },
+    {
+        "nome": "San Felice sul Panaro",
+        "codice": "MO2137"
+    },
+    {
+        "nome": "San Gaetano",
+        "codice": "MO4726"
+    },
+    {
+        "nome": "San Giacomo Maggiore",
+        "codice": "MO1957"
+    },
+    {
+        "nome": "San Giacomo Roncole",
+        "codice": "MO1030"
+    },
+    {
+        "nome": "San Giorgio",
+        "codice": "MO2008"
+    },
+    {
+        "nome": "San Giovanni Bosco",
+        "codice": "MO1443"
+    },
+    {
+        "nome": "San Giovanni in Persiceto",
+        "codice": "MO5703"
+    },
+    {
+        "nome": "San Luigi",
+        "codice": "MO1156"
+    },
+    {
+        "nome": "San Marino",
+        "codice": "MO443"
+    },
+    {
+        "nome": "San Marino bv",
+        "codice": "MO439"
+    },
+    {
+        "nome": "San Marino Centro Piazzale Gasparini",
+        "codice": "MOC135"
+    },
+    {
+        "nome": "San Martini di Mugnano 1",
+        "codice": "MOMO4056"
+    },
+    {
+        "nome": "San Martino",
+        "codice": "MO1961"
+    },
+    {
+        "nome": "San Martino Bottega",
+        "codice": "MO1354"
+    },
+    {
+        "nome": "San Martino bv",
+        "codice": "MO1245"
+    },
+    {
+        "nome": "San Martino del Mugnano",
+        "codice": "MO1456"
+    },
+    {
+        "nome": "San Martino di Mugnano",
+        "codice": "MOMO4053"
+    },
+    {
+        "nome": "San Martino di Mugnano 1",
+        "codice": "MOMO4055"
+    },
+    {
+        "nome": "San Martino di Mugnano Via Levi",
+        "codice": "MOMO3105"
+    },
+    {
+        "nome": "San Martino in Rio",
+        "codice": "MO4908"
+    },
+    {
+        "nome": "San Martino passo",
+        "codice": "MO308"
+    },
+    {
+        "nome": "San Martino Secchia bv",
+        "codice": "MO1224"
+    },
+    {
+        "nome": "San Martino Secchia Centro",
+        "codice": "MOC105"
+    },
+    {
+        "nome": "San Martino Secchia Chiesa",
+        "codice": "MOC103"
+    },
+    {
+        "nome": "San Martino Secchia Via Chiesa San Marino",
+        "codice": "MOC101"
+    },
+    {
+        "nome": "San Martino Secchia Via Livorno",
+        "codice": "MOC107"
+    },
+    {
+        "nome": "San Martino Spino",
+        "codice": "MO274"
+    },
+    {
+        "nome": "San Matteo 1",
+        "codice": "MO328"
+    },
+    {
+        "nome": "San Michele",
+        "codice": "MO355"
+    },
+    {
+        "nome": "San Michele Basso",
+        "codice": "MO1882"
+    },
+    {
+        "nome": "San Michele Centro",
+        "codice": "MO2658"
+    },
+    {
+        "nome": "San Michele Socche",
+        "codice": "MO2329"
+    },
+    {
+        "nome": "San Pancrazio",
+        "codice": "MO18"
+    },
+    {
+        "nome": "San Pancrazio Chiesa",
+        "codice": "MO469"
+    },
+    {
+        "nome": "San Pellegrinetto",
+        "codice": "MO1150"
+    },
+    {
+        "nome": "San Pellegrino",
+        "codice": "MO1098"
+    },
+    {
+        "nome": "San Pellegrino Cortile",
+        "codice": "MO1217"
+    },
+    {
+        "nome": "San Pietro",
+        "codice": "MO2398"
+    },
+    {
+        "nome": "San Pietro bv",
+        "codice": "MO309"
+    },
+    {
+        "nome": "San Pietro in Elda",
+        "codice": "MO311"
+    },
+    {
+        "nome": "San Pio X",
+        "codice": "MO2217"
+    },
+    {
+        "nome": "San Possidonio",
+        "codice": "MO2191"
+    },
+    {
+        "nome": "San Prospero",
+        "codice": "MO2209"
+    },
+    {
+        "nome": "San Remo",
+        "codice": "MO2731"
+    },
+    {
+        "nome": "San Rocco",
+        "codice": "MO1622"
+    },
+    {
+        "nome": "San Scolastica",
+        "codice": "MO1698"
+    },
+    {
+        "nome": "San Silvestro",
+        "codice": "MO352"
+    },
+    {
+        "nome": "San Simone bv San Pietro",
+        "codice": "MO2204"
+    },
+    {
+        "nome": "San Venanzio",
+        "codice": "MO1029"
+    },
+    {
+        "nome": "San Venanzio Cimitero",
+        "codice": "MOMA41"
+    },
+    {
+        "nome": "San Venanzio svolta",
+        "codice": "MO1033"
+    },
+    {
+        "nome": "San Vito",
+        "codice": "MO1750"
+    },
+    {
+        "nome": "San Vito chiesa",
+        "codice": "MO1748"
+    },
+    {
+        "nome": "San Zeno",
+        "codice": "MO1462"
+    },
+    {
+        "nome": "Sant'Adriano frigo",
+        "codice": "MO1404"
+    },
+    {
+        "nome": "Sant'Agostino museo",
+        "codice": "MO2571"
+    },
+    {
+        "nome": "Sant'Andrea bv",
+        "codice": "MO2026"
+    },
+    {
+        "nome": "Sant'Anna",
+        "codice": "MO1239"
+    },
+    {
+        "nome": "Sant'Anna 1",
+        "codice": "MO629"
+    },
+    {
+        "nome": "Sant'Anna bv",
+        "codice": "MO1237"
+    },
+    {
+        "nome": "Sant'Anna bv Suore",
+        "codice": "MO3147"
+    },
+    {
+        "nome": "SANT'ANNA CAPOLINEA",
+        "codice": "MO6910"
+    },
+    {
+        "nome": "Sant'Anna Pelago",
+        "codice": "MO2159"
+    },
+    {
+        "nome": "Sant'Antonio",
+        "codice": "MO1376"
+    },
+    {
+        "nome": "Sant'Antonio 1",
+        "codice": "MO1879"
+    },
+    {
+        "nome": "Sant'Antonio bv",
+        "codice": "MO2101"
+    },
+    {
+        "nome": "Sant'Antonio Mercadello",
+        "codice": "MO481"
+    },
+    {
+        "nome": "Sant'Antonio scuole",
+        "codice": "MO2561"
+    },
+    {
+        "nome": "Sant'Eusebio",
+        "codice": "MO1720"
+    },
+    {
+        "nome": "Sant'Eusebio bv",
+        "codice": "MO1105"
+    },
+    {
+        "nome": "Santa Caterina",
+        "codice": "MO2845"
+    },
+    {
+        "nome": "Santa Caterina bv Mar Tirreno",
+        "codice": "MO1718"
+    },
+    {
+        "nome": "Santa Caterina bv Montefiorino",
+        "codice": "MO182"
+    },
+    {
+        "nome": "Santa Croce",
+        "codice": "MO2088"
+    },
+    {
+        "nome": "Santa Croce bv",
+        "codice": "MO3319"
+    },
+    {
+        "nome": "Santa Croce Via Bollitora Esterna",
+        "codice": "MOC306"
+    },
+    {
+        "nome": "Santa Croce Via Camellini",
+        "codice": "MOC305"
+    },
+    {
+        "nome": "Santa Liberata",
+        "codice": "MO527"
+    },
+    {
+        "nome": "Santa Liberata bv",
+        "codice": "MO1107"
+    },
+    {
+        "nome": "Santa Maria",
+        "codice": "MO1092"
+    },
+    {
+        "nome": "Santa Maria Mugnano",
+        "codice": "MO1454"
+    },
+    {
+        "nome": "Santa Maria scuole",
+        "codice": "MO1432"
+    },
+    {
+        "nome": "SANTI",
+        "codice": "MO6804"
+    },
+    {
+        "nome": "Santona",
+        "codice": "MO2005"
+    },
+    {
+        "nome": "Santoncina",
+        "codice": "MO1739"
+    },
+    {
+        "nome": "Sardegna 1",
+        "codice": "MOPV977"
+    },
+    {
+        "nome": "Sardegna 2",
+        "codice": "MOPV979"
+    },
+    {
+        "nome": "Sarsa",
+        "codice": "MO1011"
+    },
+    {
+        "nome": "Sassatella",
+        "codice": "MO1568"
+    },
+    {
+        "nome": "Sasso Bianco",
+        "codice": "MO2071"
+    },
+    {
+        "nome": "Sassofosco",
+        "codice": "MO1136"
+    },
+    {
+        "nome": "Sassoguidano bv",
+        "codice": "MO1653"
+    },
+    {
+        "nome": "Sassorosso",
+        "codice": "MOPV477"
+    },
+    {
+        "nome": "Sassorosso bv",
+        "codice": "MO1998"
+    },
+    {
+        "nome": "Sassuolo Terminal",
+        "codice": "MO2237"
+    },
+    {
+        "nome": "Savignano Mulino",
+        "codice": "MO1076"
+    },
+    {
+        "nome": "Savignano sul Panaro",
+        "codice": "MO2348"
+    },
+    {
+        "nome": "Savignano Trattoria",
+        "codice": "MO2351"
+    },
+    {
+        "nome": "Savoniero",
+        "codice": "MO1531"
+    },
+    {
+        "nome": "Savoniero bv",
+        "codice": "MO1533"
+    },
+    {
+        "nome": "Scanello",
+        "codice": "MO2133"
+    },
+    {
+        "nome": "Scartazza Aguzzoli",
+        "codice": "MOMO4018"
+    },
+    {
+        "nome": "Scartazza inc Aguzzoli",
+        "codice": "MOMO4017"
+    },
+    {
+        "nome": "Scartazza inc Bernarda",
+        "codice": "MOMO4019"
+    },
+    {
+        "nome": "Scoiattolo",
+        "codice": "MO3711"
+    },
+    {
+        "nome": "Scuole Marconi",
+        "codice": "MO3132"
+    },
+    {
+        "nome": "Scuole medie",
+        "codice": "MO186"
+    },
+    {
+        "nome": "Scuole via Corni",
+        "codice": "MO901"
+    },
+    {
+        "nome": "Secchia",
+        "codice": "MO7314"
+    },
+    {
+        "nome": "Secchia caseificio",
+        "codice": "MO246"
+    },
+    {
+        "nome": "Sega",
+        "codice": "MO2151"
+    },
+    {
+        "nome": "Segheria",
+        "codice": "MO379"
+    },
+    {
+        "nome": "Selpiano",
+        "codice": "MO1857"
+    },
+    {
+        "nome": "Selva",
+        "codice": "MOPV191"
+    },
+    {
+        "nome": "Selva Pini",
+        "codice": "MO1745"
+    },
+    {
+        "nome": "Selva Romanesca",
+        "codice": "MO3780"
+    },
+    {
+        "nome": "Sermighino bv",
+        "codice": "MO2143"
+    },
+    {
+        "nome": "Serpiano",
+        "codice": "MO2015"
+    },
+    {
+        "nome": "Serra",
+        "codice": "MO3392"
+    },
+    {
+        "nome": "Serra di Levizzano",
+        "codice": "MO1068"
+    },
+    {
+        "nome": "Serra di Porto",
+        "codice": "MO1645"
+    },
+    {
+        "nome": "Serra di Prignano",
+        "codice": "MO1901"
+    },
+    {
+        "nome": "Serradimigni",
+        "codice": "MO1707"
+    },
+    {
+        "nome": "Serragli",
+        "codice": "MO1662"
+    },
+    {
+        "nome": "Serramazzoni",
+        "codice": "MO2352"
+    },
+    {
+        "nome": "Serramazzoni bv",
+        "codice": "MO1157"
+    },
+    {
+        "nome": "Serramazzoni cimitero",
+        "codice": "MO4201"
+    },
+    {
+        "nome": "Serravalle bv",
+        "codice": "MO1216"
+    },
+    {
+        "nome": "Serretta",
+        "codice": "MO1893"
+    },
+    {
+        "nome": "Sestola",
+        "codice": "MO4300"
+    },
+    {
+        "nome": "Sestola bv scuole",
+        "codice": "MO1333"
+    },
+    {
+        "nome": "Sestola cimitero",
+        "codice": "MO2259"
+    },
+    {
+        "nome": "Sestola medie",
+        "codice": "MO2376"
+    },
+    {
+        "nome": "Settecani",
+        "codice": "MO1710"
+    },
+    {
+        "nome": "Setti",
+        "codice": "MO1111"
+    },
+    {
+        "nome": "Siggiola",
+        "codice": "MO4721"
+    },
+    {
+        "nome": "Sigonio",
+        "codice": "MO3009"
+    },
+    {
+        "nome": "Sigonio bv Guarini",
+        "codice": "MO2848"
+    },
+    {
+        "nome": "Sigonio bv Tamburini",
+        "codice": "MO2776"
+    },
+    {
+        "nome": "Silingardi",
+        "codice": "MOMO3106"
+    },
+    {
+        "nome": "Sitma",
+        "codice": "MO2701"
+    },
+    {
+        "nome": "Smalteria",
+        "codice": "MO1399"
+    },
+    {
+        "nome": "Solara",
+        "codice": "MO388"
+    },
+    {
+        "nome": "Solgara",
+        "codice": "MO1976"
+    },
+    {
+        "nome": "Soliera",
+        "codice": "MO2378"
+    },
+    {
+        "nome": "Soliera bv",
+        "codice": "MO1119"
+    },
+    {
+        "nome": "Solignano",
+        "codice": "MO1680"
+    },
+    {
+        "nome": "Soprataglio",
+        "codice": "MO1026"
+    },
+    {
+        "nome": "Soratore",
+        "codice": "MO7222"
+    },
+    {
+        "nome": "Sorbara",
+        "codice": "MO313"
+    },
+    {
+        "nome": "Sorbara bv",
+        "codice": "MO321"
+    },
+    {
+        "nome": "Sorbara_",
+        "codice": "MO3516"
+    },
+    {
+        "nome": "Sordomuti istituto",
+        "codice": "MO1572"
+    },
+    {
+        "nome": "Sorgente",
+        "codice": "MO2194"
+    },
+    {
+        "nome": "Sottovia",
+        "codice": "MO1514"
+    },
+    {
+        "nome": "Sozzigalli",
+        "codice": "MO108"
+    },
+    {
+        "nome": "Sozzigalli Caseificio",
+        "codice": "MO393"
+    },
+    {
+        "nome": "Sozzigalli palazzina",
+        "codice": "MO1125"
+    },
+    {
+        "nome": "Sp25 Civ. 1288",
+        "codice": "MO4617"
+    },
+    {
+        "nome": "SP27 civ 38",
+        "codice": "MO2066"
+    },
+    {
+        "nome": "Speri autolavaggio",
+        "codice": "MO2716"
+    },
+    {
+        "nome": "Speri Jaguar",
+        "codice": "MO2669"
+    },
+    {
+        "nome": "Spervara",
+        "codice": "MO1691"
+    },
+    {
+        "nome": "Spervara bv",
+        "codice": "MO1995"
+    },
+    {
+        "nome": "Spervara di Sopra",
+        "codice": "MO1693"
+    },
+    {
+        "nome": "Spezzano",
+        "codice": "MO1620"
+    },
+    {
+        "nome": "Spezzano asilo",
+        "codice": "MO1626"
+    },
+    {
+        "nome": "Spezzano Crociale",
+        "codice": "MO1612"
+    },
+    {
+        "nome": "Spezzano scuole",
+        "codice": "MO1630"
+    },
+    {
+        "nome": "Spezzatona",
+        "codice": "MO1732"
+    },
+    {
+        "nome": "Spilamberto",
+        "codice": "MO4500"
+    },
+    {
+        "nome": "Spilamberto zona artigianale",
+        "codice": "MO1742"
+    },
+    {
+        "nome": "Spinara",
+        "codice": "MO1276"
+    },
+    {
+        "nome": "Spinzuola",
+        "codice": "MO1887"
+    },
+    {
+        "nome": "Squizza",
+        "codice": "MO2105"
+    },
+    {
+        "nome": "Stabilimento Amica",
+        "codice": "MO2090"
+    },
+    {
+        "nome": "Stabilimento Borsari",
+        "codice": "MO3664"
+    },
+    {
+        "nome": "Stabilimento Fabbri",
+        "codice": "MO1117"
+    },
+    {
+        "nome": "Stabilimento Malavolta",
+        "codice": "MO753"
+    },
+    {
+        "nome": "Stadio",
+        "codice": "MO1895"
+    },
+    {
+        "nome": "Staffette Partigiane",
+        "codice": "MO2300"
+    },
+    {
+        "nome": "Staggia",
+        "codice": "MO408"
+    },
+    {
+        "nome": "Staggia Stazione",
+        "codice": "MO407"
+    },
+    {
+        "nome": "Statale 569",
+        "codice": "MO2835"
+    },
+    {
+        "nome": "Stazione",
+        "codice": "MO788"
+    },
+    {
+        "nome": "Stazione Bar",
+        "codice": "MO3601"
+    },
+    {
+        "nome": "Stazione FS",
+        "codice": "MO506"
+    },
+    {
+        "nome": "Stazione FS Mirandola",
+        "codice": "MOM02"
+    },
+    {
+        "nome": "Stazione Sassuolo Radici",
+        "codice": "MO2388"
+    },
+    {
+        "nome": "Steccato",
+        "codice": "MOM59"
+    },
+    {
+        "nome": "Stella",
+        "codice": "MO1176"
+    },
+    {
+        "nome": "Sterpatelli",
+        "codice": "MO1017"
+    },
+    {
+        "nome": "Storchi Cialdini",
+        "codice": "MO2975"
+    },
+    {
+        "nome": "Storchi Sacro Cuore",
+        "codice": "MO2973"
+    },
+    {
+        "nome": "Strada Niviano Alto",
+        "codice": "MOPV283"
+    },
+    {
+        "nome": "Strada Nuova Freto",
+        "codice": "MO72"
+    },
+    {
+        "nome": "Strada Nuova Freto 1",
+        "codice": "MOMO1070"
+    },
+    {
+        "nome": "Strada Prov.Le 413 (bar blu)",
+        "codice": "MOC313"
+    },
+    {
+        "nome": "Strada Prov.Le 468 Bivio Via Griduzza",
+        "codice": "MOC136"
+    },
+    {
+        "nome": "Strada San Donnino",
+        "codice": "MO118"
+    },
+    {
+        "nome": "Strada Sant' Anna",
+        "codice": "MO6346"
+    },
+    {
+        "nome": "Stradella Inc Cadiane",
+        "codice": "MOMO3055"
+    },
+    {
+        "nome": "Stradello",
+        "codice": "MO1356"
+    },
+    {
+        "nome": "Stradello Fontana",
+        "codice": "MO1543"
+    },
+    {
+        "nome": "Stradello Romano",
+        "codice": "MO2897"
+    },
+    {
+        "nome": "Strettara bv",
+        "codice": "MO2033"
+    },
+    {
+        "nome": "Stuffione",
+        "codice": "MO385"
+    },
+    {
+        "nome": "Suore",
+        "codice": "MO1777"
+    },
+    {
+        "nome": "Suore bv Parenti",
+        "codice": "MO3134"
+    },
+    {
+        "nome": "Suore bv Tangenziale",
+        "codice": "MO3683"
+    },
+    {
+        "nome": "Suore SETA",
+        "codice": "MO3145"
+    },
+    {
+        "nome": "Superchia",
+        "codice": "MO2773"
+    },
+    {
+        "nome": "Supermarket Frigo",
+        "codice": "MO2421"
+    },
+    {
+        "nome": "Susano",
+        "codice": "MO1547"
+    },
+    {
+        "nome": "Tabina",
+        "codice": "MO1490"
+    },
+    {
+        "nome": "Tabina bv",
+        "codice": "MO2092"
+    },
+    {
+        "nome": "Tagliata",
+        "codice": "MO1388"
+    },
+    {
+        "nome": "Tagliati inc Camurri",
+        "codice": "MOMO2048"
+    },
+    {
+        "nome": "Tagliazucchi",
+        "codice": "MO2595"
+    },
+    {
+        "nome": "Tagliole bv",
+        "codice": "MO2166"
+    },
+    {
+        "nome": "Talbignano",
+        "codice": "MO1255"
+    },
+    {
+        "nome": "Talbignano poste",
+        "codice": "MO1254"
+    },
+    {
+        "nome": "Talbignano rimessa",
+        "codice": "MO1256"
+    },
+    {
+        "nome": "Tangenziale Neruda",
+        "codice": "MO161"
+    },
+    {
+        "nome": "Tasso",
+        "codice": "MO2558"
+    },
+    {
+        "nome": "Tassoni",
+        "codice": "MO3701"
+    },
+    {
+        "nome": "Tavernelle",
+        "codice": "MO1059"
+    },
+    {
+        "nome": "Tavina",
+        "codice": "MOPV261"
+    },
+    {
+        "nome": "Teatro Michelangelo",
+        "codice": "MO22"
+    },
+    {
+        "nome": "Tennis bar",
+        "codice": "MO1602"
+    },
+    {
+        "nome": "Tenuta Delfina",
+        "codice": "MO473"
+    },
+    {
+        "nome": "Terzi",
+        "codice": "MO486"
+    },
+    {
+        "nome": "TETRA PAK",
+        "codice": "MO1218"
+    },
+    {
+        "nome": "Tintoria",
+        "codice": "MO2106"
+    },
+    {
+        "nome": "Tirassegno",
+        "codice": "MOMO1003"
+    },
+    {
+        "nome": "Tolara",
+        "codice": "MO1709"
+    },
+    {
+        "nome": "Tonini 1",
+        "codice": "MO6734"
+    },
+    {
+        "nome": "Tonini 2",
+        "codice": "MO6737"
+    },
+    {
+        "nome": "Torella",
+        "codice": "MO1272"
+    },
+    {
+        "nome": "Torino",
+        "codice": "MO2497"
+    },
+    {
+        "nome": "Torrazzi",
+        "codice": "MO2628"
+    },
+    {
+        "nome": "Torrazzi bv Lumumba",
+        "codice": "MO179"
+    },
+    {
+        "nome": "Torrazzo",
+        "codice": "MO1790"
+    },
+    {
+        "nome": "Torre",
+        "codice": "MO2161"
+    },
+    {
+        "nome": "Torre Delle Oche",
+        "codice": "MO1945"
+    },
+    {
+        "nome": "Torre di Cadignano",
+        "codice": "MO1583"
+    },
+    {
+        "nome": "Torre Maina bv",
+        "codice": "MO1042"
+    },
+    {
+        "nome": "Torre Maina chiesa",
+        "codice": "MO1041"
+    },
+    {
+        "nome": "Torre Maina cimitero",
+        "codice": "MO2626"
+    },
+    {
+        "nome": "Torre Pellacani",
+        "codice": "MO1419"
+    },
+    {
+        "nome": "Torre scuole",
+        "codice": "MO1212"
+    },
+    {
+        "nome": "Toscana",
+        "codice": "MO2540"
+    },
+    {
+        "nome": "Toscanini",
+        "codice": "MO2704"
+    },
+    {
+        "nome": "Toti",
+        "codice": "MOM69"
+    },
+    {
+        "nome": "Traeri bv Da Porto Sud",
+        "codice": "MO6749"
+    },
+    {
+        "nome": "Traghetti",
+        "codice": "MO2577"
+    },
+    {
+        "nome": "Trattoria Marina",
+        "codice": "MO1162"
+    },
+    {
+        "nome": "Tre Gobbi",
+        "codice": "MO266"
+    },
+    {
+        "nome": "TRE OLMI",
+        "codice": "MO6859"
+    },
+    {
+        "nome": "Tre Olmi 1",
+        "codice": "MOMO1052"
+    },
+    {
+        "nome": "Tre Olmi Hotel Holiday",
+        "codice": "MOMO1051"
+    },
+    {
+        "nome": "Trentino bv",
+        "codice": "MO2078"
+    },
+    {
+        "nome": "Trento Trieste",
+        "codice": "MO2719"
+    },
+    {
+        "nome": "Tressano",
+        "codice": "MO1856"
+    },
+    {
+        "nome": "Tressano fornace",
+        "codice": "MO811"
+    },
+    {
+        "nome": "Turati",
+        "codice": "MO1658"
+    },
+    {
+        "nome": "Turco",
+        "codice": "MO1518"
+    },
+    {
+        "nome": "T_Baggiovara Osp.",
+        "codice": "MO8618"
+    },
+    {
+        "nome": "T_Duomo",
+        "codice": "MO8608"
+    },
+    {
+        "nome": "T_Ferrovie Stato",
+        "codice": "MO8012"
+    },
+    {
+        "nome": "T_Policlinico",
+        "codice": "MO8602"
+    },
+    {
+        "nome": "Ubersetto",
+        "codice": "MO1640"
+    },
+    {
+        "nome": "Uccivello",
+        "codice": "MO1378"
+    },
+    {
+        "nome": "Uccivello scuole",
+        "codice": "MO318"
+    },
+    {
+        "nome": "Ugo da Carpi",
+        "codice": "MO255"
+    },
+    {
+        "nome": "Ugo da Carpi 3",
+        "codice": "MO2881"
+    },
+    {
+        "nome": "Uris Bar",
+        "codice": "MO1721"
+    },
+    {
+        "nome": "USL",
+        "codice": "MO1361"
+    },
+    {
+        "nome": "V. Matteotti",
+        "codice": "MOPV901"
+    },
+    {
+        "nome": "VACIGLIO",
+        "codice": "MO3309"
+    },
+    {
+        "nome": "Vaciglio bv Boccabati",
+        "codice": "MO2787"
+    },
+    {
+        "nome": "Vaciglio bv Cuneo",
+        "codice": "MO2774"
+    },
+    {
+        "nome": "Vaciglio bv Nuoro",
+        "codice": "MO6432"
+    },
+    {
+        "nome": "Vaciglio bv Oristano",
+        "codice": "MO2913"
+    },
+    {
+        "nome": "Vaciglio bv Viterbo",
+        "codice": "MO2775"
+    },
+    {
+        "nome": "Vaciglio Sacra Famiglia",
+        "codice": "MO2735"
+    },
+    {
+        "nome": "Vaciglio Sud",
+        "codice": "MOMO4009"
+    },
+    {
+        "nome": "Vaglio",
+        "codice": "MO1885"
+    },
+    {
+        "nome": "Vaglio tabaccheria",
+        "codice": "MO3135"
+    },
+    {
+        "nome": "Valdalbero",
+        "codice": "MO3131"
+    },
+    {
+        "nome": "Vallalta",
+        "codice": "MO166"
+    },
+    {
+        "nome": "Valle D'Aosta",
+        "codice": "MO2335"
+    },
+    {
+        "nome": "Valle Verde",
+        "codice": "MO1615"
+    },
+    {
+        "nome": "Vallicella",
+        "codice": "MO289"
+    },
+    {
+        "nome": "Vallorsara",
+        "codice": "MO1705"
+    },
+    {
+        "nome": "Vallurbana",
+        "codice": "MO1784"
+    },
+    {
+        "nome": "Varana",
+        "codice": "MO1161"
+    },
+    {
+        "nome": "Varana bv",
+        "codice": "MO1780"
+    },
+    {
+        "nome": "Vecchi",
+        "codice": "MO3412"
+    },
+    {
+        "nome": "Veggia",
+        "codice": "MO1760"
+    },
+    {
+        "nome": "Veggia ceramica",
+        "codice": "MO809"
+    },
+    {
+        "nome": "Vena Grossa",
+        "codice": "MO2001"
+    },
+    {
+        "nome": "Venezia",
+        "codice": "MO2495"
+    },
+    {
+        "nome": "Ventimiglia bv Albenga",
+        "codice": "MO2732"
+    },
+    {
+        "nome": "Ventimiglia bv Torino",
+        "codice": "MO2733"
+    },
+    {
+        "nome": "Venturelli",
+        "codice": "MO7012"
+    },
+    {
+        "nome": "Verdeta caseificio",
+        "codice": "MO406"
+    },
+    {
+        "nome": "Verdi",
+        "codice": "MO1641"
+    },
+    {
+        "nome": "Verdi ACI",
+        "codice": "MO6211"
+    },
+    {
+        "nome": "Verdi Bocciofila",
+        "codice": "MO2598"
+    },
+    {
+        "nome": "Verdi bv Donizetti",
+        "codice": "MO2610"
+    },
+    {
+        "nome": "Verdi scuola",
+        "codice": "MO2613"
+    },
+    {
+        "nome": "Verica",
+        "codice": "MO1659"
+    },
+    {
+        "nome": "Verica casa cantoniera",
+        "codice": "MO1955"
+    },
+    {
+        "nome": "Verica Casa Nuova",
+        "codice": "MO1663"
+    },
+    {
+        "nome": "Verica Cimitero",
+        "codice": "MOPV201"
+    },
+    {
+        "nome": "Verica parcheggio",
+        "codice": "MO3777"
+    },
+    {
+        "nome": "Verica Stazione",
+        "codice": "MO1657"
+    },
+    {
+        "nome": "Vernano",
+        "codice": "MOPV856"
+    },
+    {
+        "nome": "Verzola bv",
+        "codice": "MO1723"
+    },
+    {
+        "nome": "Vesale bv",
+        "codice": "MO2051"
+    },
+    {
+        "nome": "Via 22 Aprile",
+        "codice": "MOPV801"
+    },
+    {
+        "nome": "Via Ancora",
+        "codice": "MO748"
+    },
+    {
+        "nome": "Via Barchetta Tre Olmi",
+        "codice": "MOMO1054"
+    },
+    {
+        "nome": "Via Bella Rosa",
+        "codice": "MOC317"
+    },
+    {
+        "nome": "Via Brenta",
+        "codice": "MOMA45"
+    },
+    {
+        "nome": "Via Cadiane 1",
+        "codice": "MOMO3063"
+    },
+    {
+        "nome": "Via Cadiane 2",
+        "codice": "MOMO3065"
+    },
+    {
+        "nome": "via Cadiane inc str.llo Gazzotti",
+        "codice": "MOMO4098"
+    },
+    {
+        "nome": "Via Canalvecchio",
+        "codice": "MOC108"
+    },
+    {
+        "nome": "Via Cappella",
+        "codice": "MOMA44"
+    },
+    {
+        "nome": "Via Carso",
+        "codice": "MOCE97"
+    },
+    {
+        "nome": "Via Cascinetta",
+        "codice": "MOM54"
+    },
+    {
+        "nome": "Via Castello",
+        "codice": "MOCE102"
+    },
+    {
+        "nome": "Via Castiglione",
+        "codice": "MOCE28"
+    },
+    {
+        "nome": "Via Cavata",
+        "codice": "MOC142"
+    },
+    {
+        "nome": "Via Cavezzo Baggiovara",
+        "codice": "MOMO3062"
+    },
+    {
+        "nome": "Via Chesa Gargallo Bv Via Burzacca",
+        "codice": "MOC321"
+    },
+    {
+        "nome": "Via Chiesa Gargallo",
+        "codice": "MOC319"
+    },
+    {
+        "nome": "Via Chiesa gargallo Bv. Via Barzacca",
+        "codice": "MOC323"
+    },
+    {
+        "nome": "Via Cimone",
+        "codice": "MOMO2005"
+    },
+    {
+        "nome": "Via delle Mondine",
+        "codice": "MOC309"
+    },
+    {
+        "nome": "Via Dino Ferrari",
+        "codice": "MOMA03"
+    },
+    {
+        "nome": "Via Don Cavedoni",
+        "codice": "MOMA09"
+    },
+    {
+        "nome": "Via Don Sturzo",
+        "codice": "MOC149"
+    },
+    {
+        "nome": "Via Fogliano 155",
+        "codice": "MOMA28"
+    },
+    {
+        "nome": "Via Fogliano 35",
+        "codice": "MOMA24"
+    },
+    {
+        "nome": "Via Fogliano 97",
+        "codice": "MOMA26"
+    },
+    {
+        "nome": "Via Fonda",
+        "codice": "MOMA84"
+    },
+    {
+        "nome": "Via Francia",
+        "codice": "MOMO2003"
+    },
+    {
+        "nome": "Via Graziosi",
+        "codice": "MOMA22"
+    },
+    {
+        "nome": "Via Guastalla Croce Rossa",
+        "codice": "MOC233"
+    },
+    {
+        "nome": "Via Gusmea",
+        "codice": "MOC244"
+    },
+    {
+        "nome": "Via Magellano",
+        "codice": "MOMA93"
+    },
+    {
+        "nome": "Via Mar Tirreno",
+        "codice": "MOMA95"
+    },
+    {
+        "nome": "Via Martinella 41",
+        "codice": "MOMA85"
+    },
+    {
+        "nome": "Via Martinella 7",
+        "codice": "MOMA86"
+    },
+    {
+        "nome": "Via Mavora bv Bagazzano",
+        "codice": "MOCE58"
+    },
+    {
+        "nome": "Via Montanara Caseificio",
+        "codice": "MOMA71"
+    },
+    {
+        "nome": "Via Montanara inc. Via Vandelli",
+        "codice": "MOMA74"
+    },
+    {
+        "nome": "Via Nenni",
+        "codice": "MOCE93"
+    },
+    {
+        "nome": "Via Pavullese",
+        "codice": "MO3331"
+    },
+    {
+        "nome": "Via Pechiera",
+        "codice": "MOCE96"
+    },
+    {
+        "nome": "Via Peschiera",
+        "codice": "MOCE95"
+    },
+    {
+        "nome": "Via Pola Esterna",
+        "codice": "MOC146"
+    },
+    {
+        "nome": "Via Pomposiana inc Cave Convoglio",
+        "codice": "MOMO3026"
+    },
+    {
+        "nome": "Via S. G. Evangelista",
+        "codice": "MOMA91"
+    },
+    {
+        "nome": "Via Stradella 1 Saliceta",
+        "codice": "MOMO3051"
+    },
+    {
+        "nome": "Via Trebbo",
+        "codice": "MOMA92"
+    },
+    {
+        "nome": "Via Veneto",
+        "codice": "MOMA20"
+    },
+    {
+        "nome": "Viale Gramsci bocciofila",
+        "codice": "MOM11"
+    },
+    {
+        "nome": "Viale Gramsci Cividale Carrobbio",
+        "codice": "MOM19"
+    },
+    {
+        "nome": "Viale Gramsci Cividale farmacia",
+        "codice": "MOM18"
+    },
+    {
+        "nome": "Viale Gramsci Farmacia",
+        "codice": "MOM17"
+    },
+    {
+        "nome": "Viale Gramsci mulino rotonda",
+        "codice": "MOM08"
+    },
+    {
+        "nome": "Viazza",
+        "codice": "MO1637"
+    },
+    {
+        "nome": "Viazza bv",
+        "codice": "MO898"
+    },
+    {
+        "nome": "Viazzolo",
+        "codice": "MO394"
+    },
+    {
+        "nome": "Vigili del Fuoco",
+        "codice": "MO2917"
+    },
+    {
+        "nome": "Vignola Autostazione",
+        "codice": "MO4505"
+    },
+    {
+        "nome": "Vignola Centro",
+        "codice": "MO1205"
+    },
+    {
+        "nome": "Vignola cimitero",
+        "codice": "MO3703"
+    },
+    {
+        "nome": "Vignola FP",
+        "codice": "MO3707"
+    },
+    {
+        "nome": "Vignola FS",
+        "codice": "MO3735"
+    },
+    {
+        "nome": "Vignola tangenziale",
+        "codice": "MOTECVI"
+    },
+    {
+        "nome": "Vignolese bv Bacelliera",
+        "codice": "MO2752"
+    },
+    {
+        "nome": "Vignolese bv Barchessa",
+        "codice": "MO2748"
+    },
+    {
+        "nome": "Vignolese bv Campi",
+        "codice": "MO2739"
+    },
+    {
+        "nome": "Vignolese bv degli Alpini",
+        "codice": "MO2763"
+    },
+    {
+        "nome": "Vignolese bv del Mulino",
+        "codice": "MO6466"
+    },
+    {
+        "nome": "Vignolese bv La Spezia",
+        "codice": "MO1364"
+    },
+    {
+        "nome": "Vignolese bv Saluzzo",
+        "codice": "MO2741"
+    },
+    {
+        "nome": "Vignolese bv San Damaso",
+        "codice": "MO1370"
+    },
+    {
+        "nome": "Vignolese Enel",
+        "codice": "MO2754"
+    },
+    {
+        "nome": "Vignolese Gambero",
+        "codice": "MO2727"
+    },
+    {
+        "nome": "Vignolese Istituto",
+        "codice": "MO1360"
+    },
+    {
+        "nome": "Vignolese la Fenice",
+        "codice": "MO2756"
+    },
+    {
+        "nome": "Vignolese la Fornace",
+        "codice": "MO2751"
+    },
+    {
+        "nome": "Vignolese Punta",
+        "codice": "MO2738"
+    },
+    {
+        "nome": "Vignolese Universita",
+        "codice": "MO1362"
+    },
+    {
+        "nome": "Vilco",
+        "codice": "MO1688"
+    },
+    {
+        "nome": "Villa Bibone",
+        "codice": "MO1338"
+    },
+    {
+        "nome": "Villa di Soliera",
+        "codice": "MO1398"
+    },
+    {
+        "nome": "Villa di Stuffione 1",
+        "codice": "MO3262"
+    },
+    {
+        "nome": "Villa Grimaldi",
+        "codice": "MO1810"
+    },
+    {
+        "nome": "Villa Igea",
+        "codice": "MOMO3053"
+    },
+    {
+        "nome": "Villa Nasi",
+        "codice": "MO329"
+    },
+    {
+        "nome": "Villa Pianazzi",
+        "codice": "MO1459"
+    },
+    {
+        "nome": "Villa Pineta",
+        "codice": "MO3259"
+    },
+    {
+        "nome": "Villa Rangoni",
+        "codice": "MOMA73"
+    },
+    {
+        "nome": "Villa Romana",
+        "codice": "MO416"
+    },
+    {
+        "nome": "Villa San Donnino",
+        "codice": "MO1752"
+    },
+    {
+        "nome": "Villa Sorra",
+        "codice": "MOCE11"
+    },
+    {
+        "nome": "Villa Stuffione",
+        "codice": "MO383"
+    },
+    {
+        "nome": "Villa Torreggiani",
+        "codice": "MO1209"
+    },
+    {
+        "nome": "Villa Vicini",
+        "codice": "MO1634"
+    },
+    {
+        "nome": "Villa Zuccoli",
+        "codice": "MO327"
+    },
+    {
+        "nome": "Villabianca",
+        "codice": "MO1835"
+    },
+    {
+        "nome": "Villafranca",
+        "codice": "MO1701"
+    },
+    {
+        "nome": "Villafranca scuole",
+        "codice": "MO413"
+    },
+    {
+        "nome": "Villaggio",
+        "codice": "MO1852"
+    },
+    {
+        "nome": "Villaggio artigiano",
+        "codice": "MO2193"
+    },
+    {
+        "nome": "VILLAGGIO Z",
+        "codice": "MO3682"
+    },
+    {
+        "nome": "Villanova",
+        "codice": "MO230"
+    },
+    {
+        "nome": "Villanova Barbolini",
+        "codice": "MOMO1021"
+    },
+    {
+        "nome": "Villanova Cimitero",
+        "codice": "MO1022"
+    },
+    {
+        "nome": "Villanova Parco",
+        "codice": "MOMO1068"
+    },
+    {
+        "nome": "Villanova scuole",
+        "codice": "MO1002"
+    },
+    {
+        "nome": "Villanova Viazza",
+        "codice": "MOMO1022"
+    },
+    {
+        "nome": "Villavara",
+        "codice": "MO427"
+    },
+    {
+        "nome": "Villetta",
+        "codice": "MO1594"
+    },
+    {
+        "nome": "Virgilio",
+        "codice": "MOPV969"
+    },
+    {
+        "nome": "Virgilio Fiera",
+        "codice": "MO3107"
+    },
+    {
+        "nome": "Virgilio Metro",
+        "codice": "MO6875"
+    },
+    {
+        "nome": "Viterbo bv Vaciglio",
+        "codice": "MO6477"
+    },
+    {
+        "nome": "Vitriola",
+        "codice": "MO1523"
+    },
+    {
+        "nome": "Vitriola bv",
+        "codice": "MO1522"
+    },
+    {
+        "nome": "Vittime 11 Settembre",
+        "codice": "MO2297"
+    },
+    {
+        "nome": "Vittime 11 Settembre bv Tobagi",
+        "codice": "MO2437"
+    },
+    {
+        "nome": "Vittorio Emanuele",
+        "codice": "MO2581"
+    },
+    {
+        "nome": "Vittorio Veneto",
+        "codice": "MO4902"
+    },
+    {
+        "nome": "Vittorio Veneto bv Trombi",
+        "codice": "MO2593"
+    },
+    {
+        "nome": "Vivaio",
+        "codice": "MO2049"
+    },
+    {
+        "nome": "Volta dei Secchi",
+        "codice": "MO1093"
+    },
+    {
+        "nome": "Voltata Bagni",
+        "codice": "MO2072"
+    },
+    {
+        "nome": "Voltone",
+        "codice": "MO320"
+    },
+    {
+        "nome": "Voltone 1",
+        "codice": "MO3639"
+    },
+    {
+        "nome": "Zanello",
+        "codice": "MO1649"
+    },
+    {
+        "nome": "Zappiano",
+        "codice": "MO3416"
+    },
+    {
+        "nome": "Zinzano",
+        "codice": "MO4604"
+    },
+    {
+        "nome": "Zocca",
+        "codice": "MO3988"
+    },
+    {
+        "nome": "Zocca bv",
+        "codice": "MO1210"
+    },
+    {
+        "nome": "Zocca bv 1",
+        "codice": "MO1207"
+    },
+    {
+        "nome": "Zocca Circonvallazione",
+        "codice": "MO1765"
+    },
+    {
+        "nome": "Zocca periferia",
+        "codice": "MO2413"
+    },
+    {
+        "nome": "Zocca USL",
+        "codice": "MO1758"
+    },
+    {
+        "nome": "Zocchetta",
+        "codice": "MO1417"
+    },
+    {
+        "nome": "ZODIACO",
+        "codice": "MO6618"
+    },
+    {
+        "nome": "Zodiaco bv Luzzo",
+        "codice": "MO2831"
+    },
+    {
+        "nome": "Zodiaco bv Varoli",
+        "codice": "MO2837"
+    },
+    {
+        "nome": "Zona B",
+        "codice": "MO1571"
+    },
+    {
+        "nome": "_",
+        "codice": "MOMOMP04"
+    }
+]
