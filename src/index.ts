@@ -93,6 +93,10 @@ app.get("/corse/:bacino/:codice", async (req, res) => {
 
 app.all("*", (req, res) => res.sendStatus(404));
 
+// Dotenv
+import dotenv from "dotenv";
+dotenv.config();
+
 const PORT = Number(process.env.PORT) || 3000;
 const IP = process.env.IP || "127.0.0.1";
 app.listen(PORT, IP, () => logger.info("Server started on port " + PORT));
