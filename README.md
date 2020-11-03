@@ -7,7 +7,7 @@ SETA, la società del trasporto pubblico locale, offre un servizio online chiama
 Ho pensato a quanto sarebbe stato bello fare un tabellone degli arrivi con Arduino, ma per farlo prima mi sarebbe servita una API.
 Visto che API della SETA non esistono, ne ho creata una io.
 Questa è la seconda versione. Per ora la tengo hostata su [http://setaapi2.bitrey.it](http://setaapi2.bitrey.it), ma avviso che potrei tirarlo giù da un momento all'altro.
-Se ti serve la sicurezza che l'API rimanga sempre online o che [la hosti da solo][come hostare quest'api], o, ancora meglio, mi dai [una mano a pagare la VPS che uso per hostare i siti qua](paypal.me/alessandroamella "eddai che i soldi per tenere online sta roba non mi piovono dal cielo").
+Se ti serve la sicurezza che l'API rimanga sempre online o che [la hosti da solo](https://github.com/Bitrey/SETA-API-V2 "Come hostare quest'API"), o, ancora meglio, mi dai [una mano a pagare la VPS che uso per hostare i siti qua](paypal.me/alessandroamella "eddai che i soldi per tenere online sta roba non mi piovono dal cielo").
 
 ### Come hostare quest'API
 
