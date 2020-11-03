@@ -7,7 +7,7 @@ SETA, la società del trasporto pubblico locale, offre un servizio online chiama
 Ho pensato a quanto sarebbe stato bello fare un tabellone degli arrivi con Arduino, ma per farlo prima mi sarebbe servita una API.
 Visto che API della SETA non esistono, ne ho creata una io.
 Questa è la seconda versione. Per ora la tengo hostata su [http://setaapi2.bitrey.it](http://setaapi2.bitrey.it), ma avviso che potrei tirarlo giù da un momento all'altro.
-Se ti serve la sicurezza che l'API rimanga sempre online o che [la hosti da solo](https://github.com/Bitrey/SETA-API-V2 "Come hostare quest'API"), o, ancora meglio, mi dai [una mano a pagare la VPS che uso per hostare i siti qua](https://paypal.me/alessandroamella "eddai che i soldi per tenere online sta roba non mi piovono dal cielo").
+Se ti serve la sicurezza che l'API rimanga sempre online o che [la hosti da solo](#come-hostare-questapi "Come hostare quest'API"), o, ancora meglio, mi dai [una mano a pagare la VPS che uso per hostare i siti qua](https://paypal.me/alessandroamella "eddai che i soldi per tenere online sta roba non mi piovono dal cielo").
 
 ### Come hostare quest'API
 
@@ -26,7 +26,7 @@ Se ti serve la sicurezza che l'API rimanga sempre online o che [la hosti da solo
     -   **Query:**
         -   formato: (_opzionale_) se uguale a "xml" i dati verranno restituiti in XML
     -   **Descrizione:**
-        Restituisce l'[Oggetto Fermata](https://github.com/Bitrey/SETA-API-V2 "Oggetto Fermata") con il nome corrispondente a quello dato.
+        Restituisce l'[Oggetto Fermata](#oggetto-fermata "Oggetto Fermata") con il nome corrispondente a quello dato.
         Se non viene trovata nessuna fermata (nome non valido), restituirà uno status code 400.
 
 -   `GET /codice/:codice`:
@@ -36,7 +36,7 @@ Se ti serve la sicurezza che l'API rimanga sempre online o che [la hosti da solo
     -   **Query:**
         -   formato: (_opzionale_) se uguale a "xml" i dati verranno restituiti in XML
     -   **Descrizione:**
-        Restituisce l'oggetto Fermata con il codice corrispondente a quello dato.
+        Restituisce l'[Oggetto Fermata](#oggetto-fermata "Oggetto Fermata") con il codice corrispondente a quello dato.
         Se non viene trovata nessuna fermata (codice non valido), restituirà uno status code 400.
 
 -   `GET /corse/:bacino/:codice`:
@@ -47,7 +47,7 @@ Se ti serve la sicurezza che l'API rimanga sempre online o che [la hosti da solo
         -   formato: (_opzionale_) se uguale a "xml" i dati verranno restituiti in XML
         -   corseFermataOpposta: (_opzionale_) se mostrare le corse alla fermata opposta, può essere "si" o "no"
     -   **Descrizione:**
-        Restituisce le prossime corse ([Oggetti Corsa](https://github.com/Bitrey/SETA-API-V2 "Oggetto Corsa")) passanti alla fermata col codice dato.
+        Restituisce le prossime corse ([Array di oggetti Corsa](#oggetto-corsa "Oggetto Corsa")) passanti alla fermata col codice dato.
 
 ### Classi di oggetti
 
