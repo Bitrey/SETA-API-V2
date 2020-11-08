@@ -21,11 +21,15 @@ export const fetchProssimeCorse = (
                 body: form
             });
 
+            // console.log(res.body);
             const corse: Corsa[] = JSON.parse(res.body);
 
             // Remove invalid data
-            for (const [i, corsa] of corse.entries()) {
-                if (!corsa.linea) corse.splice(i, 1);
+            for (let i = 0; i < corse.length; i++) {
+                if (!corse[i].linea) {
+                    corse.splice(i, 1);
+                    i--;
+                }
             }
 
             // DEBUG
@@ -33,7 +37,11 @@ export const fetchProssimeCorse = (
 
             return resolve(corse);
         } catch (err) {
-            reject(err);
+            if (err instanceof SyntaxError) {
+                resolve(<Corsa[]>[]);
+            } else {
+                reject(err || err?.message);
+            }
         }
     });
 };

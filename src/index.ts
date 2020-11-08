@@ -87,7 +87,7 @@ app.get("/corse/:bacino/:codice", async (req, res) => {
         else return res.json(corse);
     } catch (err) {
         logger.error(err);
-        res.status(500).send(err);
+        res.status(500).send(err || err?.message);
     }
 });
 
