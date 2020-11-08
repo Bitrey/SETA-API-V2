@@ -23,6 +23,11 @@ export const fetchProssimeCorse = (
 
             const corse: Corsa[] = JSON.parse(res.body);
 
+            // Remove invalid data
+            for (const [i, corsa] of corse.entries()) {
+                if (!corsa.linea) corse.splice(i, 1);
+            }
+
             // DEBUG
             // console.log(corse);
 
