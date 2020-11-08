@@ -10,7 +10,8 @@ export const fetchOraAttuale = (): Promise<string> => {
             const body: { datetime?: string } = res.body;
             if (body && typeof body.datetime === "string") {
                 const orario = new Date(body.datetime);
-                let hours: string | number = orario.getHours() + 1;
+                let hours: string | number = orario.getHours();
+                hours === 23 ? hours = 0 : hours++;
                 let minutes: string | number = orario.getMinutes();
                 if (hours < 10) hours = "0" + hours;
                 if (minutes < 10) minutes = "0" + minutes;
