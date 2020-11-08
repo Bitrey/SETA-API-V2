@@ -22,31 +22,33 @@ const aggiornaFermate = schedule.scheduleJob("00 * * * *", async () => {
 });
 
 // Appena parte il server, sincronizza le fermate
-import { fetchProssimeCorse, fetchFermate } from "./functions";
+import { fetchProssimeCorse, fetchFermate, fetchOraAttuale } from "./functions";
 fetchFermate().then(fermateTrovate => (fermate = fermateTrovate));
 
 // Questa libreria è fatta col culo, solo i types si importano con la sintassi ES6
 import convertType from "js2xmlparser";
 var convert: typeof convertType = require("js2xmlparser");
 
-app.get("/nome/:nome", (req, res) => {
+app.get("/nome/:nome", async (req, res) => {
     const { nome } = req.params;
     const fermata = fermate.find(f => f.nome === nome);
+    const orario = await fetchOraAttuale();
     if (!fermata)
         res.status(400).send(`Fermata con nome "${nome}" non trovata.`);
     else if (req.query.formato === "xml")
-        res.send(convert.parse("fermata", fermata));
-    else res.json(fermata);
+        res.send(convert.parse("fermata", { ...fermata, orario }));
+    else res.json({ ...fermata, orario });
 });
 
-app.get("/codice/:codice", (req, res) => {
+app.get("/codice/:codice", async (req, res) => {
     const { codice } = req.params;
     const fermata = fermate.find(f => f.codice === codice);
+    const orario = await fetchOraAttuale();
     if (!fermata)
         res.status(400).send(`Fermata con codice "${codice}" non trovata.`);
     else if (req.query.formato === "xml")
-        res.send(convert.parse("fermata", fermata));
-    else res.json(fermata);
+        res.send(convert.parse("fermata", { ...fermata, orario }));
+    else res.json({ ...fermata, orario });
 });
 
 app.get("/corse/:bacino/:codice", async (req, res) => {
