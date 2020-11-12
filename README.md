@@ -49,7 +49,7 @@ Per una lista delle fermate con rispettivo codice del **bacino di Modena**, guar
         -   formato: (_opzionale_) se uguale a "xml" i dati verranno restituiti in XML
         -   corseFermataOpposta: (_opzionale_) se mostrare le corse alla fermata opposta, può essere "si" o "no"
     -   **Descrizione:**
-        Restituisce le prossime corse ([Array di oggetti Corsa](#oggetto-corsa "Oggetto Corsa")) passanti alla fermata col codice dato.
+        Restituisce le prossime corse ([Array di oggetti Corsa](#oggetto-corsa "Oggetto Corsa")) passanti alla fermata col codice dato. **Nota:** il primo elemento dell'array sarà un oggetto di tipo `{orario: <orario>}` (con l'orario attuale al posto di `<orario>`).
 
 ### Classi di oggetti
 
