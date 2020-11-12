@@ -9,6 +9,8 @@ Visto che API della SETA non esistono, ne ho creata una io.
 Questa è la seconda versione. Per ora la tengo hostata su [http://setaapi2.bitrey.it](http://setaapi2.bitrey.it), ma avviso che potrei tirarlo giù da un momento all'altro.
 Se ti serve la sicurezza che l'API rimanga sempre online, o che [la hosti da solo](#come-hostare-questapi "Come hostare quest'API"), o, ancora meglio, mi dai [una mano a pagare la VPS che uso per hostare i siti qua](https://paypal.me/alessandroamella "eddai che i soldi per tenere online sta roba non mi piovono dal cielo").
 
+Per una lista delle fermate con rispettivo codice del **bacino di Modena**, guarda il file `fermate.json`
+
 ### Come hostare quest'API
 
 -   Se non l'hai già installato, scarica git
@@ -26,8 +28,8 @@ Se ti serve la sicurezza che l'API rimanga sempre online, o che [la hosti da sol
     -   **Query:**
         -   formato: (_opzionale_) se uguale a "xml" i dati verranno restituiti in XML
     -   **Descrizione:**
-        Restituisce l'[Oggetto Fermata](#oggetto-fermata "Oggetto Fermata") con il nome corrispondente a quello dato.
-        Se non viene trovata nessuna fermata (nome non valido), restituirà uno status code 400.
+        Restituisce l'[Oggetto FermataConOrario](#oggetto-fermataconorario "Oggetto FermataConOrario") con il nome corrispondente a quello dato.
+        Se non viene trovata nessuna fermata (nome non valido), restituirà uno status code 400. **Nota:** supporta solo le fermate del bacino di Modena.
 
 -   `GET /codice/:codice`:
 
@@ -36,8 +38,8 @@ Se ti serve la sicurezza che l'API rimanga sempre online, o che [la hosti da sol
     -   **Query:**
         -   formato: (_opzionale_) se uguale a "xml" i dati verranno restituiti in XML
     -   **Descrizione:**
-        Restituisce l'[Oggetto Fermata](#oggetto-fermata "Oggetto Fermata") con il codice corrispondente a quello dato.
-        Se non viene trovata nessuna fermata (codice non valido), restituirà uno status code 400.
+        Restituisce l'[Oggetto FermataConOrario](#oggetto-fermataconorario "Oggetto FermataConOrario") con il codice corrispondente a quello dato.
+        Se non viene trovata nessuna fermata (codice non valido), restituirà uno status code 400. **Nota:** supporta solo le fermate del bacino di Modena.
 
 -   `GET /corse/:bacino/:codice`:
     -   **Parametri:**
@@ -59,6 +61,16 @@ Rappresentati nelle loro interfacce di TypeScript
 {
     codice: string;
     nome: string;
+}
+```
+
+-   ### Oggetto FermataConOrario
+
+```typescript
+{
+    codice: string;
+    nome: string;
+    orario: string;
 }
 ```
 

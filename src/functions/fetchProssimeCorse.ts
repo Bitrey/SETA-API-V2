@@ -2,12 +2,13 @@ import FormData from "form-data";
 import got from "got";
 import { FUNZIONI_URL } from "../config/options";
 import { Corsa } from "../interfaces";
+import { fetchOraAttuale } from "./fetchOraAttuale";
 
 export const fetchProssimeCorse = (
     palina: string = "MO2076",
     bacino: "mo" | "re" | "pc" = "mo",
     cerca_palina_opposta: "si" | "no" = "no"
-): Promise<Corsa[]> => {
+): Promise<any> => {
     return new Promise(async (resolve, reject) => {
         try {
             const form = new FormData();
@@ -32,10 +33,12 @@ export const fetchProssimeCorse = (
                 }
             }
 
+            const orario = await fetchOraAttuale();
+
             // DEBUG
             // console.log(corse);
 
-            return resolve(corse);
+            return resolve([{ orario }, ...corse]);
         } catch (err) {
             if (err instanceof SyntaxError) {
                 resolve(<Corsa[]>[]);

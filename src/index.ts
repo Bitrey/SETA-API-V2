@@ -11,7 +11,7 @@ import { logger, LoggerStream } from "./shared/logger";
 app.use(morgan("tiny", { stream: new LoggerStream() }));
 
 // Array fermate salvato in RAM, aggiornato ogni ora
-import { Fermata } from "./interfaces";
+import { Fermata, FermataConOrario } from "./interfaces";
 let fermate: Fermata[] = [];
 
 // Aggiorna le fermate ogni ora
@@ -33,22 +33,28 @@ app.get("/nome/:nome", async (req, res) => {
     const { nome } = req.params;
     const fermata = fermate.find(f => f.nome === nome);
     const orario = await fetchOraAttuale();
-    if (!fermata)
-        res.status(400).send(`Fermata con nome "${nome}" non trovata.`);
-    else if (req.query.formato === "xml")
-        res.send(convert.parse("fermata", { ...fermata, orario }));
-    else res.json({ ...fermata, orario });
+    if (!fermata) {
+        return res.status(400).send(`Fermata con nome "${nome}" non trovata.`);
+    }
+    const fermataConOrario: FermataConOrario = { ...fermata, orario };
+    if (req.query.formato === "xml")
+        res.send(convert.parse("fermata", fermataConOrario));
+    else res.json(fermataConOrario);
 });
 
 app.get("/codice/:codice", async (req, res) => {
     const { codice } = req.params;
     const fermata = fermate.find(f => f.codice === codice);
     const orario = await fetchOraAttuale();
-    if (!fermata)
-        res.status(400).send(`Fermata con codice "${codice}" non trovata.`);
-    else if (req.query.formato === "xml")
-        res.send(convert.parse("fermata", { ...fermata, orario }));
-    else res.json({ ...fermata, orario });
+    if (!fermata) {
+        return res
+            .status(400)
+            .send(`Fermata con codice "${codice}" non trovata.`);
+    }
+    const fermataConOrario: FermataConOrario = { ...fermata, orario };
+    if (req.query.formato === "xml")
+        res.send(convert.parse("fermata", fermataConOrario));
+    else res.json(fermataConOrario);
 });
 
 app.get("/corse/:bacino/:codice", async (req, res) => {
