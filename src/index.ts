@@ -1,3 +1,7 @@
+// Dotenv
+import dotenv from "dotenv";
+dotenv.config();
+
 // Express
 import express from "express";
 const app = express();
@@ -37,9 +41,9 @@ app.get("/nome/:nome", async (req, res) => {
         return res.status(400).send(`Fermata con nome "${nome}" non trovata.`);
     }
     const fermataConOrario: FermataConOrario = { ...fermata, orario };
-    if (req.query.formato === "xml")
+    if (req.query.formato === "xml") {
         res.send(convert.parse("fermata", fermataConOrario));
-    else res.json(fermataConOrario);
+    } else res.json(fermataConOrario);
 });
 
 app.get("/codice/:codice", async (req, res) => {
@@ -52,9 +56,9 @@ app.get("/codice/:codice", async (req, res) => {
             .send(`Fermata con codice "${codice}" non trovata.`);
     }
     const fermataConOrario: FermataConOrario = { ...fermata, orario };
-    if (req.query.formato === "xml")
+    if (req.query.formato === "xml") {
         res.send(convert.parse("fermata", fermataConOrario));
-    else res.json(fermataConOrario);
+    } else res.json(fermataConOrario);
 });
 
 app.get("/corse/:bacino/:codice", async (req, res) => {
@@ -101,9 +105,13 @@ app.get("/corse/:bacino/:codice", async (req, res) => {
 
 app.all("*", (req, res) => res.sendStatus(404));
 
-// Dotenv
-import dotenv from "dotenv";
-dotenv.config();
+// debug!!!
+// import { VoiceReader } from "./voice";
+// const j = require("../test/example7.json");
+// for (let i = 1; i < j.length; i++) {
+//     const t = new VoiceReader(j[i]);
+//     logger.debug(t.leggi());
+// }
 
 const PORT = Number(process.env.PORT) || 3000;
 const IP = process.env.IP || "127.0.0.1";

@@ -1,0 +1,46 @@
+[
+    {
+        "orario": "16:20"
+    },
+    {
+        "linea": "13",
+        "n_linea": "13",
+        "pianificato": "15:22",
+        "destinazione": "S. ANNA",
+        "tipo_linea": "u",
+        "news": "",
+        "temporeale": "15:20",
+        "num_bus": "283",
+        "min_all_arrivo_val": 0
+    },
+    {
+        "linea": "5taxi",
+        "n_linea": "5taxi",
+        "pianificato": "15:25",
+        "destinazione": "GANACETO",
+        "tipo_linea": "u",
+        "news": "",
+        "min_all_arrivo_val": 9999
+    },
+    {
+        "news": "",
+        "linea": "11A",
+        "n_linea": "11A",
+        "pianificato": "15:28",
+        "destinazione": "S. ANNA",
+        "tipo_linea": "u",
+        "num_bus": "200",
+        "min_all_arrivo_val": 9999
+    },
+    {
+        "news": "",
+        "linea": "4",
+        "n_linea": "4",
+        "pianificato": "15:38",
+        "destinazione": "GALILEI",
+        "tipo_linea": "u",
+        "temporeale": "15:39",
+        "num_bus": "279",
+        "min_all_arrivo_val": 19
+    }
+]

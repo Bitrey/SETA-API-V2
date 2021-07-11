@@ -1,0 +1,45 @@
+[
+    {
+        "orario": "15:59"
+    },
+    {
+        "linea": "4",
+        "n_linea": "4",
+        "pianificato": "15:08",
+        "destinazione": "GALILEI",
+        "tipo_linea": "u",
+        "news": "",
+        "temporeale": "15:05",
+        "num_bus": "278",
+        "min_all_arrivo_val": 6
+    },
+    {
+        "linea": "13",
+        "n_linea": "13",
+        "pianificato": "15:09",
+        "destinazione": "OSPEDALE BAGGIOVARA",
+        "tipo_linea": "u",
+        "news": "",
+        "temporeale": "15:07",
+        "num_bus": "282",
+        "min_all_arrivo_val": 8
+    },
+    {
+        "linea": "800",
+        "n_linea": "800",
+        "pianificato": "15:10",
+        "destinazione": "PAVULLO",
+        "tipo_linea": "e",
+        "news": "",
+        "min_all_arrivo_val": 9999
+    },
+    {
+        "linea": "6",
+        "n_linea": "6",
+        "pianificato": "15:12",
+        "destinazione": "CHINNICI",
+        "tipo_linea": "u",
+        "news": "",
+        "min_all_arrivo_val": 9999
+    }
+]

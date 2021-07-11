@@ -1,0 +1,1359 @@
+<body class="fixed-header">
+		
+    <!--	----	Faccio partire la funzione per il loader	----	-->
+    <script type="text/javascript">
+        mostra_loading_screen();
+    </script><style class="" style="display: none;"> .modal-backdrop { visibility: hidden !important; } .modal.in { background-color: rgba(0,0,0,0.5); } </style><div class="modal fade" data-backdrop="static" data-keyboard="false" tabindex="-1" role="dialog" aria-hidden="true" style="padding-top: 15%; overflow-y: visible; z-index: 999999; display: none;"><div class="modal-dialog loading modal-m"><div class="modal-content loading"><div class="modal-body"><div class="loader"><div class="circle"></div><div class="circle"></div><div class="circle"></div><div class="circle"></div><div class="circle"></div></div></div></div></div></div>
+    
+    <header class="main-header">
+        <a class="phone-menu-trigger" aria-haspopup="true">
+            <img src="img/header/ico_menu.png" alt="" style="height: 23px;">
+        </a>
+        <div class="container clearfix" style="height: 39px;">
+            <div class="menu-overlay-for-body"></div>
+            
+            <div class="logo-area">
+                
+                                    <div class="row">
+                        <div class="col-md-4 col-sm-4 col-xs-4"><a href="homepage"><img src="images/logo_seta_bacino.png" alt=""></a></div>
+                        <div class="col-md-8 col-sm-8 col-xs-8 "><a href="mo"><img src="images/logo_seta_mo_new.png" alt=""></a></div>
+                                        </div>
+                
+            </div>
+            
+            <div class="change-size">
+                <a style="font-size: 14px; cursor: pointer; text-decoration: none;" onclick="changeFontSize(14)">A</a>&nbsp;
+                <a style="font-size: 18px; cursor: pointer; text-decoration: none;" onclick="changeFontSize(16)">A</a>&nbsp;
+                <a style="font-size: 22px; cursor: pointer; text-decoration: none;" onclick="changeFontSize(18)">A</a>&nbsp;
+                &nbsp;&nbsp;&nbsp;
+                <a style="font-size: 22px; cursor: pointer; text-decoration: none;" href="mo/sitemap"><img src="images/ico-sitemap.png"></a>
+            </div>
+            
+            <div class="additional-buttons">
+                <nav id="menu-area" class="menu-area modena">
+                    <ul class="clearfix">
+                                                <script>
+                            var d = document.getElementById("menu-area");
+                            d.className += " modena";
+                            </script>
+                            <li class="mega-menu-centred light">
+                                <a href="#">Linee<i class="fa fa-chevron-plus"></i></a>
+                                
+                                <div class="main-menu-dropdown big-mega-menu light full-width-mega-menu">
+                                    <div class="mega-menu-container clearfix">
+                                        <div class="container">
+                                            <div class="col-sm-8 header-col">
+                                                <div class="row">
+                                                    <div class="col-sm-6 header-col">
+                                                        <ul class="submenu">
+                                                            <li>
+                                                                <a href="mo/linee">Linee</a>
+                                                                <ul class="last-submenu"><!--indica che è l'ultimo sottomenù-->
+                                                                    <li></li>
+                                                                                                                                <li class="disc-menu"><a href="mo/linee#mo1" class="blu">Urbane</a></li>
+                                                                                                                                <li class="disc-menu"><a href="mo/linee#mo7" class="blu">Scolastiche Polo Leonardo</a></li>
+                                                                                                                                <li class="disc-menu"><a href="mo/linee#mo4" class="blu">Urbane di Carpi</a></li>
+                                                                                                                                <li class="disc-menu"><a href="mo/linee#mo5" class="blu">Urbane di Sassuolo</a></li>
+                                                                                                                                <li class="disc-menu"><a href="mo/linee#mo2" class="blu">Extraurbane</a></li>
+                                                                                                                                <li class="disc-menu"><a href="mo/linee#mo6" class="blu">Urbane di Pavullo</a></li>
+                                                                                                                                <li></li>
+                                                                </ul>
+                                                                <br>
+                                                                <a href="mo/quantomanca">Orari in tempo reale</a>
+                                                                <br>
+                                                                <a href="mo/wimb">Dov'è il mio bus</a>
+                                                                <br>
+                                                                <a href="mo/trova-percorso">Trova il tuo percorso</a>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                    
+                                                    <div class="col-sm-6 header-col">
+                                                        <ul class="submenu">
+                                                            <li>
+                                                                <a href="mo/mappe-e-guide-orari">Mappe</a>
+                                                                
+                                                                <ul class="last-submenu"><!--indica che è l'ultimo sottomenù-->
+                                                                    <li></li>
+                                                                                                                                                <li class="disc-menu"><a href="materiale/mappe/SETA_Mappa_Modena.pdf" class="blu" target="_blank">Mappa urbana di Modena</a></li>
+                                                                                                                                                            <li class="disc-menu"><a href="materiale/TPLCarpi.pdf" class="blu" target="_blank">Mappa urbana di Carpi</a></li>
+                                                                                                                                                            <li class="disc-menu"><a href="materiale/mappe/Mappa_BUS_Sassuolo.pdf" class="blu" target="_blank">Mappa urbana di Sassuolo</a></li>
+                                                                                                                                                <li class="disc-menu"><a href="mo/Prontobus" class="blu">Prontobus di Modena</a></li>
+                                                                    <li></li>
+                                                                </ul>
+                                                                                                                                    <br>
+                                                                        <a href="mo/mappe-e-guide-orari">Guide orari</a>
+                                                                                                                                </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            
+                                            <div class="col-sm-4 header-col">
+                                                <ul class="submenu-img">
+                                                    <li><a href="mo/trova-percorso"><img src="images/group-31.png" class="img-responsive" title="Trova il tuo percorso"></a></li>
+                                                    <li><a href="mo/quantomanca"><img src="images/group-30.png" class="img-responsive" title="Orari in tempo reale"></a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <!-- fine linee -->
+                            
+                            <li class="mega-menu-centred light">
+                                <a href="#">Titoli di viaggio<i class="fa fa-chevron-plus"></i></a>
+                                
+                                <div class="main-menu-dropdown big-mega-menu light full-width-mega-menu">
+                                    <div class="mega-menu-container clearfix">
+                                        <div class="container">
+                                            <div class="col-sm-8 header-col">
+                                                <div class="row">
+                                                    <div class="col-sm-6 header-col">
+                                                        <ul class="submenu">
+                                                            <li>
+                                                                </li><li class="no-padding"><a href="mo/biglietti" class="blu">Biglietti</a></li>
+                                                                <li class="no-padding"><a href="mo/abbonamenti" class="blu">Abbonamenti</a></li>
+                                                                <li class="no-padding"><a href="mo/sistema-tariffario" class="blu">Sistema Tariffario</a></li>
+                                                                <li class="no-padding"><a href="mo/calcola-tariffa" class="blu">Calcola la tariffa</a></li>
+                                                                <li class="no-padding"><a href="mo/voucher" class="blu">Rimborsi Voucher - Covid19</a></li>
+                                                                <li class="no-padding"><a href="mo/rimborsi-grande" class="blu">Rimborsi abbonamenti Child-GRANDE</a></li>
+                                                                <li class="no-padding"><a href="mo/rimborsi-idrocarburi" class="blu">Fondo idrocarburi - Rimborsi</a></li>
+                                                                <li class="no-padding"><a href="mo/estratto-conto-abbonamento" class="blu">Estratto conto abbonamento</a></li>
+                                                                <li class="no-padding"><a href="mo/news/1294" class="blu">Detrazioni fiscali</a></li>
+                                                            
+                                                        </ul>
+                                                    </div><!--col-sm-6 header-col-->
+                                                    
+                                                    <div class="col-sm-6 header-col">
+                                                        <ul class="submenu">
+                                                            <li></li>
+                                                            <li class="no-padding"><a href="mo/dove-acquistare" class="blu">Dove acquistare</a></li>
+                                                            <ul class="last-submenu" style="margin-left:2rem">
+                                                                <li></li>
+                                                                <li class="disc-menu"><a href="mo/tariffe-acquisto-online" class="blu">Biglietteria online</a></li>
+                                                                <li class="disc-menu"><a href="mo/app" class="blu">App</a></li>
+                                                                <li class="disc-menu"><a href="mo/dove-acquistare#biglietterie" class="blu">Biglietterie</a></li>
+                                                                <li class="disc-menu"><a href="mo/dove-acquistare#rivendite_autorizzate" class="blu">Rivendite autorizzate</a></li>
+                                                                <li class="disc-menu"><a href="mo/dove-acquistare#emettitrici" class="blu">Emettitrici a terra</a></li>
+                                                                <li class="disc-menu"><a href="mo/dove-acquistare#ricarica" class="blu">Rete bancomat per ricarica</a></li>
+                                                                <li class="disc-menu"><a href="mo/biglietteria-mobile" class="blu">Biglietteria Mobile</a></li>
+                                                                <li></li>
+                                                            </ul>
+                                                        </ul>
+                                                    </div>
+                                                </div><!--row-->
+                                            </div><!--col-sm-8 header-col-->
+                                            
+                                            <div class="col-sm-4 header-col">
+                                                <ul class="submenu-img">
+                                                    <li><a href="mo/tariffe-acquisto-online"><img src="images/group-42.png" class="img-responsive" title="Biglietteria online"></a></li>
+                                                    <li><a href="mo/calcola-tariffa"><img src="images/group-43.png" class="img-responsive" title="Calcola la tariffa"></a></li>
+                                                </ul> 
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                             <!-- fine titoli di viaggio -->
+                             
+                            <li>
+                                <a href="#">Altri servizi<i class="fa fa-chevron-plus"></i></a>
+                                
+                                <ul class="last-submenu"><!--indica che è l'ultimo sottomenù-->
+                                    <li></li>
+                                    <li class="disc-menu"><a href="mo/Taxibus" class="blu">Taxibus</a></li>
+                                    <li class="disc-menu"><a href="mo/Prontobus" class="blu">Prontobus</a></li>
+                                    <li class="disc-menu"><a href="mo/Bici-a-bordo" class="blu">Bici a bordo</a></li>
+                                    <li class="disc-menu"><a href="mo/Servizi-di-stazione" class="blu">Servizi di stazione</a></li>
+                                    <li class="disc-menu"><a href="mo/Ferrovie" class="blu">Ferrovie</a></li>
+                                    <!--<li class="disc-menu"><a href="mo/paga-sanzioni" class="blu">Pagamento sanzioni</a></li>-->
+                                    <li class="disc-menu"><a href="mo/pubblicità-sui-mezzi" class="blu">Pubblicità sui mezzi</a></li>
+                                    <li></li>
+                                </ul>
+                            </li>
+                            
+                            <li>
+                                <a href="#">Diritti e doveri dei viaggiatori<i class="fa fa-chevron-plus"></i></a>
+                                
+                                <ul class="last-submenu"><!--indica che è l'ultimo sottomenù-->
+                                    <li></li>
+                                    <li class="disc-menu"><a href="mo/regolamento-di-trasporto" class="blu">Regolamento di trasporto</a></li>
+                                    <li class="disc-menu"><a href="mo/sanzioni-e-ricorsi" class="blu">Sanzioni e Ricorsi</a></li>
+                                    <li class="disc-menu"><a href="mo/richieste" class="blu">Segnalazioni</a></li>
+                                    <li class="disc-menu"><a href="mo/carta-dei-servizi" class="blu">Carta dei servizi</a></li>
+                                    <li class="disc-menu"><a href="mo/codice-etico" class="blu">Codice etico</a></li>
+                                    <li class="disc-menu"><a href="mo/privacy-policy" class="blu">Privacy</a></li>
+                                    <li class="disc-menu"><a href="http://www.comitatoutentitplmo.it/" target="_blank" class="blu">Comitato utenti di Modena</a></li>
+                                    <li class="disc-menu"><a href="mo/link-utili" class="blu">Link utili</a></li>
+                                    <li class="disc-menu"><a href="mo/autorita-regolazione-trasporti" class="blu">Autorità di Regolazione dei Trasporti</a></li>
+                                    <li></li>
+                                </ul>
+                            </li>
+                            
+                            <li>
+                                <a href="mo/news">News</a>
+                            </li>
+                            
+                            <li>
+                                <a href="mo/promozioni">Promozioni</a>
+                            </li>
+                            
+                            <li>
+                                <a href="mo/contatti">Contatti</a>
+                            </li>
+                            
+                            <li class="no-border">
+                                <a href="#">Cambia bacino<i class="fa fa-chevron-plus"></i></a>
+                                
+                                <ul class="last-submenu"><!--indica che è l'ultimo sottomenù-->
+                                    <li></li>
+                                    <li class="disc-menu"><a href="re" class="blu">Reggio Emilia</a></li>
+                                    <li class="disc-menu"><a href="pc" class="blu">Piacenza</a></li>
+                                    <li></li>
+                                </ul>
+                            </li>
+                                        </ul>
+                </nav>
+            </div>
+        </div>
+    </header><section class="section_briciole">
+        <div class="container">
+            <div class="row breadcrumbs">
+                <a href="homepage">
+                    <img src="images/ico_home.png" border="0" alt="Homepage">
+                </a>
+                
+                    <a href="homepage" class="briciole">
+                        Home
+                    </a>
+                 &gt; 
+                    <a href="mo" class="briciole">
+                        Bacino provinciale di Modena
+                    </a>
+                 &gt; 
+                    <a href="mo/linee" class="briciole">
+                        Linee
+                    </a>
+                 &gt; 
+                    Orari in tempo reale
+                        </div>
+        </div><!--container-->
+    </section><!--section_briciole-->		
+                            <section class="section_titolo_pagina">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <font class="titolo_pagina">Orari in tempo reale</font>
+                                </div>
+                            </div>
+                        </div><!--container-->
+                    </section><!--section_titolo_pagina-->
+                            
+            <section class="padding_top4 padding_bottom7">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-9">
+                            
+                            <script type="text/javascript">
+        function ricarica_pagina(){
+            waitingDialog.show("Caricando...");
+            $("#form_aggiorna_pagina").submit();
+        }
+        
+        $(document).ready(function(){
+            setTimeout("ricarica_pagina()",120000);		//ogni 2 minuti faccio il refresh
+            
+            $("#qm_bottone_ricarica_orari").on("click", function(){
+                ricarica_pagina();
+            });
+            $("#qm_bottone_nuova_ricerca").on("click", function(){
+                waitingDialog.show("Caricando...");
+                $("#form_nuova_ricerca").submit();
+            });
+            
+    
+            //Apertura modal contenente "Dov'è il mio bus"
+            $(".wimb").on("click", function(){
+                var id_mezzo = $(this).attr("data-numbus");
+                console.log("id_mezzo"); 
+                console.log(id_mezzo); 
+                $("#modalWimb iframe").attr("src", "https://wimb.setaweb.it/qm/index.html?id=" + id_mezzo);
+                $("#apriModalWimb").trigger("click");
+            });
+            
+        });
+    </script>
+    <div class="contenutobacino" style="margin-top: 0 !important;">
+        <div class="qm_blocco sfondo_celeste">
+            <div class="qm_blocco_titolo_input">
+                <font class="qm_titolo blu">Sei alla fermata:</font><br>
+                <font class="qm_titolo_grande blu">Stazione FS</font><br>
+                <font class="qm_titolo blu">sono le ore 11:39 del 12/11/2020</font>
+            </div>
+        </div>
+        
+        <div class="qm_blocco">
+                <div class="qm_blocco_titolo_input">
+                <font class="qm_titolo blu">da qui passano:</font>
+            </div>
+            <!------------------------------------------------------------>
+            <!--	----		INIZIO STAMPA RISULTATI			----	-->
+            <!------------------------------------------------------------>
+            <table class="qm_table_risultati">
+                <thead>
+                <tr>
+                    <th>LINEA</th>
+                    <th>DIREZIONE</th>
+                    <th>MINUTI<br>ALL'ARRIVO</th>
+                    <th class="hidden-xs">ORARIO DA<br>PROGRAMMA</th>
+                    <th class="hidden-xs">ORARIO<br>REALE</th>
+                    <th class="hidden-xs">DOVE SI<br>TROVA IL BUS</th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr>
+                                    <td><div class="quadratino_linea">9</div>&nbsp;&nbsp;<img src="images/quanto_manca/restyling/urbana_legenda.jpg" width="17px" class="hidden-xs ico_tipo_linea"></td>
+                                    <td>CITTANOVA</td>
+                                    <td>0</td>
+                                    <td class="hidden-xs">11:39</td>
+                                    <td class="hidden-xs">11:37</td>
+                                    <td class="hidden-xs wimb" data-numbus="283"><img src="images/quanto_manca/ico_bus_wimb.png" style="cursor:pointer;"></td>
+                                </tr><tr>
+                                    <td><div class="quadratino_linea">11</div>&nbsp;&nbsp;<img src="images/quanto_manca/restyling/urbana_legenda.jpg" width="17px" class="hidden-xs ico_tipo_linea"></td>
+                                    <td>ZODIACO</td>
+                                    <td>0</td>
+                                    <td class="hidden-xs">11:39</td>
+                                    <td class="hidden-xs">11:39</td>
+                                    <td class="hidden-xs wimb" data-numbus="135"><img src="images/quanto_manca/ico_bus_wimb.png" style="cursor:pointer;"></td>
+                                </tr><tr>
+                                    <td><div class="quadratino_linea">4</div>&nbsp;&nbsp;<img src="images/quanto_manca/restyling/urbana_legenda.jpg" width="17px" class="hidden-xs ico_tipo_linea"></td>
+                                    <td>LATINA</td>
+                                    <td>1</td>
+                                    <td class="hidden-xs">11:38</td>
+                                    <td class="hidden-xs">11:40</td>
+                                    <td class="hidden-xs wimb" data-numbus="259"><img src="images/quanto_manca/ico_bus_wimb.png" style="cursor:pointer;"></td>
+                                </tr><tr>
+                                    <td><div class="quadratino_linea">7</div>&nbsp;&nbsp;<img src="images/quanto_manca/restyling/urbana_legenda.jpg" width="17px" class="hidden-xs ico_tipo_linea"></td>
+                                    <td>GRAMSCI</td>
+                                    <td>1</td>
+                                    <td class="hidden-xs">11:39</td>
+                                    <td class="hidden-xs">11:40</td>
+                                    <td class="hidden-xs wimb" data-numbus="30"><img src="images/quanto_manca/ico_bus_wimb.png" style="cursor:pointer;"></td>
+                                </tr><tr>
+                                    <td><div class="quadratino_linea">4</div>&nbsp;&nbsp;<img src="images/quanto_manca/restyling/urbana_legenda.jpg" width="17px" class="hidden-xs ico_tipo_linea"></td>
+                                    <td>GALILEI</td>
+                                    <td>*</td>
+                                    <td class="hidden-xs">11:41</td>
+                                    <td class="hidden-xs">*</td>
+                                    <td class="hidden-xs wimb" data-numbus=""><img src="images/quanto_manca/ico_bus_wimb.png" style="cursor:pointer;"></td>
+                                </tr><tr>
+                                    <td><div class="quadratino_linea">3</div>&nbsp;&nbsp;<img src="images/quanto_manca/restyling/urbana_legenda.jpg" width="17px" class="hidden-xs ico_tipo_linea"></td>
+                                    <td>VACIGLIO</td>
+                                    <td>2</td>
+                                    <td class="hidden-xs">11:42</td>
+                                    <td class="hidden-xs">11:41</td>
+                                    <td class="hidden-xs wimb" data-numbus="289"><img src="images/quanto_manca/ico_bus_wimb.png" style="cursor:pointer;"></td>
+                                </tr><tr>
+                                    <td><div class="quadratino_linea">13</div>&nbsp;&nbsp;<img src="images/quanto_manca/restyling/urbana_legenda.jpg" width="17px" class="hidden-xs ico_tipo_linea"></td>
+                                    <td>S. ANNA CARCERI</td>
+                                    <td>3</td>
+                                    <td class="hidden-xs">11:43</td>
+                                    <td class="hidden-xs">11:42</td>
+                                    <td class="hidden-xs wimb" data-numbus="200"><img src="images/quanto_manca/ico_bus_wimb.png" style="cursor:pointer;"></td>
+                                </tr><tr>
+                                    <td><div class="quadratino_linea">3</div>&nbsp;&nbsp;<img src="images/quanto_manca/restyling/urbana_legenda.jpg" width="17px" class="hidden-xs ico_tipo_linea"></td>
+                                    <td>MONTEFIORINO</td>
+                                    <td>4</td>
+                                    <td class="hidden-xs">11:43</td>
+                                    <td class="hidden-xs">11:43</td>
+                                    <td class="hidden-xs wimb" data-numbus="188"><img src="images/quanto_manca/ico_bus_wimb.png" style="cursor:pointer;"></td>
+                                </tr><tr>
+                                    <td><div class="quadratino_linea">9</div>&nbsp;&nbsp;<img src="images/quanto_manca/restyling/urbana_legenda.jpg" width="17px" class="hidden-xs ico_tipo_linea"></td>
+                                    <td>GOTTARDI</td>
+                                    <td>4</td>
+                                    <td class="hidden-xs">11:38</td>
+                                    <td class="hidden-xs">11:43</td>
+                                    <td class="hidden-xs wimb" data-numbus="285"><img src="images/quanto_manca/ico_bus_wimb.png" style="cursor:pointer;"></td>
+                                </tr><tr>
+                                    <td><div class="quadratino_linea">1</div>&nbsp;&nbsp;<img src="images/quanto_manca/restyling/urbana_legenda.jpg" width="17px" class="hidden-xs ico_tipo_linea"></td>
+                                    <td>V. ZETA - ARIETE</td>
+                                    <td>5</td>
+                                    <td class="hidden-xs">11:44</td>
+                                    <td class="hidden-xs">11:44</td>
+                                    <td class="hidden-xs wimb" data-numbus="193"><img src="images/quanto_manca/ico_bus_wimb.png" style="cursor:pointer;"></td>
+                                </tr><tr>
+                                    <td><div class="quadratino_linea">11</div>&nbsp;&nbsp;<img src="images/quanto_manca/restyling/urbana_legenda.jpg" width="17px" class="hidden-xs ico_tipo_linea"></td>
+                                    <td>S. ANNA</td>
+                                    <td>6</td>
+                                    <td class="hidden-xs">11:45</td>
+                                    <td class="hidden-xs">11:45</td>
+                                    <td class="hidden-xs wimb" data-numbus="136"><img src="images/quanto_manca/ico_bus_wimb.png" style="cursor:pointer;"></td>
+                                </tr><tr>
+                                    <td><div class="quadratino_linea">13</div>&nbsp;&nbsp;<img src="images/quanto_manca/restyling/urbana_legenda.jpg" width="17px" class="hidden-xs ico_tipo_linea"></td>
+                                    <td>OSPEDALE BAGGIOVARA</td>
+                                    <td>6</td>
+                                    <td class="hidden-xs">11:45</td>
+                                    <td class="hidden-xs">11:45</td>
+                                    <td class="hidden-xs wimb" data-numbus="199"><img src="images/quanto_manca/ico_bus_wimb.png" style="cursor:pointer;"></td>
+                                </tr><tr>
+                                    <td><div class="quadratino_linea">1</div>&nbsp;&nbsp;<img src="images/quanto_manca/restyling/urbana_legenda.jpg" width="17px" class="hidden-xs ico_tipo_linea"></td>
+                                    <td>MODENA EST</td>
+                                    <td>*</td>
+                                    <td class="hidden-xs">11:46</td>
+                                    <td class="hidden-xs">*</td>
+                                    <td class="hidden-xs wimb" data-numbus=""><img src="images/quanto_manca/ico_bus_wimb.png" style="cursor:pointer;"></td>
+                                </tr><tr>
+                                    <td><div class="quadratino_linea">7</div>&nbsp;&nbsp;<img src="images/quanto_manca/restyling/urbana_legenda.jpg" width="17px" class="hidden-xs ico_tipo_linea"></td>
+                                    <td>GOTTARDI</td>
+                                    <td>7</td>
+                                    <td class="hidden-xs">11:46</td>
+                                    <td class="hidden-xs">11:46</td>
+                                    <td class="hidden-xs wimb" data-numbus="29"><img src="images/quanto_manca/ico_bus_wimb.png" style="cursor:pointer;"></td>
+                                </tr><tr>
+                                    <td><div class="quadratino_linea">7</div>&nbsp;&nbsp;<img src="images/quanto_manca/restyling/urbana_legenda.jpg" width="17px" class="hidden-xs ico_tipo_linea"></td>
+                                    <td>GRAMSCI</td>
+                                    <td>9</td>
+                                    <td class="hidden-xs">11:49</td>
+                                    <td class="hidden-xs">11:48</td>
+                                    <td class="hidden-xs wimb" data-numbus="1"><img src="images/quanto_manca/ico_bus_wimb.png" style="cursor:pointer;"></td>
+                                </tr>			</tbody>
+            </table>
+    
+            <div class="qm_blocco_legenda_mappa hidden-xs">
+                <table>
+                    <tbody><tr>
+                        <td><img src="images/quanto_manca/restyling/urbana_legenda.jpg"> Urbano</td>
+                        <td><img src="images/quanto_manca/restyling/extraurbana_legenda.jpg"> Extraurbano</td>
+                        <td><img src="images/quanto_manca/restyling/non_diponibile_legenda.jpg"> Dato non disponibile</td>
+                    </tr>
+                </tbody></table>
+            </div>
+            <!------------------------------------------------------------>
+            <!--	----		FINE STAMPA RISULTATI			----	-->
+            <!------------------------------------------------------------>
+                
+            <!------------------------------------------------------------------------>
+            <!--	----	INIZIO BOTTONI RICARICA ORARI / NUOVA RICERCA	----	-->
+            <!------------------------------------------------------------------------>
+                    <div class="row marginetop3 marginebott3">
+                <div class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-2 col-md-4 col-md-offset-2 col-lg-3 col-lg-offset-3 marginetop1 marginebott1">
+                                    <div id="qm_bottone_ricarica_orari">
+                        <h5>AGGIORNA</h5>
+                    </div>
+                    
+                    <form id="form_aggiorna_pagina" name="form_aggiorna_pagina" action="/mo/quantomanca" method="POST">
+                        <input type="hidden" name="risultato" value="palina">
+                        <input type="hidden" name="qm_palina" value="MO506">
+                        <input type="hidden" name="nome_fermata" value="Stazione FS">
+                    </form>
+                </div>
+                
+                <div class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-0 col-md-4 col-md-offset-0 col-lg-3 col-lg-offset-0 marginetop1 marginebott1">
+                                    <div id="qm_bottone_nuova_ricerca">
+                        <h5>NUOVA RICERCA</h5>
+                    </div>
+                    
+                    <form id="form_nuova_ricerca" name="form_nuova_ricerca" action="/mo/quantomanca" method="POST"></form>
+                </div>
+                
+                        </div>
+            <!------------------------------------------------------------------------>
+            <!--	----	FINE BOTTONI RICARICA ORARI / NUOVA RICERCA		----	-->
+            <!------------------------------------------------------------------------>
+            
+            
+            <div class="row">
+                <div class="col-md-12">
+                    <p class="text-center">
+                        Per informazioni e/o suggerimenti riguardanti il servizio "Orari in tempo reale" scrivi a: <a href="mailto:quantomanca@setaweb.it">quantomanca@setaweb.it</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+        
+        <!---------------------------------------------------------------->
+    <!--	----	INIZIO MAPPA FERMATE NELLE VICINANZE	----	-->
+    <!---------------------------------------------------------------->
+    <div class="qm_blocco marginebott4">
+        <div class="qm_blocco_titolo_input">
+            <font class="qm_titolo blu">fermate nelle vicinanze:</font>
+        </div>
+        
+        <div class="qm_blocco_legenda_mappa">
+            <table>
+                <tbody><tr>
+                    <td><img src="images/quanto_manca/restyling/urbana_legenda.jpg"> Urbano</td>
+                    <td><img src="images/quanto_manca/restyling/extraurbana_legenda.jpg"> Extraurbano</td>
+                    <td><img src="images/quanto_manca/restyling/non_diponibile_legenda.jpg"> Dato non disponibile</td>
+                </tr>
+            </tbody></table>
+        </div>
+        <div id="map_fermate_vicine" style="position: relative; overflow: hidden;"><div style="height: 100%; width: 100%; position: absolute; top: 0px; left: 0px; background-color: rgb(229, 227, 223);"><div class="gm-style" style="position: absolute; z-index: 0; left: 0px; top: 0px; height: 100%; width: 100%; padding: 0px; border-width: 0px; margin: 0px;"><div tabindex="0" style="position: absolute; z-index: 0; left: 0px; top: 0px; height: 100%; width: 100%; padding: 0px; border-width: 0px; margin: 0px; cursor: url(&quot;https://maps.gstatic.com/mapfiles/openhand_8_8.cur&quot;), default; touch-action: pan-x pan-y;"><div style="z-index: 1; position: absolute; left: 50%; top: 50%; width: 100%; transform: translate(0px, 0px);"><div style="position: absolute; left: 0px; top: 0px; z-index: 100; width: 100%;"><div style="position: absolute; left: 0px; top: 0px; z-index: 0;"><div style="position: absolute; z-index: 985; transform: matrix(1, 0, 0, 1, -38, -189);"><div style="position: absolute; left: 0px; top: 0px; width: 256px; height: 256px;"><div style="width: 256px; height: 256px;"></div></div><div style="position: absolute; left: -256px; top: 0px; width: 256px; height: 256px;"><div style="width: 256px; height: 256px;"></div></div><div style="position: absolute; left: -256px; top: -256px; width: 256px; height: 256px;"><div style="width: 256px; height: 256px;"></div></div><div style="position: absolute; left: 0px; top: -256px; width: 256px; height: 256px;"><div style="width: 256px; height: 256px;"></div></div><div style="position: absolute; left: 256px; top: -256px; width: 256px; height: 256px;"><div style="width: 256px; height: 256px;"></div></div><div style="position: absolute; left: 256px; top: 0px; width: 256px; height: 256px;"><div style="width: 256px; height: 256px;"></div></div><div style="position: absolute; left: 256px; top: 256px; width: 256px; height: 256px;"><div style="width: 256px; height: 256px;"></div></div><div style="position: absolute; left: 0px; top: 256px; width: 256px; height: 256px;"><div style="width: 256px; height: 256px;"></div></div><div style="position: absolute; left: -256px; top: 256px; width: 256px; height: 256px;"><div style="width: 256px; height: 256px;"></div></div><div style="position: absolute; left: -512px; top: 256px; width: 256px; height: 256px;"><div style="width: 256px; height: 256px;"></div></div><div style="position: absolute; left: -512px; top: 0px; width: 256px; height: 256px;"><div style="width: 256px; height: 256px;"></div></div><div style="position: absolute; left: -512px; top: -256px; width: 256px; height: 256px;"><div style="width: 256px; height: 256px;"></div></div></div></div></div><div style="position: absolute; left: 0px; top: 0px; z-index: 101; width: 100%;"></div><div style="position: absolute; left: 0px; top: 0px; z-index: 102; width: 100%;"></div><div style="position: absolute; left: 0px; top: 0px; z-index: 103; width: 100%;"><div style="position: absolute; left: 0px; top: 0px; z-index: -1;"><div style="position: absolute; z-index: 985; transform: matrix(1, 0, 0, 1, -38, -189);"><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: 0px; top: 0px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: -256px; top: 0px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: -256px; top: -256px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: 0px; top: -256px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: 256px; top: -256px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: 256px; top: 0px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: 256px; top: 256px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: 0px; top: 256px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: -256px; top: 256px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: -512px; top: 256px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: -512px; top: 0px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: -512px; top: -256px;"></div></div></div><div style="width: 21px; height: 26px; overflow: hidden; position: absolute; left: -11px; top: -26px; z-index: 0;"><img alt="" src="images/quanto_manca/restyling/fermata_grigia.png" draggable="false" style="position: absolute; left: 0px; top: 0px; user-select: none; width: 21px; height: 26px; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="width: 21px; height: 26px; overflow: hidden; position: absolute; left: -30px; top: -152px; z-index: -126;"><img alt="" src="images/quanto_manca/restyling/fermata_grigia.png" draggable="false" style="position: absolute; left: 0px; top: 0px; user-select: none; width: 21px; height: 26px; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="width: 21px; height: 26px; overflow: hidden; position: absolute; left: 6px; top: -170px; z-index: -144;"><img alt="" src="images/quanto_manca/restyling/fermata_grigia.png" draggable="false" style="position: absolute; left: 0px; top: 0px; user-select: none; width: 21px; height: 26px; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="width: 21px; height: 26px; overflow: hidden; position: absolute; left: 50px; top: -94px; z-index: -68;"><img alt="" src="images/quanto_manca/restyling/fermata_rossa.png" draggable="false" style="position: absolute; left: 0px; top: 0px; user-select: none; width: 21px; height: 26px; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="width: 21px; height: 26px; overflow: hidden; position: absolute; left: -34px; top: -106px; z-index: -80;"><img alt="" src="images/quanto_manca/restyling/fermata_grigia.png" draggable="false" style="position: absolute; left: 0px; top: 0px; user-select: none; width: 21px; height: 26px; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="width: 21px; height: 26px; overflow: hidden; position: absolute; left: -37px; top: -140px; z-index: -114;"><img alt="" src="images/quanto_manca/restyling/fermata_grigia.png" draggable="false" style="position: absolute; left: 0px; top: 0px; user-select: none; width: 21px; height: 26px; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div></div><div style="position: absolute; left: 0px; top: 0px; z-index: 0;"><div style="position: absolute; z-index: 985; transform: matrix(1, 0, 0, 1, -38, -189);"><div style="position: absolute; left: 0px; top: 0px; width: 256px; height: 256px; transition: opacity 200ms linear 0s;"><img draggable="false" alt="" role="presentation" src="https://maps.google.com/maps/vt?pb=!1m5!1m4!1i15!2i17375!3i11815!4i256!2m3!1e0!2sm!3i532253946!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2ss.t%3A1058%7Cp.v%3Aoff!4e0!5m1!5f2&amp;key=AIzaSyAcNbjCeswPdnZLLfJaJCSVBT1jkucIbrw&amp;token=55514" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="position: absolute; left: -256px; top: 0px; width: 256px; height: 256px; transition: opacity 200ms linear 0s;"><img draggable="false" alt="" role="presentation" src="https://maps.google.com/maps/vt?pb=!1m5!1m4!1i15!2i17374!3i11815!4i256!2m3!1e0!2sm!3i532253946!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2ss.t%3A1058%7Cp.v%3Aoff!4e0!5m1!5f2&amp;key=AIzaSyAcNbjCeswPdnZLLfJaJCSVBT1jkucIbrw&amp;token=74248" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="position: absolute; left: -256px; top: -256px; width: 256px; height: 256px; transition: opacity 200ms linear 0s;"><img draggable="false" alt="" role="presentation" src="https://maps.google.com/maps/vt?pb=!1m5!1m4!1i15!2i17374!3i11814!4i256!2m3!1e0!2sm!3i532253946!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2ss.t%3A1058%7Cp.v%3Aoff!4e0!5m1!5f2&amp;key=AIzaSyAcNbjCeswPdnZLLfJaJCSVBT1jkucIbrw&amp;token=108848" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="position: absolute; left: 0px; top: -256px; width: 256px; height: 256px; transition: opacity 200ms linear 0s;"><img draggable="false" alt="" role="presentation" src="https://maps.google.com/maps/vt?pb=!1m5!1m4!1i15!2i17375!3i11814!4i256!2m3!1e0!2sm!3i532253946!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2ss.t%3A1058%7Cp.v%3Aoff!4e0!5m1!5f2&amp;key=AIzaSyAcNbjCeswPdnZLLfJaJCSVBT1jkucIbrw&amp;token=90114" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="position: absolute; left: 256px; top: -256px; width: 256px; height: 256px; transition: opacity 200ms linear 0s;"><img draggable="false" alt="" role="presentation" src="https://maps.google.com/maps/vt?pb=!1m5!1m4!1i15!2i17376!3i11814!4i256!2m3!1e0!2sm!3i532253946!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2ss.t%3A1058%7Cp.v%3Aoff!4e0!5m1!5f2&amp;key=AIzaSyAcNbjCeswPdnZLLfJaJCSVBT1jkucIbrw&amp;token=71380" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="position: absolute; left: 256px; top: 0px; width: 256px; height: 256px; transition: opacity 200ms linear 0s;"><img draggable="false" alt="" role="presentation" src="https://maps.google.com/maps/vt?pb=!1m5!1m4!1i15!2i17376!3i11815!4i256!2m3!1e0!2sm!3i532253946!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2ss.t%3A1058%7Cp.v%3Aoff!4e0!5m1!5f2&amp;key=AIzaSyAcNbjCeswPdnZLLfJaJCSVBT1jkucIbrw&amp;token=36780" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="position: absolute; left: 256px; top: 256px; width: 256px; height: 256px; transition: opacity 200ms linear 0s;"><img draggable="false" alt="" role="presentation" src="https://maps.google.com/maps/vt?pb=!1m5!1m4!1i15!2i17376!3i11816!4i256!2m3!1e0!2sm!3i532253814!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2ss.t%3A1058%7Cp.v%3Aoff!4e0!5m1!5f2&amp;key=AIzaSyAcNbjCeswPdnZLLfJaJCSVBT1jkucIbrw&amp;token=53189" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="position: absolute; left: 0px; top: 256px; width: 256px; height: 256px; transition: opacity 200ms linear 0s;"><img draggable="false" alt="" role="presentation" src="https://maps.google.com/maps/vt?pb=!1m5!1m4!1i15!2i17375!3i11816!4i256!2m3!1e0!2sm!3i532253886!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2ss.t%3A1058%7Cp.v%3Aoff!4e0!5m1!5f2&amp;key=AIzaSyAcNbjCeswPdnZLLfJaJCSVBT1jkucIbrw&amp;token=88199" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="position: absolute; left: -256px; top: 256px; width: 256px; height: 256px; transition: opacity 200ms linear 0s;"><img draggable="false" alt="" role="presentation" src="https://maps.google.com/maps/vt?pb=!1m5!1m4!1i15!2i17374!3i11816!4i256!2m3!1e0!2sm!3i532253886!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2ss.t%3A1058%7Cp.v%3Aoff!4e0!5m1!5f2&amp;key=AIzaSyAcNbjCeswPdnZLLfJaJCSVBT1jkucIbrw&amp;token=106933" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="position: absolute; left: -512px; top: 256px; width: 256px; height: 256px; transition: opacity 200ms linear 0s;"><img draggable="false" alt="" role="presentation" src="https://maps.google.com/maps/vt?pb=!1m5!1m4!1i15!2i17373!3i11816!4i256!2m3!1e0!2sm!3i532253886!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2ss.t%3A1058%7Cp.v%3Aoff!4e0!5m1!5f2&amp;key=AIzaSyAcNbjCeswPdnZLLfJaJCSVBT1jkucIbrw&amp;token=125667" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="position: absolute; left: -512px; top: 0px; width: 256px; height: 256px; transition: opacity 200ms linear 0s;"><img draggable="false" alt="" role="presentation" src="https://maps.google.com/maps/vt?pb=!1m5!1m4!1i15!2i17373!3i11815!4i256!2m3!1e0!2sm!3i532253946!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2ss.t%3A1058%7Cp.v%3Aoff!4e0!5m1!5f2&amp;key=AIzaSyAcNbjCeswPdnZLLfJaJCSVBT1jkucIbrw&amp;token=92982" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="position: absolute; left: -512px; top: -256px; width: 256px; height: 256px; transition: opacity 200ms linear 0s;"><img draggable="false" alt="" role="presentation" src="https://maps.google.com/maps/vt?pb=!1m5!1m4!1i15!2i17373!3i11814!4i256!2m3!1e0!2sm!3i532253946!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2ss.t%3A1058%7Cp.v%3Aoff!4e0!5m1!5f2&amp;key=AIzaSyAcNbjCeswPdnZLLfJaJCSVBT1jkucIbrw&amp;token=127582" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div></div></div></div><div class="gm-style-pbc" style="z-index: 2; position: absolute; height: 100%; width: 100%; padding: 0px; border-width: 0px; margin: 0px; left: 0px; top: 0px; opacity: 0;"><p class="gm-style-pbt"></p></div><div style="z-index: 3; position: absolute; height: 100%; width: 100%; padding: 0px; border-width: 0px; margin: 0px; left: 0px; top: 0px; touch-action: pan-x pan-y;"><div style="z-index: 4; position: absolute; left: 50%; top: 50%; width: 100%; transform: translate(0px, 0px);"><div style="position: absolute; left: 0px; top: 0px; z-index: 104; width: 100%;"></div><div style="position: absolute; left: 0px; top: 0px; z-index: 105; width: 100%;"></div><div style="position: absolute; left: 0px; top: 0px; z-index: 106; width: 100%;"><div title="Focherini" style="width: 21px; height: 26px; overflow: hidden; position: absolute; opacity: 0.0001; cursor: pointer; touch-action: none; left: -11px; top: -26px; z-index: 0;"><img alt="" src="images/quanto_manca/restyling/fermata_grigia.png" draggable="false" style="position: absolute; left: 0px; top: 0px; user-select: none; width: 21px; height: 26px; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div title="Cabassi" style="width: 21px; height: 26px; overflow: hidden; position: absolute; opacity: 0.0001; cursor: pointer; touch-action: none; left: -30px; top: -152px; z-index: -126;"><img alt="" src="images/quanto_manca/restyling/fermata_grigia.png" draggable="false" style="position: absolute; left: 0px; top: 0px; user-select: none; width: 21px; height: 26px; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div title="Ariosto" style="width: 21px; height: 26px; overflow: hidden; position: absolute; opacity: 0.0001; cursor: pointer; touch-action: none; left: 6px; top: -170px; z-index: -144;"><img alt="" src="images/quanto_manca/restyling/fermata_grigia.png" draggable="false" style="position: absolute; left: 0px; top: 0px; user-select: none; width: 21px; height: 26px; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div title="Stazione FS" style="width: 21px; height: 26px; overflow: hidden; position: absolute; opacity: 0.0001; cursor: pointer; touch-action: none; left: 50px; top: -94px; z-index: -68;"><img alt="" src="images/quanto_manca/restyling/fermata_rossa.png" draggable="false" style="position: absolute; left: 0px; top: 0px; user-select: none; width: 21px; height: 26px; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div title="Carpi Via Nicolo Biondo" style="width: 21px; height: 26px; overflow: hidden; position: absolute; opacity: 0.0001; cursor: pointer; touch-action: none; left: -34px; top: -106px; z-index: -80;"><img alt="" src="images/quanto_manca/restyling/fermata_grigia.png" draggable="false" style="position: absolute; left: 0px; top: 0px; user-select: none; width: 21px; height: 26px; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div title="Carpi Via Carducci" style="width: 21px; height: 26px; overflow: hidden; position: absolute; opacity: 0.0001; cursor: pointer; touch-action: none; left: -37px; top: -140px; z-index: -114;"><img alt="" src="images/quanto_manca/restyling/fermata_grigia.png" draggable="false" style="position: absolute; left: 0px; top: 0px; user-select: none; width: 21px; height: 26px; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div></div><div style="position: absolute; left: 0px; top: 0px; z-index: 107; width: 100%;"></div></div></div></div><iframe aria-hidden="true" frameborder="0" tabindex="-1" style="z-index: -1; position: absolute; width: 100%; height: 100%; top: 0px; left: 0px; border: none;"></iframe><div><div class="gmnoprint gm-bundled-control" draggable="false" controlwidth="40" controlheight="81" style="margin: 10px; user-select: none; position: absolute; left: 0px; top: 0px;"><div class="gmnoprint" controlwidth="40" controlheight="81" style="position: absolute; left: 0px; top: 0px;"><div draggable="false" style="user-select: none; box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 4px -1px; border-radius: 2px; cursor: pointer; background-color: rgb(255, 255, 255); width: 40px; height: 81px;"><button draggable="false" title="Zoom in" aria-label="Zoom in" type="button" class="gm-control-active" style="background: none; display: block; border: 0px; margin: 0px; padding: 0px; text-transform: none; appearance: none; position: relative; cursor: pointer; user-select: none; overflow: hidden; width: 40px; height: 40px; top: 0px; left: 0px;"><img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2218%22%20height%3D%2218%22%20viewBox%3D%220%200%2018%2018%22%3E%0A%20%20%3Cpolygon%20fill%3D%22%23666%22%20points%3D%2218%2C7%2011%2C7%2011%2C0%207%2C0%207%2C7%200%2C7%200%2C11%207%2C11%207%2C18%2011%2C18%2011%2C11%2018%2C11%22%2F%3E%0A%3C%2Fsvg%3E%0A" style="height: 18px; width: 18px;"><img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2218%22%20height%3D%2218%22%20viewBox%3D%220%200%2018%2018%22%3E%0A%20%20%3Cpolygon%20fill%3D%22%23333%22%20points%3D%2218%2C7%2011%2C7%2011%2C0%207%2C0%207%2C7%200%2C7%200%2C11%207%2C11%207%2C18%2011%2C18%2011%2C11%2018%2C11%22%2F%3E%0A%3C%2Fsvg%3E%0A" style="height: 18px; width: 18px;"><img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2218%22%20height%3D%2218%22%20viewBox%3D%220%200%2018%2018%22%3E%0A%20%20%3Cpolygon%20fill%3D%22%23111%22%20points%3D%2218%2C7%2011%2C7%2011%2C0%207%2C0%207%2C7%200%2C7%200%2C11%207%2C11%207%2C18%2011%2C18%2011%2C11%2018%2C11%22%2F%3E%0A%3C%2Fsvg%3E%0A" style="height: 18px; width: 18px;"></button><div style="position: relative; overflow: hidden; width: 30px; height: 1px; margin: 0px 5px; background-color: rgb(230, 230, 230); top: 0px;"></div><button draggable="false" title="Zoom out" aria-label="Zoom out" type="button" class="gm-control-active" style="background: none; display: block; border: 0px; margin: 0px; padding: 0px; text-transform: none; appearance: none; position: relative; cursor: pointer; user-select: none; overflow: hidden; width: 40px; height: 40px; top: 0px; left: 0px;"><img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2218%22%20height%3D%2218%22%20viewBox%3D%220%200%2018%2018%22%3E%0A%20%20%3Cpath%20fill%3D%22%23666%22%20d%3D%22M0%2C7h18v4H0V7z%22%2F%3E%0A%3C%2Fsvg%3E%0A" style="height: 18px; width: 18px;"><img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2218%22%20height%3D%2218%22%20viewBox%3D%220%200%2018%2018%22%3E%0A%20%20%3Cpath%20fill%3D%22%23333%22%20d%3D%22M0%2C7h18v4H0V7z%22%2F%3E%0A%3C%2Fsvg%3E%0A" style="height: 18px; width: 18px;"><img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2218%22%20height%3D%2218%22%20viewBox%3D%220%200%2018%2018%22%3E%0A%20%20%3Cpath%20fill%3D%22%23111%22%20d%3D%22M0%2C7h18v4H0V7z%22%2F%3E%0A%3C%2Fsvg%3E%0A" style="height: 18px; width: 18px;"></button></div></div></div></div><div></div><div></div><div></div><div><button draggable="false" title="Toggle fullscreen view" aria-label="Toggle fullscreen view" type="button" class="gm-control-active gm-fullscreen-control" style="background: none rgb(255, 255, 255); border: 0px; margin: 10px; padding: 0px; text-transform: none; appearance: none; position: absolute; cursor: pointer; user-select: none; border-radius: 2px; height: 40px; width: 40px; box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 4px -1px; overflow: hidden; top: 0px; right: 0px;"><img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2218%22%20height%3D%2218%22%20viewBox%3D%220%200%2018%2018%22%3E%0A%20%20%3Cpath%20fill%3D%22%23666%22%20d%3D%22M0%2C0v2v4h2V2h4V0H2H0z%20M16%2C0h-4v2h4v4h2V2V0H16z%20M16%2C16h-4v2h4h2v-2v-4h-2V16z%20M2%2C12H0v4v2h2h4v-2H2V12z%22%2F%3E%0A%3C%2Fsvg%3E%0A" style="height: 18px; width: 18px;"><img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2218%22%20height%3D%2218%22%20viewBox%3D%220%200%2018%2018%22%3E%0A%20%20%3Cpath%20fill%3D%22%23333%22%20d%3D%22M0%2C0v2v4h2V2h4V0H2H0z%20M16%2C0h-4v2h4v4h2V2V0H16z%20M16%2C16h-4v2h4h2v-2v-4h-2V16z%20M2%2C12H0v4v2h2h4v-2H2V12z%22%2F%3E%0A%3C%2Fsvg%3E%0A" style="height: 18px; width: 18px;"><img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2218%22%20height%3D%2218%22%20viewBox%3D%220%200%2018%2018%22%3E%0A%20%20%3Cpath%20fill%3D%22%23111%22%20d%3D%22M0%2C0v2v4h2V2h4V0H2H0z%20M16%2C0h-4v2h4v4h2V2V0H16z%20M16%2C16h-4v2h4h2v-2v-4h-2V16z%20M2%2C12H0v4v2h2h4v-2H2V12z%22%2F%3E%0A%3C%2Fsvg%3E%0A" style="height: 18px; width: 18px;"></button></div><div></div><div></div><div></div><div></div><div><div class="gmnoprint gm-bundled-control gm-bundled-control-on-bottom" draggable="false" controlwidth="0" controlheight="0" style="margin: 10px; user-select: none; position: absolute; display: none; bottom: 14px; right: 0px;"><div class="gmnoprint" controlwidth="40" controlheight="40" style="display: none; position: absolute;"><div style="width: 40px; height: 40px;"><button draggable="false" title="Rotate map 90 degrees" aria-label="Rotate map 90 degrees" type="button" class="gm-control-active" style="background: none rgb(255, 255, 255); display: none; border: 0px; margin: 0px 0px 32px; padding: 0px; text-transform: none; appearance: none; position: relative; cursor: pointer; user-select: none; width: 40px; height: 40px; top: 0px; left: 0px; overflow: hidden; box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 4px -1px; border-radius: 2px;"><img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2224%22%20height%3D%2222%22%20viewBox%3D%220%200%2024%2022%22%3E%0A%20%20%3Cpath%20fill%3D%22%23666%22%20fill-rule%3D%22evenodd%22%20d%3D%22M20%2010c0-5.52-4.48-10-10-10s-10%204.48-10%2010v5h5v-5c0-2.76%202.24-5%205-5s5%202.24%205%205v5h-4l6.5%207%206.5-7h-4v-5z%22%20clip-rule%3D%22evenodd%22%2F%3E%0A%3C%2Fsvg%3E%0A" style="height: 18px; width: 18px;"><img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2224%22%20height%3D%2222%22%20viewBox%3D%220%200%2024%2022%22%3E%0A%20%20%3Cpath%20fill%3D%22%23333%22%20fill-rule%3D%22evenodd%22%20d%3D%22M20%2010c0-5.52-4.48-10-10-10s-10%204.48-10%2010v5h5v-5c0-2.76%202.24-5%205-5s5%202.24%205%205v5h-4l6.5%207%206.5-7h-4v-5z%22%20clip-rule%3D%22evenodd%22%2F%3E%0A%3C%2Fsvg%3E%0A" style="height: 18px; width: 18px;"><img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2224%22%20height%3D%2222%22%20viewBox%3D%220%200%2024%2022%22%3E%0A%20%20%3Cpath%20fill%3D%22%23111%22%20fill-rule%3D%22evenodd%22%20d%3D%22M20%2010c0-5.52-4.48-10-10-10s-10%204.48-10%2010v5h5v-5c0-2.76%202.24-5%205-5s5%202.24%205%205v5h-4l6.5%207%206.5-7h-4v-5z%22%20clip-rule%3D%22evenodd%22%2F%3E%0A%3C%2Fsvg%3E%0A" style="height: 18px; width: 18px;"></button><button draggable="false" title="Tilt map" aria-label="Tilt map" type="button" class="gm-tilt gm-control-active" style="background: none rgb(255, 255, 255); display: block; border: 0px; margin: 0px; padding: 0px; text-transform: none; appearance: none; position: relative; cursor: pointer; user-select: none; width: 40px; height: 40px; top: 0px; left: 0px; overflow: hidden; box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 4px -1px; border-radius: 2px;"><img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2218px%22%20height%3D%2216px%22%20viewBox%3D%220%200%2018%2016%22%3E%0A%20%20%3Cpath%20fill%3D%22%23666%22%20d%3D%22M0%2C16h8V9H0V16z%20M10%2C16h8V9h-8V16z%20M0%2C7h8V0H0V7z%20M10%2C0v7h8V0H10z%22%2F%3E%0A%3C%2Fsvg%3E%0A" style="width: 18px;"><img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2218px%22%20height%3D%2216px%22%20viewBox%3D%220%200%2018%2016%22%3E%0A%20%20%3Cpath%20fill%3D%22%23333%22%20d%3D%22M0%2C16h8V9H0V16z%20M10%2C16h8V9h-8V16z%20M0%2C7h8V0H0V7z%20M10%2C0v7h8V0H10z%22%2F%3E%0A%3C%2Fsvg%3E%0A" style="width: 18px;"><img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2218px%22%20height%3D%2216px%22%20viewBox%3D%220%200%2018%2016%22%3E%0A%20%20%3Cpath%20fill%3D%22%23111%22%20d%3D%22M0%2C16h8V9H0V16z%20M10%2C16h8V9h-8V16z%20M0%2C7h8V0H0V7z%20M10%2C0v7h8V0H10z%22%2F%3E%0A%3C%2Fsvg%3E%0A" style="width: 18px;"></button></div></div></div></div><div><div style="margin-left: 5px; margin-right: 5px; z-index: 1000000; position: absolute; left: 0px; bottom: 0px;"><a target="_blank" rel="noopener" href="https://maps.google.com/maps?ll=44.77997,10.889097&amp;z=15&amp;t=m&amp;hl=en-US&amp;gl=US&amp;mapclient=apiv3" title="Open this area in Google Maps (opens a new window)" style="position: static; overflow: visible; float: none; display: inline;"><div style="width: 66px; height: 26px; cursor: pointer;"><img alt="" src="https://maps.gstatic.com/mapfiles/api-3/images/google_white5_hdpi.png" draggable="false" style="position: absolute; left: 0px; top: 0px; width: 66px; height: 26px; user-select: none; border: 0px; padding: 0px; margin: 0px;"></div></a></div></div><div></div><div><div class="gmnoprint" style="z-index: 1000001; position: absolute; right: 273px; bottom: 0px; width: 86px;"><div draggable="false" class="gm-style-cc" style="user-select: none; height: 14px; line-height: 14px;"><div style="opacity: 0.7; width: 100%; height: 100%; position: absolute;"><div style="width: 1px;"></div><div style="background-color: rgb(245, 245, 245); width: auto; height: 100%; margin-left: 1px;"></div></div><div style="position: relative; padding-right: 6px; padding-left: 6px; box-sizing: border-box; font-family: Roboto, Arial, sans-serif; font-size: 10px; color: rgb(68, 68, 68); white-space: nowrap; direction: ltr; text-align: right; vertical-align: middle; display: inline-block;"><a style="text-decoration: none; cursor: pointer; display: none;">Map Data</a><span>Map data ©2020</span></div></div></div><div draggable="false" class="gm-style-cc" style="position: absolute; user-select: none; height: 14px; line-height: 14px; right: 167px; bottom: 0px;"><div style="opacity: 0.7; width: 100%; height: 100%; position: absolute;"><div style="width: 1px;"></div><div style="background-color: rgb(245, 245, 245); width: auto; height: 100%; margin-left: 1px;"></div></div><div style="position: relative; padding-right: 6px; padding-left: 6px; box-sizing: border-box; font-family: Roboto, Arial, sans-serif; font-size: 10px; color: rgb(68, 68, 68); white-space: nowrap; direction: ltr; text-align: right; vertical-align: middle; display: inline-block;"><span>200 m&nbsp;</span><div style="position: relative; display: inline-block; height: 8px; bottom: -1px; width: 63px;"><div style="width: 100%; height: 4px; position: absolute; left: 0px; top: 0px;"></div><div style="width: 4px; height: 8px; left: 0px; top: 0px; background-color: rgb(255, 255, 255);"></div><div style="width: 4px; height: 8px; position: absolute; background-color: rgb(255, 255, 255); right: 0px; bottom: 0px;"></div><div style="position: absolute; background-color: rgb(102, 102, 102); height: 2px; left: 1px; bottom: 1px; right: 1px;"></div><div style="position: absolute; width: 2px; height: 6px; left: 1px; top: 1px; background-color: rgb(102, 102, 102);"></div><div style="width: 2px; height: 6px; position: absolute; background-color: rgb(102, 102, 102); bottom: 1px; right: 1px;"></div></div></div></div><div class="gmnoprint gm-style-cc" draggable="false" style="z-index: 1000001; user-select: none; height: 14px; line-height: 14px; position: absolute; right: 96px; bottom: 0px;"><div style="opacity: 0.7; width: 100%; height: 100%; position: absolute;"><div style="width: 1px;"></div><div style="background-color: rgb(245, 245, 245); width: auto; height: 100%; margin-left: 1px;"></div></div><div style="position: relative; padding-right: 6px; padding-left: 6px; box-sizing: border-box; font-family: Roboto, Arial, sans-serif; font-size: 10px; color: rgb(68, 68, 68); white-space: nowrap; direction: ltr; text-align: right; vertical-align: middle; display: inline-block;"><a href="https://www.google.com/intl/en-US_US/help/terms_maps.html" target="_blank" rel="noopener" style="text-decoration: none; cursor: pointer; color: rgb(68, 68, 68);">Terms of Use</a></div></div><div draggable="false" class="gm-style-cc" style="user-select: none; height: 14px; line-height: 14px; position: absolute; right: 0px; bottom: 0px;"><div style="opacity: 0.7; width: 100%; height: 100%; position: absolute;"><div style="width: 1px;"></div><div style="background-color: rgb(245, 245, 245); width: auto; height: 100%; margin-left: 1px;"></div></div><div style="position: relative; padding-right: 6px; padding-left: 6px; box-sizing: border-box; font-family: Roboto, Arial, sans-serif; font-size: 10px; color: rgb(68, 68, 68); white-space: nowrap; direction: ltr; text-align: right; vertical-align: middle; display: inline-block;"><a target="_blank" rel="noopener" title="Report errors in the road map or imagery to Google" dir="ltr" href="https://www.google.com/maps/@44.7799696,10.8890967,15z/data=!10m1!1e1!12b1?source=apiv3&amp;rapsrc=apiv3" style="font-family: Roboto, Arial, sans-serif; font-size: 10px; color: rgb(68, 68, 68); text-decoration: none; position: relative;">Report a map error</a></div></div><div class="gmnoscreen" style="position: absolute; right: 0px; bottom: 0px;"><div style="font-family: Roboto, Arial, sans-serif; font-size: 11px; color: rgb(68, 68, 68); direction: ltr; text-align: right; background-color: rgb(245, 245, 245);">Map data ©2020</div></div></div><div style="background-color: white; padding: 15px 21px; border: 1px solid rgb(171, 171, 171); font-family: Roboto, Arial, sans-serif; color: rgb(34, 34, 34); box-sizing: border-box; box-shadow: rgba(0, 0, 0, 0.2) 0px 4px 16px; z-index: 10000002; display: none; width: 300px; height: 180px; position: absolute; left: 209px; top: 160px;"><div style="padding: 0px 0px 10px; font-size: 16px; box-sizing: border-box;">Map Data</div><div style="font-size: 13px;">Map data ©2020</div><button draggable="false" title="Close" aria-label="Close" type="button" class="gm-ui-hover-effect" style="background: none; display: block; border: 0px; margin: 0px; padding: 0px; text-transform: none; appearance: none; position: absolute; cursor: pointer; user-select: none; top: 0px; right: 0px; width: 37px; height: 37px;"><img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2224px%22%20height%3D%2224px%22%20viewBox%3D%220%200%2024%2024%22%20fill%3D%22%23000000%22%3E%0A%20%20%20%20%3Cpath%20d%3D%22M19%206.41L17.59%205%2012%2010.59%206.41%205%205%206.41%2010.59%2012%205%2017.59%206.41%2019%2012%2013.41%2017.59%2019%2019%2017.59%2013.41%2012z%22%2F%3E%0A%20%20%20%20%3Cpath%20d%3D%22M0%200h24v24H0z%22%20fill%3D%22none%22%2F%3E%0A%3C%2Fsvg%3E%0A" style="pointer-events: none; display: block; width: 13px; height: 13px; margin: 12px;"></button></div></div></div></div>
+        <!---------------------------------------------------------------->
+        <!--	----	INIZIO ELENCO FERMATE NELLE VICINANZE	----	-->
+        <!---------------------------------------------------------------->
+        <table id="tabella_fermate_vicine" class="qm_table_risultati">
+            <tbody>
+                
+                                <tr>
+                                    <td>
+                                        <img src="images/quanto_manca/restyling/fermata_grigia.png"> &nbsp;
+                                        <a onclick="$('#nome_fermata_form_cambia_fermata').val('FOCHERINI'); $('#palina_form_cambia_fermata').val('MO3458'); $('#form_cambia_fermata').submit();" style="cursor: pointer;">
+                                            FOCHERINI
+                                        </a>
+                                    </td>
+                                    <td class="cell_apri_mappa" data-idpalina="MO3458" data-nomepalina="FOCHERINI">
+                                        <img class="apri_mappa" src="images/quanto_manca/restyling/freccia_elenco_grigia.png" onclick="$('#nome_fermata_form_cambia_fermata').val('FOCHERINI'); $('#palina_form_cambia_fermata').val('MO3458'); $('#form_cambia_fermata').submit();">
+                                    </td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>
+                                        <img src="images/quanto_manca/restyling/fermata_grigia.png"> &nbsp;
+                                        <a onclick="$('#nome_fermata_form_cambia_fermata').val('CABASSI'); $('#palina_form_cambia_fermata').val('MO8321'); $('#form_cambia_fermata').submit();" style="cursor: pointer;">
+                                            CABASSI
+                                        </a>
+                                    </td>
+                                    <td class="cell_apri_mappa" data-idpalina="MO8321" data-nomepalina="CABASSI">
+                                        <img class="apri_mappa" src="images/quanto_manca/restyling/freccia_elenco_grigia.png" onclick="$('#nome_fermata_form_cambia_fermata').val('CABASSI'); $('#palina_form_cambia_fermata').val('MO8321'); $('#form_cambia_fermata').submit();">
+                                    </td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>
+                                        <img src="images/quanto_manca/restyling/fermata_grigia.png"> &nbsp;
+                                        <a onclick="$('#nome_fermata_form_cambia_fermata').val('ARIOSTO'); $('#palina_form_cambia_fermata').val('MO8328'); $('#form_cambia_fermata').submit();" style="cursor: pointer;">
+                                            ARIOSTO
+                                        </a>
+                                    </td>
+                                    <td class="cell_apri_mappa" data-idpalina="MO8328" data-nomepalina="ARIOSTO">
+                                        <img class="apri_mappa" src="images/quanto_manca/restyling/freccia_elenco_grigia.png" onclick="$('#nome_fermata_form_cambia_fermata').val('ARIOSTO'); $('#palina_form_cambia_fermata').val('MO8328'); $('#form_cambia_fermata').submit();">
+                                    </td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>
+                                        <img src="images/quanto_manca/restyling/fermata_grigia.png"> &nbsp;
+                                        <a onclick="$('#nome_fermata_form_cambia_fermata').val('CARPI VIA NICOLO BIONDO'); $('#palina_form_cambia_fermata').val('MOC50'); $('#form_cambia_fermata').submit();" style="cursor: pointer;">
+                                            CARPI VIA NICOLO BIONDO
+                                        </a>
+                                    </td>
+                                    <td class="cell_apri_mappa" data-idpalina="MOC50" data-nomepalina="CARPI VIA NICOLO BIONDO">
+                                        <img class="apri_mappa" src="images/quanto_manca/restyling/freccia_elenco_grigia.png" onclick="$('#nome_fermata_form_cambia_fermata').val('CARPI VIA NICOLO BIONDO'); $('#palina_form_cambia_fermata').val('MOC50'); $('#form_cambia_fermata').submit();">
+                                    </td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>
+                                        <img src="images/quanto_manca/restyling/fermata_grigia.png"> &nbsp;
+                                        <a onclick="$('#nome_fermata_form_cambia_fermata').val('CARPI VIA CARDUCCI'); $('#palina_form_cambia_fermata').val('MOC51'); $('#form_cambia_fermata').submit();" style="cursor: pointer;">
+                                            CARPI VIA CARDUCCI
+                                        </a>
+                                    </td>
+                                    <td class="cell_apri_mappa" data-idpalina="MOC51" data-nomepalina="CARPI VIA CARDUCCI">
+                                        <img class="apri_mappa" src="images/quanto_manca/restyling/freccia_elenco_grigia.png" onclick="$('#nome_fermata_form_cambia_fermata').val('CARPI VIA CARDUCCI'); $('#palina_form_cambia_fermata').val('MOC51'); $('#form_cambia_fermata').submit();">
+                                    </td>
+                                </tr>
+                                    </tbody>
+        </table>
+        <!-- ----	INIZIO FORM CHE VIENE USATO QUANDO SI CLICCA SU UNA FERMATA TRA QUELLE NELLA TABELLA DELLE FERMATE NELLE VICINANZE	----	-->
+        <form id="form_cambia_fermata" name="form_cambia_fermata" action="/mo/quantomanca" method="POST">
+            <input type="hidden" name="risultato" value="palina">
+            <input type="hidden" id="palina_form_cambia_fermata" name="qm_palina">
+            <input type="hidden" id="nome_fermata_form_cambia_fermata" name="nome_fermata">
+        </form>
+        <!-- ----	FINE FORM CHE VIENE USATO QUANDO SI CLICCA SU UNA FERMATA TRA QUELLE NELLA TABELLA DELLE FERMATE NELLE VICINANZE	----	-->
+        <!---------------------------------------------------------------->
+        <!--	----	FINE ELENCO FERMATE NELLE VICINANZE		----	-->
+        <!---------------------------------------------------------------->
+    </div>
+    <!---------------------------------------------------------------->
+    <!--	----	FINE MAPPA FERMATE NELLE VICINANZE		----	-->
+    <!---------------------------------------------------------------->
+    
+    <script type="text/javascript">
+        var MarkerCheRimbalza;
+        var utm = "+proj=utm +ellps=intl +zone=32 +towgs84=-87,-98,-121,0,0,0,0";
+        var wgs84 = "+proj=longlat +ellps=WGS84 +datum=ED50 +no_defs";
+        var strOrariStd = "<table width='100%' cellpadding=0 cellspacing=0>"
+            +"<thead>"
+                +"<th class='txt_marker'>LINEA</th>"
+                +"<th class='txt_marker'>DIREZIONE</th>"
+                +"<th class='txt_marker'>MINUTI<br />ALL'ARRIVO</th>"
+                +"<th class='txt_marker'>DOVE SI<br />TROVA IL BUS</th>"
+            +"</thead>"
+            +"<tbody id='tbody_orari'>"
+            +"</tbody>"
+        +"</table>";
+        
+        //imposto il fumetto vuoto con loading
+        var myOptions = {
+            content: "<div class='marker_info ' id='marker_info'><br><br><center><img src='images/loading.gif' /></center></div>",
+            disableAutoPan: true,
+            //maxWidth: 0,
+            
+            pixelOffset: new google.maps.Size(-150, 0),
+            closeBoxMargin: '-10px 0 0 0',
+            //closeBoxURL: "https://www.google.com/intl/en_us/mapfiles/close.gif",
+            closeBoxURL: "images/quanto_manca/restyling/close_detail.png",
+            isHidden: false,
+            pane: 'floatPane',
+            enableEventPropagation: true
+        };
+        
+        function vai_a_tutti_gli_orari(palina) {
+            $("#vedi_tutti_gli_orari").submit();
+        }
+        
+        
+        $(document).ready(function(){
+            /************************************************************************************/
+            /*			INIZIO DELLA MAPPA CHE MOSTRA TUTTE LE PALINE NELLE VICINANZE			*/
+            /************************************************************************************/
+            var coord_wgs84_2 = (proj4(utm,wgs84,[649543.000, 4960442]));
+            //Disegno la mappa del centro città del bacino selezionato per la ricerca delle fermate
+            map_fermate_vicine = new GMaps({	//setto la mappa
+                el: '#map_fermate_vicine',		//id mappa
+                lat: coord_wgs84_2[1],				//latitudine del centro della mappa
+                lng: coord_wgs84_2[0],				//longitudine del centro della mappa
+                zoom: 15,							//livello di zoom
+                zoomControl : true,					//controlli dello zoom
+                panControl : false,					//controlli generali
+                streetViewControl : false,			//possibilità street view
+                mapTypeControl: false,				//abilita la scelta sulla visualizzazione della mappa standard o quella satellite
+                overviewMapControl: false
+            });
+            map_fermate_vicine.setOptions(mapOptions);
+            
+            /*	****	INIZIO AGGIUNTA PIN FERMATE VICINE NELLA MAPPA	****	*/
+                            var coord_wgs84_tmp = (proj4(utm,wgs84,[649543.000, 4960442]));
+                    var ib;
+                    //console.log("MO3458 - Focherini");
+                    
+                    map_fermate_vicine.addMarker({													//aggiungo il pin sulla mappa settando tutte le sue funzioni
+                        lat: coord_wgs84_tmp[1],
+                        lng:  coord_wgs84_tmp[0],
+                        title: 'Focherini',								//il nome della struttura come alt del pin
+                        icon: "images/quanto_manca/restyling/fermata_grigia.png",
+                        click: function(e){
+                            //console.log('MO3458 - Focherini');
+                            
+                            $.ajax({
+                                type: 'POST',
+                                url: 'funzioni/funzioni.php',
+                                data:{
+                                    'funzione': 'get_prossime_corse',
+                                    'palina':	'MO3458',
+                                    'bacino':	'mo',
+                                    'cerca_palina_opposta':	'si'
+                                }
+                                //,async:	false
+                            })
+                            .success(function(corse){
+                                $('#marker_info').empty().html("<h3 class='colore_blu text_sx'>Focherini</h3>");
+                                stampaBaloon(corse, "MO3458", "Focherini", 'marker_info');
+                            });
+                            
+                            $('div.infoBox').remove();				//rimuovo gli altri fumetti
+                            ib = new InfoBox(myOptions);
+                            if(MarkerCheRimbalza){												//controllo se un pin sta rimbalzando: se sì
+                                MarkerCheRimbalza.setAnimation(null);							//fermo il marker che rimbalza
+                            };
+                            map_fermate_vicine.setCenter(e.position.lat(), e.position.lng());	//centro la mappa sopra il marker cliccato
+                            //map_fermate_vicine.setCenter(e.position.lat(), (e.position.lng() + 0.006));	//centro la mappa sopra il marker cliccato
+                            this.setAnimation(google.maps.Animation.BOUNCE);					//lo faccio rimbalzare
+                            MarkerCheRimbalza = this;											//salvo l'oggetto del pin che rimbalza affinchè dopo posso farlo fermare
+                            ib.open(map_fermate_vicine.map, this);	//apro il fumetto
+                        }
+                    });
+                                    var coord_wgs84_tmp = (proj4(utm,wgs84,[649468.000, 4960869]));
+                    var ib;
+                    //console.log("MO8321 - Cabassi");
+                    
+                    map_fermate_vicine.addMarker({													//aggiungo il pin sulla mappa settando tutte le sue funzioni
+                        lat: coord_wgs84_tmp[1],
+                        lng:  coord_wgs84_tmp[0],
+                        title: 'Cabassi',								//il nome della struttura come alt del pin
+                        icon: "images/quanto_manca/restyling/fermata_grigia.png",
+                        click: function(e){
+                            //console.log('MO8321 - Cabassi');
+                            
+                            $.ajax({
+                                type: 'POST',
+                                url: 'funzioni/funzioni.php',
+                                data:{
+                                    'funzione': 'get_prossime_corse',
+                                    'palina':	'MO8321',
+                                    'bacino':	'mo',
+                                    'cerca_palina_opposta':	'si'
+                                }
+                                //,async:	false
+                            })
+                            .success(function(corse){
+                                $('#marker_info').empty().html("<h3 class='colore_blu text_sx'>Cabassi</h3>");
+                                stampaBaloon(corse, "MO8321", "Cabassi", 'marker_info');
+                            });
+                            
+                            $('div.infoBox').remove();				//rimuovo gli altri fumetti
+                            ib = new InfoBox(myOptions);
+                            if(MarkerCheRimbalza){												//controllo se un pin sta rimbalzando: se sì
+                                MarkerCheRimbalza.setAnimation(null);							//fermo il marker che rimbalza
+                            };
+                            map_fermate_vicine.setCenter(e.position.lat(), e.position.lng());	//centro la mappa sopra il marker cliccato
+                            //map_fermate_vicine.setCenter(e.position.lat(), (e.position.lng() + 0.006));	//centro la mappa sopra il marker cliccato
+                            this.setAnimation(google.maps.Animation.BOUNCE);					//lo faccio rimbalzare
+                            MarkerCheRimbalza = this;											//salvo l'oggetto del pin che rimbalza affinchè dopo posso farlo fermare
+                            ib.open(map_fermate_vicine.map, this);	//apro il fumetto
+                        }
+                    });
+                                    var coord_wgs84_tmp = (proj4(utm,wgs84,[649588.000, 4960930]));
+                    var ib;
+                    //console.log("MO8328 - Ariosto");
+                    
+                    map_fermate_vicine.addMarker({													//aggiungo il pin sulla mappa settando tutte le sue funzioni
+                        lat: coord_wgs84_tmp[1],
+                        lng:  coord_wgs84_tmp[0],
+                        title: 'Ariosto',								//il nome della struttura come alt del pin
+                        icon: "images/quanto_manca/restyling/fermata_grigia.png",
+                        click: function(e){
+                            //console.log('MO8328 - Ariosto');
+                            
+                            $.ajax({
+                                type: 'POST',
+                                url: 'funzioni/funzioni.php',
+                                data:{
+                                    'funzione': 'get_prossime_corse',
+                                    'palina':	'MO8328',
+                                    'bacino':	'mo',
+                                    'cerca_palina_opposta':	'si'
+                                }
+                                //,async:	false
+                            })
+                            .success(function(corse){
+                                $('#marker_info').empty().html("<h3 class='colore_blu text_sx'>Ariosto</h3>");
+                                stampaBaloon(corse, "MO8328", "Ariosto", 'marker_info');
+                            });
+                            
+                            $('div.infoBox').remove();				//rimuovo gli altri fumetti
+                            ib = new InfoBox(myOptions);
+                            if(MarkerCheRimbalza){												//controllo se un pin sta rimbalzando: se sì
+                                MarkerCheRimbalza.setAnimation(null);							//fermo il marker che rimbalza
+                            };
+                            map_fermate_vicine.setCenter(e.position.lat(), e.position.lng());	//centro la mappa sopra il marker cliccato
+                            //map_fermate_vicine.setCenter(e.position.lat(), (e.position.lng() + 0.006));	//centro la mappa sopra il marker cliccato
+                            this.setAnimation(google.maps.Animation.BOUNCE);					//lo faccio rimbalzare
+                            MarkerCheRimbalza = this;											//salvo l'oggetto del pin che rimbalza affinchè dopo posso farlo fermare
+                            ib.open(map_fermate_vicine.map, this);	//apro il fumetto
+                        }
+                    });
+                                    var coord_wgs84_tmp = (proj4(utm,wgs84,[649745.000, 4960677]));
+                    var ib;
+                    //console.log("MO8537 - Stazione FS");
+                    
+                    map_fermate_vicine.addMarker({													//aggiungo il pin sulla mappa settando tutte le sue funzioni
+                        lat: coord_wgs84_tmp[1],
+                        lng:  coord_wgs84_tmp[0],
+                        title: 'Stazione FS',								//il nome della struttura come alt del pin
+                        icon: "images/quanto_manca/restyling/fermata_rossa.png",
+                        click: function(e){
+                            //console.log('MO8537 - Stazione FS');
+                            
+                            $.ajax({
+                                type: 'POST',
+                                url: 'funzioni/funzioni.php',
+                                data:{
+                                    'funzione': 'get_prossime_corse',
+                                    'palina':	'MO8537',
+                                    'bacino':	'mo',
+                                    'cerca_palina_opposta':	'si'
+                                }
+                                //,async:	false
+                            })
+                            .success(function(corse){
+                                $('#marker_info').empty().html("<h3 class='colore_blu text_sx'>Stazione FS</h3>");
+                                stampaBaloon(corse, "MO8537", "Stazione FS", 'marker_info');
+                            });
+                            
+                            $('div.infoBox').remove();				//rimuovo gli altri fumetti
+                            ib = new InfoBox(myOptions);
+                            if(MarkerCheRimbalza){												//controllo se un pin sta rimbalzando: se sì
+                                MarkerCheRimbalza.setAnimation(null);							//fermo il marker che rimbalza
+                            };
+                            map_fermate_vicine.setCenter(e.position.lat(), e.position.lng());	//centro la mappa sopra il marker cliccato
+                            //map_fermate_vicine.setCenter(e.position.lat(), (e.position.lng() + 0.006));	//centro la mappa sopra il marker cliccato
+                            this.setAnimation(google.maps.Animation.BOUNCE);					//lo faccio rimbalzare
+                            MarkerCheRimbalza = this;											//salvo l'oggetto del pin che rimbalza affinchè dopo posso farlo fermare
+                            ib.open(map_fermate_vicine.map, this);	//apro il fumetto
+                        }
+                    });
+                                    var coord_wgs84_tmp = (proj4(utm,wgs84,[649456.000, 4960710]));
+                    var ib;
+                    //console.log("MOC50 - Carpi Via Nicolo Biondo");
+                    
+                    map_fermate_vicine.addMarker({													//aggiungo il pin sulla mappa settando tutte le sue funzioni
+                        lat: coord_wgs84_tmp[1],
+                        lng:  coord_wgs84_tmp[0],
+                        title: 'Carpi Via Nicolo Biondo',								//il nome della struttura come alt del pin
+                        icon: "images/quanto_manca/restyling/fermata_grigia.png",
+                        click: function(e){
+                            //console.log('MOC50 - Carpi Via Nicolo Biondo');
+                            
+                            $.ajax({
+                                type: 'POST',
+                                url: 'funzioni/funzioni.php',
+                                data:{
+                                    'funzione': 'get_prossime_corse',
+                                    'palina':	'MOC50',
+                                    'bacino':	'mo',
+                                    'cerca_palina_opposta':	'si'
+                                }
+                                //,async:	false
+                            })
+                            .success(function(corse){
+                                $('#marker_info').empty().html("<h3 class='colore_blu text_sx'>Carpi Via Nicolo Biondo</h3>");
+                                stampaBaloon(corse, "MOC50", "Carpi Via Nicolo Biondo", 'marker_info');
+                            });
+                            
+                            $('div.infoBox').remove();				//rimuovo gli altri fumetti
+                            ib = new InfoBox(myOptions);
+                            if(MarkerCheRimbalza){												//controllo se un pin sta rimbalzando: se sì
+                                MarkerCheRimbalza.setAnimation(null);							//fermo il marker che rimbalza
+                            };
+                            map_fermate_vicine.setCenter(e.position.lat(), e.position.lng());	//centro la mappa sopra il marker cliccato
+                            //map_fermate_vicine.setCenter(e.position.lat(), (e.position.lng() + 0.006));	//centro la mappa sopra il marker cliccato
+                            this.setAnimation(google.maps.Animation.BOUNCE);					//lo faccio rimbalzare
+                            MarkerCheRimbalza = this;											//salvo l'oggetto del pin che rimbalza affinchè dopo posso farlo fermare
+                            ib.open(map_fermate_vicine.map, this);	//apro il fumetto
+                        }
+                    });
+                                    var coord_wgs84_tmp = (proj4(utm,wgs84,[649443.000, 4960827]));
+                    var ib;
+                    //console.log("MOC51 - Carpi Via Carducci");
+                    
+                    map_fermate_vicine.addMarker({													//aggiungo il pin sulla mappa settando tutte le sue funzioni
+                        lat: coord_wgs84_tmp[1],
+                        lng:  coord_wgs84_tmp[0],
+                        title: 'Carpi Via Carducci',								//il nome della struttura come alt del pin
+                        icon: "images/quanto_manca/restyling/fermata_grigia.png",
+                        click: function(e){
+                            //console.log('MOC51 - Carpi Via Carducci');
+                            
+                            $.ajax({
+                                type: 'POST',
+                                url: 'funzioni/funzioni.php',
+                                data:{
+                                    'funzione': 'get_prossime_corse',
+                                    'palina':	'MOC51',
+                                    'bacino':	'mo',
+                                    'cerca_palina_opposta':	'si'
+                                }
+                                //,async:	false
+                            })
+                            .success(function(corse){
+                                $('#marker_info').empty().html("<h3 class='colore_blu text_sx'>Carpi Via Carducci</h3>");
+                                stampaBaloon(corse, "MOC51", "Carpi Via Carducci", 'marker_info');
+                            });
+                            
+                            $('div.infoBox').remove();				//rimuovo gli altri fumetti
+                            ib = new InfoBox(myOptions);
+                            if(MarkerCheRimbalza){												//controllo se un pin sta rimbalzando: se sì
+                                MarkerCheRimbalza.setAnimation(null);							//fermo il marker che rimbalza
+                            };
+                            map_fermate_vicine.setCenter(e.position.lat(), e.position.lng());	//centro la mappa sopra il marker cliccato
+                            //map_fermate_vicine.setCenter(e.position.lat(), (e.position.lng() + 0.006));	//centro la mappa sopra il marker cliccato
+                            this.setAnimation(google.maps.Animation.BOUNCE);					//lo faccio rimbalzare
+                            MarkerCheRimbalza = this;											//salvo l'oggetto del pin che rimbalza affinchè dopo posso farlo fermare
+                            ib.open(map_fermate_vicine.map, this);	//apro il fumetto
+                        }
+                    });
+                            /*	****	FINE AGGIUNTA PIN FERMATE VICINE NELLA MAPPA	****	*/
+            /************************************************************************************/
+            /*			FINE DELLA MAPPA CHE MOSTRA TUTTE LE PALINE NELLE VICINANZE				*/
+            /************************************************************************************/
+            
+            
+            /************************************************************************************/
+            /*		INIZIO FUNZIONI PER APRIRE LA MAPPA DI UNA FERMATA VICINA TIPO ACCORDION	*/
+            /************************************************************************************/
+            /*$(".cell_apri_mappa").on("click",function(){	//quando clicco sulla cella non apro più la mappa, ma vado al dettaglio della fermata
+                $(".riga_mappa").hide();						//nascondo tutte le righe delle mappe (serve per nascondere eventuali mappe già aperte)
+                
+                var valPalina = $(this).attr("data-idPalina");	//assegno i valori della palina
+                var nomePalina = $(this).attr("data-nomePalina");
+                var boxMappa = $("#riga_fermata_"+valPalina);
+                
+                //boxMappa.show("slow");
+                boxMappa.show();
+                
+                $.ajax({
+                    type: 'POST',
+                    url: 'funzioni/funzioni.php',
+                    data: {
+                        'funzione': 'UTM_ED50_to_WGS84',
+                        'palina': valPalina
+                    },
+                    datatype: 'json',
+                    async: false
+                })
+                .success(function(res){
+                    var obj = JSON.parse(res);
+                    
+                    var coord_wgs84 = (proj4(utm,wgs84,[obj.lon, obj.lat]));
+                    lon = coord_wgs84[0];
+                    lat = coord_wgs84[1];
+                    
+                    map = new GMaps({							//setto la mappa
+                        el: '#map_'+valPalina,						//id mappa
+                        lat: lat,									//latitudine del centro della mappa
+                        lng: lon,									//longitudine del centro della mappa
+                        zoom: 17,									//livello di zoom
+                        zoomControl : true,							//controlli dello zoom
+                        panControl : false,							//controlli generali
+                        streetViewControl : false,					//possibilità street view
+                        mapTypeControl: false,						//abilita la scelta sulla visualizzazione della mappa standard o quella satellite
+                        overviewMapControl: false
+                    });
+                    map.setOptions(mapOptions);
+                    
+                                            var coord_wgs84_tmp = (proj4(utm,wgs84,[649543.000, 4960442]));
+                            if(nomePalina == "Focherini"){
+                                var ico_pin = "images/quanto_manca/pin_fermata_verde.png";
+                            }else{
+                                var ico_pin = "images/quanto_manca/pin_fermata.png";
+                            }
+                            
+                            map.addMarker({												//aggiungo il pin sulla mappa settando tutte le sue funzioni
+                                lat: coord_wgs84_tmp[1],
+                                lng:  coord_wgs84_tmp[0],
+                                title: '',														//il nome della struttura come alt del pin
+                                icon: ico_pin,
+                                click: function(e){
+                                    $.ajax({
+                                        type: 'POST',
+                                        url: 'funzioni/funzioni.php',
+                                        data:{
+                                            'funzione': 'get_prossime_corse',
+                                            'palina':	'MO3458',
+                                            'bacino':	'mo',
+                                            'cerca_palina_opposta':	'si'
+                                        }
+                                    })
+                                    .success(function(corse){
+                                        $('#marker_info').empty().html("<h3 class='colore_blu text_sx'>Focherini</h3>");
+                                        stampaBaloon(corse, "MO3458", "Focherini", 'marker_info');
+                                    });
+                                    
+                                    $('div.infoBox').remove();		//rimuovo gli altri fumetti
+                                    ib = new InfoBox(myOptions);
+                                    if(MarkerCheRimbalza){												//controllo se un pin sta rimbalzando: se sì
+                                        MarkerCheRimbalza.setAnimation(null);							//fermo il marker che rimbalza
+                                    };
+                                    map.setCenter(e.position.lat(), e.position.lng());	//centro la mappa sopra il marker cliccato
+                                    this.setAnimation(google.maps.Animation.BOUNCE);					//lo faccio rimbalzare
+                                    MarkerCheRimbalza = this;											//salvo l'oggetto del pin che rimbalza affinchè dopo posso farlo fermare
+                                    ib.open(map.map, this);			//apro il fumetto
+                                }
+                            });
+                                                    var coord_wgs84_tmp = (proj4(utm,wgs84,[649468.000, 4960869]));
+                            if(nomePalina == "Cabassi"){
+                                var ico_pin = "images/quanto_manca/pin_fermata_verde.png";
+                            }else{
+                                var ico_pin = "images/quanto_manca/pin_fermata.png";
+                            }
+                            
+                            map.addMarker({												//aggiungo il pin sulla mappa settando tutte le sue funzioni
+                                lat: coord_wgs84_tmp[1],
+                                lng:  coord_wgs84_tmp[0],
+                                title: '',														//il nome della struttura come alt del pin
+                                icon: ico_pin,
+                                click: function(e){
+                                    $.ajax({
+                                        type: 'POST',
+                                        url: 'funzioni/funzioni.php',
+                                        data:{
+                                            'funzione': 'get_prossime_corse',
+                                            'palina':	'MO8321',
+                                            'bacino':	'mo',
+                                            'cerca_palina_opposta':	'si'
+                                        }
+                                    })
+                                    .success(function(corse){
+                                        $('#marker_info').empty().html("<h3 class='colore_blu text_sx'>Cabassi</h3>");
+                                        stampaBaloon(corse, "MO8321", "Cabassi", 'marker_info');
+                                    });
+                                    
+                                    $('div.infoBox').remove();		//rimuovo gli altri fumetti
+                                    ib = new InfoBox(myOptions);
+                                    if(MarkerCheRimbalza){												//controllo se un pin sta rimbalzando: se sì
+                                        MarkerCheRimbalza.setAnimation(null);							//fermo il marker che rimbalza
+                                    };
+                                    map.setCenter(e.position.lat(), e.position.lng());	//centro la mappa sopra il marker cliccato
+                                    this.setAnimation(google.maps.Animation.BOUNCE);					//lo faccio rimbalzare
+                                    MarkerCheRimbalza = this;											//salvo l'oggetto del pin che rimbalza affinchè dopo posso farlo fermare
+                                    ib.open(map.map, this);			//apro il fumetto
+                                }
+                            });
+                                                    var coord_wgs84_tmp = (proj4(utm,wgs84,[649588.000, 4960930]));
+                            if(nomePalina == "Ariosto"){
+                                var ico_pin = "images/quanto_manca/pin_fermata_verde.png";
+                            }else{
+                                var ico_pin = "images/quanto_manca/pin_fermata.png";
+                            }
+                            
+                            map.addMarker({												//aggiungo il pin sulla mappa settando tutte le sue funzioni
+                                lat: coord_wgs84_tmp[1],
+                                lng:  coord_wgs84_tmp[0],
+                                title: '',														//il nome della struttura come alt del pin
+                                icon: ico_pin,
+                                click: function(e){
+                                    $.ajax({
+                                        type: 'POST',
+                                        url: 'funzioni/funzioni.php',
+                                        data:{
+                                            'funzione': 'get_prossime_corse',
+                                            'palina':	'MO8328',
+                                            'bacino':	'mo',
+                                            'cerca_palina_opposta':	'si'
+                                        }
+                                    })
+                                    .success(function(corse){
+                                        $('#marker_info').empty().html("<h3 class='colore_blu text_sx'>Ariosto</h3>");
+                                        stampaBaloon(corse, "MO8328", "Ariosto", 'marker_info');
+                                    });
+                                    
+                                    $('div.infoBox').remove();		//rimuovo gli altri fumetti
+                                    ib = new InfoBox(myOptions);
+                                    if(MarkerCheRimbalza){												//controllo se un pin sta rimbalzando: se sì
+                                        MarkerCheRimbalza.setAnimation(null);							//fermo il marker che rimbalza
+                                    };
+                                    map.setCenter(e.position.lat(), e.position.lng());	//centro la mappa sopra il marker cliccato
+                                    this.setAnimation(google.maps.Animation.BOUNCE);					//lo faccio rimbalzare
+                                    MarkerCheRimbalza = this;											//salvo l'oggetto del pin che rimbalza affinchè dopo posso farlo fermare
+                                    ib.open(map.map, this);			//apro il fumetto
+                                }
+                            });
+                                                    var coord_wgs84_tmp = (proj4(utm,wgs84,[649745.000, 4960677]));
+                            if(nomePalina == "Stazione FS"){
+                                var ico_pin = "images/quanto_manca/pin_fermata_verde.png";
+                            }else{
+                                var ico_pin = "images/quanto_manca/pin_fermata.png";
+                            }
+                            
+                            map.addMarker({												//aggiungo il pin sulla mappa settando tutte le sue funzioni
+                                lat: coord_wgs84_tmp[1],
+                                lng:  coord_wgs84_tmp[0],
+                                title: '',														//il nome della struttura come alt del pin
+                                icon: ico_pin,
+                                click: function(e){
+                                    $.ajax({
+                                        type: 'POST',
+                                        url: 'funzioni/funzioni.php',
+                                        data:{
+                                            'funzione': 'get_prossime_corse',
+                                            'palina':	'MO8537',
+                                            'bacino':	'mo',
+                                            'cerca_palina_opposta':	'si'
+                                        }
+                                    })
+                                    .success(function(corse){
+                                        $('#marker_info').empty().html("<h3 class='colore_blu text_sx'>Stazione FS</h3>");
+                                        stampaBaloon(corse, "MO8537", "Stazione FS", 'marker_info');
+                                    });
+                                    
+                                    $('div.infoBox').remove();		//rimuovo gli altri fumetti
+                                    ib = new InfoBox(myOptions);
+                                    if(MarkerCheRimbalza){												//controllo se un pin sta rimbalzando: se sì
+                                        MarkerCheRimbalza.setAnimation(null);							//fermo il marker che rimbalza
+                                    };
+                                    map.setCenter(e.position.lat(), e.position.lng());	//centro la mappa sopra il marker cliccato
+                                    this.setAnimation(google.maps.Animation.BOUNCE);					//lo faccio rimbalzare
+                                    MarkerCheRimbalza = this;											//salvo l'oggetto del pin che rimbalza affinchè dopo posso farlo fermare
+                                    ib.open(map.map, this);			//apro il fumetto
+                                }
+                            });
+                                                    var coord_wgs84_tmp = (proj4(utm,wgs84,[649456.000, 4960710]));
+                            if(nomePalina == "Carpi Via Nicolo Biondo"){
+                                var ico_pin = "images/quanto_manca/pin_fermata_verde.png";
+                            }else{
+                                var ico_pin = "images/quanto_manca/pin_fermata.png";
+                            }
+                            
+                            map.addMarker({												//aggiungo il pin sulla mappa settando tutte le sue funzioni
+                                lat: coord_wgs84_tmp[1],
+                                lng:  coord_wgs84_tmp[0],
+                                title: '',														//il nome della struttura come alt del pin
+                                icon: ico_pin,
+                                click: function(e){
+                                    $.ajax({
+                                        type: 'POST',
+                                        url: 'funzioni/funzioni.php',
+                                        data:{
+                                            'funzione': 'get_prossime_corse',
+                                            'palina':	'MOC50',
+                                            'bacino':	'mo',
+                                            'cerca_palina_opposta':	'si'
+                                        }
+                                    })
+                                    .success(function(corse){
+                                        $('#marker_info').empty().html("<h3 class='colore_blu text_sx'>Carpi Via Nicolo Biondo</h3>");
+                                        stampaBaloon(corse, "MOC50", "Carpi Via Nicolo Biondo", 'marker_info');
+                                    });
+                                    
+                                    $('div.infoBox').remove();		//rimuovo gli altri fumetti
+                                    ib = new InfoBox(myOptions);
+                                    if(MarkerCheRimbalza){												//controllo se un pin sta rimbalzando: se sì
+                                        MarkerCheRimbalza.setAnimation(null);							//fermo il marker che rimbalza
+                                    };
+                                    map.setCenter(e.position.lat(), e.position.lng());	//centro la mappa sopra il marker cliccato
+                                    this.setAnimation(google.maps.Animation.BOUNCE);					//lo faccio rimbalzare
+                                    MarkerCheRimbalza = this;											//salvo l'oggetto del pin che rimbalza affinchè dopo posso farlo fermare
+                                    ib.open(map.map, this);			//apro il fumetto
+                                }
+                            });
+                                                    var coord_wgs84_tmp = (proj4(utm,wgs84,[649443.000, 4960827]));
+                            if(nomePalina == "Carpi Via Carducci"){
+                                var ico_pin = "images/quanto_manca/pin_fermata_verde.png";
+                            }else{
+                                var ico_pin = "images/quanto_manca/pin_fermata.png";
+                            }
+                            
+                            map.addMarker({												//aggiungo il pin sulla mappa settando tutte le sue funzioni
+                                lat: coord_wgs84_tmp[1],
+                                lng:  coord_wgs84_tmp[0],
+                                title: '',														//il nome della struttura come alt del pin
+                                icon: ico_pin,
+                                click: function(e){
+                                    $.ajax({
+                                        type: 'POST',
+                                        url: 'funzioni/funzioni.php',
+                                        data:{
+                                            'funzione': 'get_prossime_corse',
+                                            'palina':	'MOC51',
+                                            'bacino':	'mo',
+                                            'cerca_palina_opposta':	'si'
+                                        }
+                                    })
+                                    .success(function(corse){
+                                        $('#marker_info').empty().html("<h3 class='colore_blu text_sx'>Carpi Via Carducci</h3>");
+                                        stampaBaloon(corse, "MOC51", "Carpi Via Carducci", 'marker_info');
+                                    });
+                                    
+                                    $('div.infoBox').remove();		//rimuovo gli altri fumetti
+                                    ib = new InfoBox(myOptions);
+                                    if(MarkerCheRimbalza){												//controllo se un pin sta rimbalzando: se sì
+                                        MarkerCheRimbalza.setAnimation(null);							//fermo il marker che rimbalza
+                                    };
+                                    map.setCenter(e.position.lat(), e.position.lng());	//centro la mappa sopra il marker cliccato
+                                    this.setAnimation(google.maps.Animation.BOUNCE);					//lo faccio rimbalzare
+                                    MarkerCheRimbalza = this;											//salvo l'oggetto del pin che rimbalza affinchè dopo posso farlo fermare
+                                    ib.open(map.map, this);			//apro il fumetto
+                                }
+                            });
+                                        });
+            });*/
+            
+            $("#qm_bottone_nuova_ricerca").on("click", function(){
+                $("#form_nuova_ricerca").submit();
+            });
+            
+            
+            
+            /************************************************************************************/
+            /*		FINE FUNZIONI PER APRIRE LA MAPPA DI UNA FERMATA VICINA TIPO ACCORDION		*/
+            /************************************************************************************/
+        });
+    </script></div>					</div>
+                        
+                        <div class="col-md-3">
+        <div class="sx">
+            <div class="row">        
+                <div class="col-xs-12 col-md-11 pull-right">
+                    <a href="mo/trova-percorso"><div class="basebtn blubt"><img src="images/tariffe/ico_percorso.png"><br>Trova il tuo percorso</div></a>
+                </div>
+                <div class="col-xs-12 col-md-11 pull-right">
+                    <a href="mo/quantomanca"><div class="basebtn azzurrobt"><img src="images/tariffe/ico_manca.png"><br>Orari in tempo reale</div></a>
+                </div>
+                <div class="col-xs-12 col-md-11 pull-right">
+                    <a href="mo/tariffe-acquisto-online"><div class="basebtn blubt"><img src="images/tariffe/ico_abb.png"><br>Biglietteria online</div></a>
+                </div>
+                 <div class="col-xs-12 col-md-11 pull-right">
+                    <a href="mo/calcola-tariffa"><div class="basebtn azzurrobt"><img src="images/tariffe/ico_costa.png"><br>Calcola tariffa</div></a>
+                </div>
+                
+                <div class="col-xs-12 col-md-11 pull-right">
+                    <a href="newsletter"><div class="basebtn biancobt"><img src="images/tariffe/ico_newsletter.png"><br>Iscriviti alla newsletter</div></a>
+                </div>
+            </div>
+            <p>&nbsp;</p>
+            <div class="row">
+                        </div>
+        </div>
+    </div>				</div>
+                </div><!--container-->
+        
+                <!-- Button trigger modal -->
+                <button id="apriModalWimb" type="button" style="border:0;background: #fff;" data-toggle="modal" data-target="#modalWimb"></button>
+                
+                <div id="modalWimb" class="modal fade" tabindex="-1" role="dialog">
+                    <div class="modal-dialog modal-lg modal-dialog-centered">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+                                <font class="titolo_pagina">Dov'è il mio bus <sup class="beta">BETA</sup></font>
+                            </div>
+                            <div class="modal-body">
+                                <div class="fluid-width-video-wrapper" style="padding-top: 550%;"><iframe style="width:100%;height:550px;border: 0;" id="fitvid794133"></iframe></div>
+                            </div>
+                            <div class="modal-footer">
+                                <button type="button" class="btn btn-default" data-dismiss="modal">Chiudi</button>
+                            </div>
+                        </div><!-- /.modal-content -->
+                    </div><!-- /.modal-dialog -->
+                </div><!-- /.modal -->
+            </section>
+            
+            <div id="footer">
+        
+        <div class="container footer_box txt_azzurro">
+                <div class="row footer-sitemap">
+                <div class="col-md-3">
+                    <div class="section-title">Linee</div>
+                    <ul class="sections">
+                        <li><a href="mo/linee">Linee</a></li>
+                        <ul>
+                                                        <li><a href="mo/linee#mo1">Urbane</a></li>
+                                                        <li><a href="mo/linee#mo7">Scolastiche Polo Leonardo</a></li>
+                                                        <li><a href="mo/linee#mo4">Urbane di Carpi</a></li>
+                                                        <li><a href="mo/linee#mo5">Urbane di Sassuolo</a></li>
+                                                        <li><a href="mo/linee#mo2">Extraurbane</a></li>
+                                                        <li><a href="mo/linee#mo6">Urbane di Pavullo</a></li>
+                                                </ul>
+                        <li><a href="mo/mappe-e-guide-orari">Mappe</a></li>
+                        <ul>
+                                                                <li><a href="materiale/mappe/SETA_Mappa_Modena.pdf" target="_blank">Mappa urbana di Modena</a></li>
+                                                                            <li><a href="materiale/TPLCarpi.pdf" target="_blank">Mappa urbana di Carpi</a></li>
+                                                                            <li><a href="materiale/mappe/Mappa_BUS_Sassuolo.pdf" target="_blank">Mappa urbana di Sassuolo</a></li>
+                                                                <li><a href="mo/Prontobus">Prontobus di Modena</a></li>
+                        </ul>
+                                                    <li><a href="mo/mappe-e-guide-orari">Guide orari</a></li>
+                                                    <li><a href="mo/trova-percorso">Trova il tuo percorso</a></li>
+                        <li><a href="mo/quantomanca">Orari in tempo reale</a></li>
+                        <li><a href="mo/wimb">Dov'è il mio bus</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-3">
+                    <div class="section-title">Titoli di viaggio</div>
+                    <ul class="sections">
+                        <li><a href="mo/biglietti">Biglietti</a></li>
+                        <li><a href="mo/abbonamenti">Abbonamenti</a></li>
+                        <li><a href="mo/sistema-tariffario">Sistema Tariffario</a></li>
+                        <li><a href="mo/dove-acquistare">Dove acquistare</a></li>
+                        <ul>
+                            <li><a href="mo/tariffe-acquisto-online">Biglietteria online</a></li>
+                            <li><a href="mo/app">App</a></li>
+                            <li><a href="mo/dove-acquistare#biglietterie">Biglietterie</a></li>
+                            <li><a href="mo/dove-acquistare#rivendite_autorizzate">Rivendite autorizzate</a></li>
+                            <li><a href="mo/dove-acquistare#emettitrici">Emettitrici a terra</a></li>
+                            <li><a href="mo/dove-acquistare#ricarica">Rete bancomat per ricarica</a></li>
+                            <li><a href="mo/biglietteria-mobile">Biglietteria Mobile</a></li>
+                        </ul>
+                        <li><a href="mo/calcola-tariffa">Calcola tariffa</a></li>
+                        <li><a href="mo/voucher">Rimborsi Voucher - Covid19</a></li>
+                        <li><a href="mo/rimborsi-grande">Rimborsi abbonamenti Child-GRANDE</a></li>
+                        <li><a href="mo/rimborsi-idrocarburi">Fondo idrocarburi - Rimborsi</a></li>
+                        <li><a href="mo/estratto-conto-abbonamento">Estratto conto abbonamento</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-3">
+                    <div class="section-title">Altri servizi</div>
+                    <ul class="sections">
+                        <li><a href="mo/Taxibus">Taxibus</a></li>
+                        <li><a href="mo/Prontobus">Prontobus</a></li>
+                        <li><a href="mo/Bici-a-bordo">Bici a bordo</a></li>
+                        <li><a href="mo/Servizi-di-stazione">Serivizi Di Stazione</a></li>
+                        <li><a href="mo/Ferrovie">Ferrovie</a></li>
+                        <!--<li><a href="mo/paga-sanzioni">Pagamento Sanzioni</a></li>-->
+                        <li><a href="mo/pubblicità-sui-mezzi">Pubblicità Sui Mezzi</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-3">
+                    <div class="section-title">Diritti e doveri dei viaggiatori</div>
+                    <ul class="sections">
+                        <li><a href="mo/regolamento-di-trasporto">Regolamento Di Trasporto</a></li>
+                        <li><a href="mo/sanzioni-e-ricorsi">Sanzioni e Ricorsi</a></li>
+                        <li><a href="mo/richieste">Segnalazioni</a></li>
+                        <li><a href="mo/carta-dei-servizi">Carta Dei Servizi</a></li>
+                        <li><a href="mo/codice-etico">Codice Etico</a></li>
+                        <li><a href="mo/privacy-policy">Privacy</a></li>
+                        <li><a href="http://www.comitatoutentitplmo.it/" target="_blank">Comitato Utenti Di Modena</a></li>
+                        <li><a href="mo/link-utili">Link Utili</a></li>
+                        <li><a href="mo/autorita-regolazione-trasporti">Autorità di Regolazione dei Trasporti</a></li>
+                    </ul>
+                </div>
+            </div>
+                <div class="row home-site">
+                <div class="page">
+                                    <a href="chi-siamo/4/L'Azienda.html">CHI SIAMO</a>
+                    <div class="bottom-line"></div>
+                </div>
+                <div class="page">
+                    <a href="comunicati">COMUNICATI STAMPA</a>
+                    <div class="bottom-line"></div>
+                </div>
+                <div class="page">
+                    <a href="areariservata">AREA GIORNALISTI</a>
+                    <div class="bottom-line"></div>
+                </div>
+                <div class="page">
+                    <a href="newsletter">INFOSETA</a>
+                    <div class="bottom-line"></div>
+                </div>
+                <div class="page">
+                    <a href="homepage">HOME SETA</a>
+                    <div class="bottom-line"></div>
+                </div>
+            </div>
+            
+            <div class="clear margin_bottom_m">
+                <table class="dx">
+                    <tbody><tr>
+                        <td align="right" valign="middle" class="no-border">
+                            <a href="mo/privacy-policy" class="link_footer_area_riservata" title="Privacy">Privacy</a>
+                        </td>
+                        <td width="20px" valign="middle" class="no-border">
+                        </td>
+                        <td align="right" valign="middle" class="no-border">
+                            <a href="https://intranet.setaweb.it/" class="link_footer_area_riservata" target="_blank" title="Area riservata" rel="nofollow">Area riservata</a>
+                        </td>
+                        <td width="40px" valign="middle" class="no-border">
+                            <a href="https://intranet.setaweb.it/" class="link_footer_area_riservata" target="_blank" title="Area riservata" rel="nofollow"><img src="images/ico_lucchetto.png" title="" alt=""></a>
+                        </td>
+                    </tr>
+                </tbody></table>
+            </div>
+            
+            <div class="centrata clear">
+                <b>Sede legale e amministrativa</b> Strada Sant'Anna, 210 - 41122 Modena Tel. + 39 059 416 711 - Fax + 39 059 416 850, <a class="riservato_personale" href="mailto:segreteria@pec.setaweb.it">segreteria@pec.setaweb.it</a><br>
+                <b>Sede operativa di Modena</b> Strada Sant'Anna, 210 - 41122; <b>Sede operativa di Piacenza</b> Via Arda, 21 - 29122; <b>Sede operativa di Reggio Emilia</b> Via del Chionso, 50 - 42122<br>
+                <b>SETA S.p.A.</b> Società Emiliana Trasporti Autofiloviari - R.I. di Modena/C.F./P.I. 02201090368 REA 273353 - Cap. soc. i.v. € 16.663.416,00<br>
+            </div>
+            
+        </div>
+        
+    </div>
+    
+    <script type="text/javascript">
+    
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-1627038-45']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    
+    </script>	
+    </body>

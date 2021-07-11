@@ -1,0 +1,47 @@
+[
+    {
+        "orario": "16:42"
+    },
+    {
+        "linea": "2",
+        "n_linea": "2",
+        "pianificato": "15:44",
+        "destinazione": "SAN DONNINO",
+        "tipo_linea": "u",
+        "news": "",
+        "temporeale": "15:41",
+        "num_bus": "288",
+        "min_all_arrivo_val": 0
+    },
+    {
+        "news": "",
+        "linea": "2",
+        "n_linea": "2",
+        "pianificato": "15:44",
+        "destinazione": "SAN CATALDO",
+        "tipo_linea": "u",
+        "temporeale": "15:43",
+        "num_bus": "287",
+        "min_all_arrivo_val": 1
+    },
+    {
+        "linea": "4",
+        "n_linea": "4",
+        "pianificato": "15:42",
+        "destinazione": "LATINA",
+        "tipo_linea": "u",
+        "news": "",
+        "temporeale": "15:43",
+        "num_bus": "278",
+        "min_all_arrivo_val": 1
+    },
+    {
+        "news": "",
+        "linea": "11A",
+        "n_linea": "11A",
+        "pianificato": "15:44",
+        "destinazione": "ZODIACO",
+        "tipo_linea": "u",
+        "min_all_arrivo_val": 9999
+    }
+]

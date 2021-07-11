@@ -1,0 +1,45 @@
+[
+    {
+        "orario": "16:22"
+    },
+    {
+        "linea": "670",
+        "n_linea": "670",
+        "pianificato": "16:23",
+        "destinazione": "SASSUOLO",
+        "tipo_linea": "e",
+        "news": "",
+        "temporeale": "16:23",
+        "num_bus": "353",
+        "min_all_arrivo_val": 1
+    },
+    {
+        "linea": "5taxi",
+        "n_linea": "5taxi",
+        "pianificato": "16:25",
+        "destinazione": "GANACETO",
+        "tipo_linea": "u",
+        "news": "",
+        "min_all_arrivo_val": 9999
+    },
+    {
+        "linea": "11A",
+        "n_linea": "11A",
+        "pianificato": "16:29",
+        "destinazione": "S. ANNA",
+        "tipo_linea": "u",
+        "news": "",
+        "min_all_arrivo_val": 9999
+    },
+    {
+        "linea": "4",
+        "n_linea": "4",
+        "pianificato": "16:38",
+        "destinazione": "GALILEI",
+        "tipo_linea": "u",
+        "news": "",
+        "temporeale": "16:36",
+        "num_bus": "278",
+        "min_all_arrivo_val": 14
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "orario": "16:46"
+    },
+    {
+        "linea": "1",
+        "n_linea": "1",
+        "pianificato": "15:46",
+        "destinazione": "MARINUZZI",
+        "tipo_linea": "u",
+        "news": "",
+        "temporeale": "15:49",
+        "num_bus": "174",
+        "min_all_arrivo_val": 3
+    },
+    {
+        "linea": "1",
+        "n_linea": "1",
+        "pianificato": "15:44",
+        "destinazione": "V. ZETA - ARIETE",
+        "tipo_linea": "u",
+        "news": "",
+        "temporeale": "15:51",
+        "num_bus": "172",
+        "min_all_arrivo_val": 5
+    },
+    {
+        "news": "",
+        "linea": "13",
+        "n_linea": "13",
+        "pianificato": "15:52",
+        "destinazione": "S. ANNA",
+        "tipo_linea": "u",
+        "temporeale": "15:52",
+        "num_bus": "282",
+        "min_all_arrivo_val": 6
+    },
+    {
+        "news": "",
+        "linea": "11A",
+        "n_linea": "11A",
+        "pianificato": "15:58",
+        "destinazione": "S. ANNA",
+        "tipo_linea": "u",
+        "min_all_arrivo_val": 9999
+    }
+]
